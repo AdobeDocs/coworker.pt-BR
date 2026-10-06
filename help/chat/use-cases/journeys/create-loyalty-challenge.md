@@ -25,7 +25,7 @@ Nesta demonstração, você verá como a Fidelidade do Adobe Journey Optimizer (
  
 O vídeo mostra o plug-in de Fidelidade e sua habilidade de Gerenciamento de desafios, um recurso alimentado por IA que ajuda os profissionais de marketing a criar, editar e gerenciar desafios de fidelidade usando linguagem natural em vez de configurar manualmente cada configuração na interface do usuário.
 
->[!VIDEO](https://video.tv.adobe.com/v/3496528/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3496542/?captions=por_br&learn=on&enablevpops)
 
 ## Consulte também
 

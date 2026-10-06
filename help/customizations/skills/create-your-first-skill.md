@@ -31,7 +31,7 @@ Em vez de criar relatórios e interpretar métricas manualmente, o analista trab
 
 O resultado é um fluxo de trabalho repetível que pode ser executado sob demanda com um prompt simples.
 
->[!VIDEO](https://video.tv.adobe.com/v/3502323/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3502336/?captions=por_br&learn=on&enablevpops)
 
 ## Transformar a análise em uma habilidade reutilizável
 

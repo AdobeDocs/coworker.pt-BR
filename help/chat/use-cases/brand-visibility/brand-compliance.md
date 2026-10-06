@@ -28,4 +28,4 @@ Por exemplo, o Colaborador pode revisar o conteúdo gerado automaticamente, como
 
 O colega de trabalho não apenas identifica problemas, mas oferece sugestões acionáveis. Por exemplo, se uma legenda for muito genérica ou não tiver uma call to action, ela fornecerá uma versão revisada que atende aos padrões da sua marca, completa com tags relevantes. Esse processo simplifica a criação de conteúdo e garante a conformidade da marca com o mínimo esforço.
 
->[!VIDEO](https://video.tv.adobe.com/v/3502691/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3502706/?captions=por_br&learn=on&enablevpops)

@@ -17,7 +17,7 @@ ht-degree: 4%
 
 Este vídeo apresenta plug-ins e explica como eles expandem o [!DNL Coworker] com novos recursos. Você aprenderá o que é um plug-in, quais componentes ele contém, como os plug-ins se relacionam com habilidades e servidores MCP e como instalar, usar e remover plug-ins do seu espaço de trabalho.
 
->[!VIDEO](https://video.tv.adobe.com/v/3503656/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3503661/?captions=por_br&learn=on&enablevpops)
 
 ## O que é um plug-in?
 

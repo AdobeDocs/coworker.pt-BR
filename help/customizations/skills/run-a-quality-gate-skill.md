@@ -21,7 +21,7 @@ O desafio é que essas verificações dependem frequentemente de conhecimentos t
 
 Neste vídeo, você verá como uma habilidade personalizada de colega de trabalho atua como um Portal de ativação, validando automaticamente os públicos-alvo em relação aos padrões de ativação da sua organização antes que eles sejam transferidos para a jusante.
 
->[!VIDEO](https://video.tv.adobe.com/v/3503162/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3503169/?captions=por_br&learn=on&enablevpops)
 
 ## Exemplo de habilidade do portal de qualidade de ativação
  

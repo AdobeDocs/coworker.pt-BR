@@ -23,7 +23,7 @@ ht-degree: 1%
 
 Use as ferramentas de sandbox para habilidades essenciais a fim de mover metadados de objetos (incluindo esquemas e públicos) em ambientes Adobe Experience Platform, descrevendo o que você deseja realizar em linguagem natural. Com o CX Coworker, você pode descobrir os metadados necessários, identificar dependências automaticamente, criar pacotes de migração e migrar objetos por meio de uma experiência de conversação.
 
->[!VIDEO](https://video.tv.adobe.com/v/3496706?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3496712?captions=por_br&learn=on)
 
 ## Pré-requisitos {#prerequisites}
 

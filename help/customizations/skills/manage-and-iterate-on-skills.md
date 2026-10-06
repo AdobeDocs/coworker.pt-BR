@@ -17,7 +17,7 @@ ht-degree: 0%
 
 As habilidades de IA reutilizáveis ajudam as equipes a executar tarefas consistentes e repetíveis. No entanto, à medida que as necessidades dos negócios evoluem, essas habilidades também precisam evoluir. Este vídeo demonstra uma abordagem prática para gerenciar todo o ciclo de vida das habilidades de IA focadas em governança, desde a avaliação e o aprimoramento até a validação e a retirada.
 
->[!VIDEO](https://video.tv.adobe.com/v/3503566/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3503570/?captions=por_br&learn=on)
 
 ## Por que uma linha de base é importante
 

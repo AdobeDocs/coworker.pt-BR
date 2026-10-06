@@ -114,7 +114,7 @@ O Co-worker Campaigns é um produto em desenvolvimento ativo. Veja o que você d
 
 ## Visão geral do vídeo
 
->[!VIDEO](https://video.tv.adobe.com/v/3492807?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3492811?captions=por_br&learn=on){transcript=true}
 
 
 Novos recursos serão enviados durante a avaliação. Seus comentários ajudam a moldar o que vem a seguir. Envie feedback por meio do ícone de feedback no produto, no cabeçalho.

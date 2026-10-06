@@ -24,4 +24,4 @@ ht-degree: 0%
 
 Auditoria de como públicos-alvo, jornadas, conjuntos de dados e destinos se conectam normalmente é um exercício manual e demorado. Neste vídeo, saiba como o Coworker pode gerar uma visão operacional completa do seu ambiente Adobe Experience Platform (AEP), compará-lo com as práticas recomendadas do setor e usar essas descobertas para criar um novo público-alvo, tudo em uma única conversa.
 
->[!VIDEO](https://video.tv.adobe.com/v/3496848/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3496871/?captions=por_br&learn=on&enablevpops)

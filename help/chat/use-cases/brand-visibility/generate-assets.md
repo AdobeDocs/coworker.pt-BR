@@ -27,4 +27,4 @@ Por exemplo, para criar uma publicação no Instagram, você pode fornecer uma b
 
 O colaborador também oferece flexibilidade para personalização adicional. Você pode modificar ativos, criar variações ou adaptar conteúdo para diferentes formatos, como histórias do Instagram. Essa abordagem permite que você se concentre em suas metas enquanto o Colaborador gerencia os detalhes técnicos.
 
->[!VIDEO](https://video.tv.adobe.com/v/3502692/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3502714/?captions=por_br&learn=on&enablevpops)
