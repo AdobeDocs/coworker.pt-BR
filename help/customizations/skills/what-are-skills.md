@@ -45,6 +45,7 @@ Muitas organizações executam os mesmos tipos de tarefas repetidamente, incluin
 
 As habilidades ajudam as equipes a capturar e reutilizar essas práticas recomendadas sem explicar manualmente o processo a cada vez.
  
+
 ## Habilidades e governança de dados
 
 As habilidades não armazenam dados do cliente.

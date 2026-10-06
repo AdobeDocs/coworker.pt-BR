@@ -162,4 +162,4 @@ Melhor para: qualquer público-alvo que ficou quieto.
 
 ## Pronto para criar?
 
-Escolha um caso de uso acima, visite [Criar uma campanha por email](./) para o passo a passo completo e experimente-o.
+Escolha um caso de uso acima, visite [Criar uma campanha por email] (./) para o passo a passo completo e experimente-o.
