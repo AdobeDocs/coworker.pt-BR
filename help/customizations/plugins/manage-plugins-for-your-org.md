@@ -54,7 +54,7 @@ ht-degree: 0%
 
 Saiba como os administradores podem estender o Adobe Co-worker Chat com plug-ins aprovados, gerenciar mercados e controlar o acesso a habilidades e ferramentas conectadas, mantendo o alinhamento com as permissões existentes do Adobe.
 
->[!VIDEO](https://video.tv.adobe.com/v/3504182/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3504186/?captions=por_br&learn=on&enablevpops)
 
 ## O que você vai aprender
  

@@ -45,7 +45,7 @@ Para validar dados como parte da atualização, é necessário:
 
 Você não precisa saber como a sua implementação foi arquitetada. A habilidade detecta automaticamente se a implementação do Customer Journey Analytics usa o Analytics Source Connector ou uma nova implementação do Experience Platform Web SDK.
 
->[!VIDEO](https://video.tv.adobe.com/v/3496846/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3496854/?captions=por_br&learn=on&enablevpops)
 
 ## Iniciar uma sessão de validação
 
