@@ -2,15 +2,15 @@
 title: Valide a implementação de streaming de mídia com o Co-worker
 description: Saiba como a habilidade de validação de mídia de transmissão do Coworker verifica a configuração, as sessões e os logs para confirmar se a implementação está sendo rastreada corretamente.
 hold: true
-source-git-commit: 94cf399a48d13ee83c702804b50fdccd4baa9d71
+source-git-commit: 2bf31c1348054a16ba7e7c0c26c0ff913634aa27
 workflow-type: tm+mt
-source-wordcount: '1301'
+source-wordcount: '1304'
 ht-degree: 0%
 ---
 
 # Valide a implementação de mídia de transmissão com o Colaborador
 
-O Colaborador inclui uma habilidade de validação de mídia de transmissão que verifica a implementação de mídia de transmissão do Adobe (análise de vídeo e áudio) na Edge Network, alimentando o Customer Journey Analytics e/ou o Adobe Analytics. Em vez de fazer referência manual ao Assurance, à configuração do conjunto de dados, aos grupos de campos do esquema XDM, à configuração da Visualização de dados da Customer Journey Analytics e aos logs de rede brutos, você obtém um único relatório de validação.
+O Adobe CX Enterprise Coworker inclui uma habilidade de validação de mídia de transmissão que verifica a implementação de mídia de transmissão do Adobe (Análise de vídeo e áudio) na Edge Network, alimentando o Customer Journey Analytics e/ou o Adobe Analytics. Em vez de fazer referência manual ao Assurance, à configuração do conjunto de dados, aos grupos de campos do esquema XDM, à configuração da Visualização de dados da Customer Journey Analytics e aos logs de rede brutos, você obtém um único relatório de validação.
 
 Se estiver implementando ou solucionando problemas de rastreamento de transmissão de mídia, você pode usar essa habilidade para confirmar se a implementação está configurada corretamente, coletando dados conforme esperado e capturando o que pretendia rastrear, tudo em uma única conversa no Chat do colaborador.
 

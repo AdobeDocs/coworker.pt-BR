@@ -2,15 +2,15 @@
 title: Gerar uma lista de verificação de implementação em projetos de colaboração
 description: Saiba como o Co-worker Projects gera uma lista de verificação de implementação pré-preenchida a partir do seu plano de Guias de implementação, com etapas que você pode atribuir e rastrear.
 hold: true
-source-git-commit: 94cf399a48d13ee83c702804b50fdccd4baa9d71
+source-git-commit: 2bf31c1348054a16ba7e7c0c26c0ff913634aa27
 workflow-type: tm+mt
-source-wordcount: '698'
-ht-degree: 1%
+source-wordcount: '703'
+ht-degree: 0%
 ---
 
 # Gerar uma lista de verificação de implementação com Projetos de colaboração
 
-Os Projetos de colaboração podem gerar um projeto de Lista de verificação de implementação, pré-preenchido com as etapas solicitadas do plano do guia de implementação para Customer Journey Analytics, uma atualização do Adobe Analytics para o Customer Journey Analytics, Content Analytics (ACA), Marketing Campaign Analytics (MCA) ou Mídia de transmissão. O Colaborador automatiza ou auxilia com o máximo de etapas tecnicamente possível, para que você e sua equipe tenham um único local rastreável para trabalhar na implementação.
+O Adobe CX Enterprise Coworker pode gerar um projeto de Lista de verificação de implementação em Projetos de cooperação, pré-preenchido com as etapas solicitadas do plano do guia de implementação para Customer Journey Analytics, uma atualização do Adobe Analytics para o Customer Journey Analytics, Content Analytics (ACA), Marketing Campaign Analytics (MCA) ou Mídia de transmissão. O Colaborador automatiza ou auxilia com o máximo de etapas tecnicamente possível, para que você e sua equipe tenham um único local rastreável para trabalhar na implementação.
 
 Se você estiver liderando uma implementação, executando etapas técnicas ou precisar apenas de visibilidade do progresso, poderá usar essa lista de verificação para atribuir trabalho, acompanhar o status e colaborar com a sua equipe, sem sair do Co-Worker.
 

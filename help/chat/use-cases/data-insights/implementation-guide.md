@@ -2,15 +2,15 @@
 title: Planeje sua implementação do Customer Journey Analytics ou de mídia de transmissão com o colega
 description: Saiba como as habilidades do guia de implementação do Colaborador transformam uma conversa de descoberta em um plano de implementação personalizado e ordenado com listas de verificação exportáveis.
 hold: true
-source-git-commit: 94cf399a48d13ee83c702804b50fdccd4baa9d71
+source-git-commit: 2bf31c1348054a16ba7e7c0c26c0ff913634aa27
 workflow-type: tm+mt
-source-wordcount: '1236'
+source-wordcount: '1239'
 ht-degree: 1%
 ---
 
 # Planeje sua implementação com o Colaborador
 
-O Colaborador inclui cinco habilidades de guia de implementação, uma para cada superfície de produto: Customer Journey Analytics, uma atualização do Adobe Analytics para o Customer Journey Analytics, Content Analytics (ACA), Marketing Campaign Analytics (MCA) e mídia de transmissão. Cada habilidade transforma uma breve conversa de descoberta em um plano de implementação personalizado com reconhecimento de dependência, completo com uma lista de verificação interativa e exportações prontas para uso, tudo em uma única conversa de bate-papo com colegas de trabalho.
+O Adobe CX Enterprise Coworker inclui cinco habilidades de guia de implementação, uma para cada superfície de produto: Customer Journey Analytics, uma atualização do Adobe Analytics para o Customer Journey Analytics, Content Analytics (ACA), Marketing Campaign Analytics (MCA) e Mídia de streaming. Cada habilidade transforma uma breve conversa de descoberta em um plano de implementação personalizado com reconhecimento de dependência, completo com uma lista de verificação interativa e exportações prontas para uso, tudo em uma única conversa de bate-papo com colegas de trabalho.
 
 Se você estiver criando ou migrando para qualquer um desses produtos, poderá usar essas habilidades para obter um plano ordenado e passo a passo, sem pesquisar manualmente os requisitos de implementação do Adobe ou criar um plano de projeto do zero.
 
