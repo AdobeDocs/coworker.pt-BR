@@ -255,7 +255,7 @@ Recupere os resultados mais recentes da avaliação de verificação de integrid
 
 >[!NOTE]
 >
->Essa ferramenta recupera apenas os resultados da avaliação. Para corrigir um problema sinalizado, use o painel de detalhes da verificação de integridade na interface do usuário do [!DNL Experience Platform]. Consulte [Verificações de integridade](https://experienceleague.adobe.com/en/docs/experience-platform/run-and-operate/health-checks). As orientações de remediação automática para verificações de integridade com suporte estão disponíveis como uma habilidade no [CX Coworker Chat](../chat/overview.md).
+>Essa ferramenta recupera apenas os resultados da avaliação. Para corrigir um problema sinalizado, use o painel de detalhes da verificação de integridade na interface do usuário do [!DNL Experience Platform]. Consulte [Verificações de integridade](https://experienceleague.adobe.com/pt-br/docs/experience-platform/run-and-operate/health-checks). As orientações de remediação automática para verificações de integridade com suporte estão disponíveis como uma habilidade no [CX Coworker Chat](../chat/overview.md).
 
 **Recursos:** lista todos os resultados da verificação de integridade da sandbox atual, obtém resultados para uma verificação nomeada
 
