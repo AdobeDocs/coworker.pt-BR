@@ -42,9 +42,9 @@ COMO
 
    CAPTURA DE TELA
 
-   >>
+   &#x200B;>>
    >
-   Se o seu espaço em BRANCO permitir o upload em massa dos campos, você poderá clicar em Exportar CSV para exportar todos os campos.
+   >Se o seu espaço em BRANCO permitir o upload em massa dos campos, você poderá clicar em Exportar CSV para exportar todos os campos.
 
 1. Quando terminar, clique em **Adicionei estes registros** em Campanhas de Colaborador para continuar.
 
