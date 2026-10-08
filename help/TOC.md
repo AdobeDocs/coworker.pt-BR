@@ -5,10 +5,9 @@ user-guide-description: Saiba mais sobre o Adobe CX Enterprise Coworker, um comp
 description: Saiba mais sobre as ferramentas de IA no CX Enterprise. Melhore o conhecimento do seu produto e obtenha insights operacionais usando IA no CX Enterprise.
 solution: Experience Cloud
 role: Admin,User,Developer,Leader
-hide: true
-source-git-commit: 787ca195c0e779575bd17a67ffac16941dc5135a
+source-git-commit: 8a3d0d693aebf0a40fcece3fde80558f6d02696c
 workflow-type: tm+mt
-source-wordcount: '222'
+source-wordcount: '228'
 ht-degree: 18%
 ---
 
@@ -29,6 +28,8 @@ ht-degree: 18%
       - [Validar dados do AA para o CJA ao atualizar](./chat/use-cases/data-insights/data-validation-aa-cja.md)
       - [Validar a qualidade do conjunto de dados para os relatórios do CJA](./chat/use-cases/data-insights/validate-dataset-quality-for-cja.md)
       - [Validar os dados do Experience Platform](./chat/use-cases/data-insights/data-validation-aep.md)
+    - Integração de dados {#data-onboarding}
+      - {hide-from-toc}[Integrar dados com o Colaborador](./agents/data-onboarding-skill.md)
     - Gerenciamento de dados {#data-management}
       - [Gerenciar retenção de data lake](./chat/use-cases/data-management/manage-data-lake-retention.md)
     - Públicos-alvo {#audiences}
