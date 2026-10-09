@@ -7,9 +7,9 @@ product_v2:
 feature_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: CX Enterprise Coworker
-source-git-commit: 2d4922c334bcc2ec93dec46098a9c021623034ad
+source-git-commit: 1071cb1d9d08d89592f14f05ec9e32087ad937f3
 workflow-type: tm+mt
-source-wordcount: '7086'
+source-wordcount: '7196'
 ht-degree: 6%
 ---
 # Casos de uso do chat do colaborador {#use-cases}
@@ -149,6 +149,7 @@ O Chat do Colaborador permite consultar, analisar e agir nos dados do [!DNL Expe
 | [Analisar fallout de jornada](https://experienceleague.adobe.com/pt-br/docs/journey-optimizer/using/orchestrate-journeys/journeys-coworker-skills#journey-analyze){target="_blank"} | Identifique onde e por que os clientes caem durante uma jornada e detecte padrões de comportamento que levam à desvinculação | `journey-analyze-fallout` | Adobe Journey Optimizer (AJO) | &quot;Onde as pessoas estão saindo na minha jornada de Reengajamento?&quot; <br> &quot;Quais nós na jornada X têm o fallout mais alto?&quot; |
 | [Analisar erros de ação personalizada](https://experienceleague.adobe.com/pt-br/docs/journey-optimizer/using/orchestrate-journeys/journeys-coworker-skills#journey-analyze){target="_blank"} | Identifique quando as ações personalizadas estão falhando ou as taxas de erro sobem em uma jornada e diagnostique as causas básicas antes que as falhas evoluam para uma interrupção mais ampla | `journey-analyze-custom-action` | Adobe Journey Optimizer (AJO) | &quot;Por que as ações personalizadas estão falhando na minha jornada de Inscrição de Fidelidade?&quot; <br> &quot;Mostrar a taxa de erro para a ação personalizada ExternalPush na minha jornada de Boas-vindas.&quot; |
 | [Detectar anomalias na jornada](https://experienceleague.adobe.com/pt-br/docs/journey-optimizer/using/orchestrate-journeys/journeys-coworker-skills#journey-analyze){target="_blank"} | Detectar e confirmar picos, quedas ou linhas achatadas inesperados nas contagens de entrada, saída ou envio de uma jornada em relação às linhas de base históricas e destacar uma causa raiz provável | `journey-analyze-anomaly` | Adobe Journey Optimizer (AJO) | &quot;Por que as entradas da minha jornada de Boas-vindas caíram ontem?&quot; <br> &quot;As saídas tiveram um pico na jornada de Abandono do carrinho esta semana?&quot; |
+| [Análise de Desempenho de Negócios](https://experienceleague.adobe.com/pt-br/docs/journey-optimizer/using/orchestrate-journeys/journeys-coworker-skills#journey-analyze){target="_blank"} | Analise o desempenho da jornada e identifique oportunidades concretas de otimização para jornadas com baixo desempenho. Tendências de superfície, gargalos e prováveis impulsionadores por trás de resultados mais baixos para que você possa melhorar o engajamento e a conversão. Obtenha recomendações acionáveis para ajustar o design da jornada, o direcionamento ou a estratégia de mensagens com base em insights de desempenho dos negócios. | Jornada análise | Adobe Journey Optimizer (AJO) | &quot;Analise o desempenho da jornada [Nome da Jornada] e recomende otimizações.&quot; <br> &quot;Por que o desempenho da jornada [Nome da Jornada] é baixo em comparação com o mês passado?&quot; <br> &quot;O que devo alterar para melhorar o desempenho da jornada [Nome da Jornada]?&quot; <br> &quot;Quais partes da jornada [Nome da Jornada] provavelmente estão limitando a conversão ou o envolvimento?&quot; |
 | [Comparar versões do jornada](https://experienceleague.adobe.com/pt-br/docs/journey-optimizer/using/orchestrate-journeys/journeys-coworker-skills#journey-analyze){target="_blank"} | Comparar duas versões do jornada e revisar uma comparação estruturada de alterações de nó, conexão e propriedade no nível da jornada | `journey-analyze-version-comparison` | Adobe Journey Optimizer (AJO) | &quot;Comparar versões 2 e 3 da minha jornada de Boas-vindas&quot; <br> &quot;O que mudou entre essas duas versões do jornada?&quot; |
 
 **Informações relacionadas**
