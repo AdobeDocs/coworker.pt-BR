@@ -1,7 +1,13 @@
 ---
 title: Gerenciar retenção de data lake
 description: Saiba como usar o CX Coworker para identificar dados do evento de experiência que merecem ser otimizados, analisar o uso do conjunto de dados e o impacto da retenção e gerenciar as políticas de retenção do data lake.
-source-git-commit: dbee38135a5491fd21b65fdbb70ba60d949d7560
+role: Developer
+level: Beginner, Intermediate
+doc-type: Feature Video
+duration: 160
+last-substantial-update: 2026-10-09
+jira: KT-22762
+source-git-commit: 7ae11e6865d847c6a3c316ffa26b2e4303f7e40d
 workflow-type: tm+mt
 source-wordcount: '1316'
 ht-degree: 1%
@@ -9,6 +15,8 @@ ht-degree: 1%
 # Gerenciar retenção de data lake
 
 Use o CX Coworker para entender o valor dos dados do Evento de experiência em sua sandbox e identificar os dados que podem se beneficiar da otimização. Você pode começar com uma solicitação ampla, como pedir ao Coworker para otimizar seus dados de sandbox ou limpar conjuntos de dados. O Colaborador usa o Agente de gerenciamento de dados para exibir conjuntos de dados que merecem ser investigados, analisar como ativamente um conjunto de dados é usado, modelar o impacto de um período de retenção e, quando apropriado, ajudar você a gerenciar sua política de retenção de data lake.
+
+>[!VIDEO](https://video.tv.adobe.com/v/3504100?captions=por_br&learn=on)
 
 ## Antes de começar {#before-you-begin}
 
