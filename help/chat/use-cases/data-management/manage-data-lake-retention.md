@@ -16,7 +16,7 @@ ht-degree: 1%
 
 Use o CX Coworker para entender o valor dos dados do Evento de experiência em sua sandbox e identificar os dados que podem se beneficiar da otimização. Você pode começar com uma solicitação ampla, como pedir ao Coworker para otimizar seus dados de sandbox ou limpar conjuntos de dados. O Colaborador usa o Agente de gerenciamento de dados para exibir conjuntos de dados que merecem ser investigados, analisar como ativamente um conjunto de dados é usado, modelar o impacto de um período de retenção e, quando apropriado, ajudar você a gerenciar sua política de retenção de data lake.
 
->[!VIDEO](https://video.tv.adobe.com/v/3504095?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3504100?captions=por_br&learn=on)
 
 ## Antes de começar {#before-you-begin}
 
