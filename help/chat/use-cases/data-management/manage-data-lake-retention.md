@@ -1,7 +1,13 @@
 ---
 title: Gerenciar retenção de data lake
 description: Saiba como usar o CX Coworker para identificar dados do evento de experiência que merecem ser otimizados, analisar o uso do conjunto de dados e o impacto da retenção e gerenciar as políticas de retenção do data lake.
-source-git-commit: dbee38135a5491fd21b65fdbb70ba60d949d7560
+role: Developer
+level: Beginner, Intermediate
+doc-type: Feature Video
+duration: 160
+last-substantial-update: 2026-10-09
+jira: KT-22762
+source-git-commit: 7ae11e6865d847c6a3c316ffa26b2e4303f7e40d
 workflow-type: tm+mt
 source-wordcount: '1316'
 ht-degree: 1%
@@ -10,9 +16,11 @@ ht-degree: 1%
 
 Use o CX Coworker para entender o valor dos dados do Evento de experiência em sua sandbox e identificar os dados que podem se beneficiar da otimização. Você pode começar com uma solicitação ampla, como pedir ao Coworker para otimizar seus dados de sandbox ou limpar conjuntos de dados. O Colaborador usa o Agente de gerenciamento de dados para exibir conjuntos de dados que merecem ser investigados, analisar como ativamente um conjunto de dados é usado, modelar o impacto de um período de retenção e, quando apropriado, ajudar você a gerenciar sua política de retenção de data lake.
 
+>[!VIDEO](https://video.tv.adobe.com/v/3504095?learn=on)
+
 ## Antes de começar {#before-you-begin}
 
-Verifique se você está trabalhando na sandbox que contém os conjuntos de dados que deseja revisar. Você também precisa de acesso ao Agente de gerenciamento de dados e às permissões necessárias do Adobe Experience Platform. Consulte [pré-requisitos do Agente de Gerenciamento de Dados](https://experienceleague.adobe.com/pt-br/docs/cx-enterprise-ai/experience-cloud-ai/agents/data-management#prerequisites).
+Verifique se você está trabalhando na sandbox que contém os conjuntos de dados que deseja revisar. Você também precisa de acesso ao Agente de gerenciamento de dados e às permissões necessárias do Adobe Experience Platform. Consulte [pré-requisitos do Agente de Gerenciamento de Dados](https://experienceleague.adobe.com/en/docs/cx-enterprise-ai/experience-cloud-ai/agents/data-management#prerequisites).
 
 ## Otimizar dados em sua sandbox {#optimize-data-in-your-sandbox}
 
@@ -26,7 +34,7 @@ Para decidir por onde começar, peça ao Colaborador para identificar conjuntos 
 
 Depois de restringir a lista, use a habilidade Analisar uso do conjunto de dados para descobrir como ativamente um conjunto de dados específico é usado.
 
-Nem todos os conjuntos de dados não utilizados ou abandonados exibidos por essa habilidade são um bom candidato para uma política de retenção de data lake. Se precisar remover um conjunto de dados inteiro ou gerenciar dados em outro armazenamento do Experience Platform, consulte [Escolher o recurso de gerenciamento do ciclo de vida dos dados correto](https://experienceleague.adobe.com/pt-br/docs/experience-platform/data-lifecycle/choose-a-capability). Antes de definir uma política de retenção de data lake, confirme se o conjunto de dados é um conjunto de dados de Evento de experiência.
+Nem todos os conjuntos de dados não utilizados ou abandonados exibidos por essa habilidade são um bom candidato para uma política de retenção de data lake. Se precisar remover um conjunto de dados inteiro ou gerenciar dados em outro armazenamento do Experience Platform, consulte [Escolher o recurso de gerenciamento do ciclo de vida dos dados correto](https://experienceleague.adobe.com/en/docs/experience-platform/data-lifecycle/choose-a-capability). Antes de definir uma política de retenção de data lake, confirme se o conjunto de dados é um conjunto de dados de Evento de experiência.
 
 Exemplo de prompts:
 
@@ -78,7 +86,7 @@ Depois de decidir um período de retenção, use a habilidade Gerenciar retenç�
 
 ![Colaborador mostrando a política de retenção de data lake proposta, seu impacto e a confirmação necessária antes que a alteração seja aplicada.](../../assets/data-management/retention-impact-preview.png)
 
-Após confirmar uma política de retenção, pode levar algum tempo para que a alteração apareça na interface do usuário do Adobe Experience Platform. A política de retenção não exclui os dados expirados imediatamente. O trabalho de retenção inicial começa dentro de 24 horas após a aplicação da política. Após a execução inicial, um trabalho agendado avalia e exclui registros expirados a cada 30 dias. Consulte o [guia de retenção do conjunto de dados (TTL) do Evento de Experiência](https://experienceleague.adobe.com/pt-br/docs/experience-platform/catalog/datasets/experience-event-dataset-retention-ttl-guide) para obter mais informações sobre retenção e limpeza.
+Após confirmar uma política de retenção, pode levar algum tempo para que a alteração apareça na interface do usuário do Adobe Experience Platform. A política de retenção não exclui os dados expirados imediatamente. O trabalho de retenção inicial começa dentro de 24 horas após a aplicação da política. Após a execução inicial, um trabalho agendado avalia e exclui registros expirados a cada 30 dias. Consulte o [guia de retenção do conjunto de dados (TTL) do Evento de Experiência](https://experienceleague.adobe.com/en/docs/experience-platform/catalog/datasets/experience-event-dataset-retention-ttl-guide) para obter mais informações sobre retenção e limpeza.
 
 Cada alteração na política de retenção é registrada em uma trilha de auditoria, inclusive quando uma política é definida, alterada ou removida. A trilha de auditoria registra quem fez cada alteração, quando ela ocorreu e o que foi modificado. Você pode seguir o link fornecido pelo Colaborador para revisar esses eventos na guia Log de auditoria do conjunto de dados no Adobe Experience Platform. Para obter mais informações, consulte a [Visão geral dos logs de auditoria](https://experienceleague.adobe.com/pt-br/docs/experience-platform/landing/governance-privacy-security/audit-logs/overview).
 
@@ -99,4 +107,4 @@ Lembre-se das seguintes práticas ao usar o Agente de gerenciamento de dados:
 
 ## Próximas etapas {#next-steps}
 
-Para saber mais sobre as habilidades, escopo, comportamento e limitações do Agente de Gerenciamento de Dados, consulte a [visão geral do Agente de Gerenciamento de Dados](https://experienceleague.adobe.com/pt-br/docs/cx-enterprise-ai/experience-cloud-ai/agents/data-management). Para obter mais informações sobre como as políticas de retenção de data lake funcionam no Adobe Experience Platform, consulte o [guia de retenção do conjunto de dados (TTL) de eventos de experiência](https://experienceleague.adobe.com/pt-br/docs/experience-platform/catalog/datasets/experience-event-dataset-retention-ttl-guide).
+Para saber mais sobre as habilidades, escopo, comportamento e limitações do Agente de Gerenciamento de Dados, consulte a [visão geral do Agente de Gerenciamento de Dados](https://experienceleague.adobe.com/en/docs/cx-enterprise-ai/experience-cloud-ai/agents/data-management). Para obter mais informações sobre como as políticas de retenção de data lake funcionam no Adobe Experience Platform, consulte o [guia de retenção do conjunto de dados (TTL) de eventos de experiência](https://experienceleague.adobe.com/en/docs/experience-platform/catalog/datasets/experience-event-dataset-retention-ttl-guide).
