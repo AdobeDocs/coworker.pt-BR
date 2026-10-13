@@ -1,12 +1,11 @@
 ---
 title: Analisar dados do Customer Journey Analytics com o bate-papo do colega de trabalho
 description: Saiba como usar o Adobe CX Enterprise Coworker Chat para analisar dados do Customer Journey Analytics, criar funis e descobrir onde os clientes chegam na jornada.
-hold: true
 product_v2:
   internal-label: CX Enterprise Coworker
 feature_v2:
   internal-label: CX Enterprise Coworker
-source-git-commit: d3a78af009a642a516658070d06eaf245fe67e6c
+source-git-commit: 1406a6258a8f7ad3a7e5268a01c8ab2b449505b6
 workflow-type: tm+mt
 source-wordcount: '1915'
 ht-degree: 1%
