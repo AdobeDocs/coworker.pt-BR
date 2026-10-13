@@ -7,14 +7,14 @@ product_v2:
 feature_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: CX Enterprise Coworker
-source-git-commit: 2bf31c1348054a16ba7e7c0c26c0ff913634aa27
+source-git-commit: 60669850e4005be01c31d9f7818d1c4ad3ed8f3a
 workflow-type: tm+mt
 source-wordcount: '2094'
 ht-degree: 4%
 ---
 # Introdução à análise de dados com o Chat de colaborador
 
-Configure o Adobe CX Enterprise Coworker Chat para analisar suas visualizações de dados do Customer Journey Analytics ou conjuntos de relatórios do Adobe Analytics e, em seguida, siga um exemplo funcional. Para obter uma visão geral do que você pode fazer com o Chat do Colaborador, incluindo casos de uso, habilidades e práticas recomendadas, consulte [Analisar dados com o Chat do Colaborador](/help/chat/use-cases/data-insights/analytics-overview-v2.md).
+Configure o Adobe CX Enterprise Coworker Chat para analisar suas visualizações de dados do Customer Journey Analytics ou conjuntos de relatórios do Adobe Analytics e, em seguida, siga um exemplo funcional. Para obter uma visão geral do que você pode fazer com o Chat do Colaborador, incluindo casos de uso, habilidades e práticas recomendadas, consulte [Analisar dados com o Chat do Colaborador](/help/chat/use-cases/data-insights/analytics-overview.md).
 
 Antes de começar, conheça a interface de Bate-papo do colega e as opções de configuração e, em seguida, verifique se o colega está conectado ao Customer Journey Analytics ou Adobe Analytics e às visualizações de dados ou conjuntos de relatórios relevantes.
 
@@ -331,4 +331,4 @@ Para abrir uma visualização em um novo projeto do Analysis Workspace:
 
 ## Próximas etapas
 
-Para obter mais casos de uso, as habilidades que o Chat do Colaborador usa para analisar seus dados, bem como as práticas recomendadas para escrever prompts, consulte [Analisar dados com o Chat do Colaborador](/help/chat/use-cases/data-insights/analytics-overview-v2.md).
+Para obter mais casos de uso, as habilidades que o Chat do Colaborador usa para analisar seus dados, bem como as práticas recomendadas para escrever prompts, consulte [Analisar dados com o Chat do Colaborador](/help/chat/use-cases/data-insights/analytics-overview.md).
