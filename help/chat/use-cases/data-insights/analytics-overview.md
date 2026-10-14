@@ -5,7 +5,7 @@ product_v2:
   internal-label: CX Enterprise Coworker
 feature_v2:
   internal-label: CX Enterprise Coworker
-source-git-commit: 1406a6258a8f7ad3a7e5268a01c8ab2b449505b6
+source-git-commit: b6a05e2fdc16830fd69ac1b5ea68ed1d4c5d5c5f
 workflow-type: tm+mt
 source-wordcount: '1915'
 ht-degree: 1%
@@ -67,7 +67,7 @@ Os casos de uso a seguir são agrupados por domínio de análise. Cada grupo lis
 | Caso de uso | Função |
 | --- | --- |
 | [Comparar desempenho](#skills-and-limitations) | Comparar métricas entre canais, períodos ou segmentos lado a lado.<p>**Exemplo de prompt:** &quot;Comparar receita por canal mês a mês&quot;</p><p>Para obter mais informações, consulte [Habilidades e limitações](#skills-and-limitations).</p> |
-| [Analisar tendências e causas operacionais](/help/chat/use-cases/overview.md#data-insights) | Consulte dados históricos de séries temporais para públicos, conjuntos de dados e jornadas e identifique o que causou uma alteração.<p>**Exemplo de prompt:** &quot;Mostrar tendências de tamanho de público nos últimos 90 dias&quot;</p><p>Para obter mais informações, consulte [Insights de dados](/help/chat/use-cases/overview.md#data-insights) em casos de uso de Chat de Colaborador.</p> |
+| [Analisar tendências e causas operacionais](/help/chat/use-cases/workflows.md#data-insights) | Consulte dados históricos de séries temporais para públicos, conjuntos de dados e jornadas e identifique o que causou uma alteração.<p>**Exemplo de prompt:** &quot;Mostrar tendências de tamanho de público nos últimos 90 dias&quot;</p><p>Para obter mais informações, consulte [Insights de dados](/help/chat/use-cases/workflows.md#data-insights) em casos de uso de Chat de Colaborador.</p> |
 
 ### Desempenho empresarial
 
@@ -86,9 +86,9 @@ Os casos de uso a seguir são agrupados por domínio de análise. Cada grupo lis
 
 | Caso de uso | Função |
 | --- | --- |
-| [Meça o desempenho da campanha](/help/chat/use-cases/overview.md#data-insights) | Veja como as campanhas, os canais e as propriedades da Web foram executados em um determinado período.<p>**Prompt de exemplo:** &quot;Como foi o desempenho das campanhas da Web do Acrobat no mês passado?&quot;</p><p>Para obter mais informações, consulte [Insights de dados](/help/chat/use-cases/overview.md#data-insights) em casos de uso de Chat de Colaborador.</p> |
+| [Meça o desempenho da campanha](/help/chat/use-cases/workflows.md#data-insights) | Veja como as campanhas, os canais e as propriedades da Web foram executados em um determinado período.<p>**Prompt de exemplo:** &quot;Como foi o desempenho das campanhas da Web do Acrobat no mês passado?&quot;</p><p>Para obter mais informações, consulte [Insights de dados](/help/chat/use-cases/workflows.md#data-insights) em casos de uso de Chat de Colaborador.</p> |
 
-Para obter mais informações sobre esses casos de uso, incluindo as habilidades que eles usam e mais prompts de amostra, consulte [Casos de uso de insights de dados](/help/chat/use-cases/overview.md#data-insights).
+Para obter mais informações sobre esses casos de uso, incluindo as habilidades que eles usam e mais prompts de amostra, consulte [Casos de uso de insights de dados](/help/chat/use-cases/workflows.md#data-insights).
 
 ## Habilidades e limitações
 
