@@ -26,7 +26,7 @@ Tradicionalmente, a criação de jornadas para clientes requer configuração ab
  
 Ao automatizar o processo de configuração inicial, as equipes podem gastar menos tempo criando jornadas do zero e mais tempo refinando as experiências dos clientes e os resultados dos negócios.
 
->[!VIDEO](https://video.tv.adobe.com/v/3496867/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3496880/?captions=por_br&learn=on&enablevpops)
 
 ## Consulte também
 
