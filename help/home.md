@@ -7,24 +7,40 @@ product_v2:
 feature_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: CX Enterprise Coworker
-source-git-commit: 552f943686bd82137aafc7c0ac725bf3cc55d41f
+source-git-commit: 161506b712f3a5f39cb584d0491795a3db6faa95
 workflow-type: tm+mt
-source-wordcount: '843'
-ht-degree: 19%
+source-wordcount: '936'
+ht-degree: 18%
 ---
-# Visão geral do CX Enterprise Coworker {#overview}
+# Guia do CX Enterprise Coworker {#overview}
 
-Colaborador é um colega de equipe alimentado por IA que reimagina a natureza do trabalho para organizações, equipes e indivíduos. O colega de trabalho automatiza elegantemente a experiência do cliente e os fluxos de trabalho de marketing para que as organizações possam se concentrar na realização de suas metas comerciais e na transformação de resultados, não na coordenação de tarefas. Como um mecanismo de agilidade, o Coworker adota uma nova abordagem inovadora para automatizar o processo de negócios. Ele eleva o desempenho e a precisão do modelo de IA, unindo dados, inteligência, colaboração e execução de habilidades agênicas com contexto corporativo, governança e supervisão humana integrada.
+[!DNL Coworker] é o companheiro de equipe de IA agente da Adobe para a experiência do cliente e o trabalho de marketing. Ele faz mais do que responder perguntas ou recomendar ações: executa workflows de marketing em várias etapas no Adobe e em outros sistemas corporativos, e as aprovações e a governança mantêm você no controle. Saiba mais sobre o [Adobe for Business](https://business.adobe.com/br/products/cx-enterprise-coworker.html).
 
-O colega de trabalho é fornecido por meio de três experiências:
+## Como você pode usar o [!DNL Coworker]
 
-* **[Colaborador [!UICONTROL Chat]](./chat/overview.md):** Use linguagem natural para solicitações, insights, geração de conteúdo e ações complexas em aplicativos do Adobe.
-* **[Colaborador [!UICONTROL Campanhas]](./campaigns/overview.md):** projetado para levar equipes de marketing ágeis de uma meta de campanha em direção à execução coordenada de campanhas.
-* **Projetos [!UICONTROL de Colaborador] (em breve):** Projetados para fluxos de trabalho corporativos multifuncionais e de execução mais longa, nos quais as equipes definem processos, aprovações e o nível de autonomia do Colaborador.
+O colega de trabalho desloca a IA de _assistência_ para _atuação_. Em vez de alternar entre aplicativos e coordenar cada etapa por conta própria, você define uma meta e o [!DNL Coworker] executa e executa as etapas. Funciona com públicos, jornadas, conteúdo, insights, diagnósticos e operações de marketing.
 
-## Essentials para [!DNL Coworker] [!UICONTROL Chat]
+[!DNL Coworker] é entregue através de três experiências:
 
-Quer você esteja apenas começando ou querendo aprofundar seu conhecimento, essas listas de reprodução fornecem uma introdução guiada sobre como usar o recurso [!UICONTROL Chat] no [!DNL Coworker]. Saiba como navegar pelos principais recursos, criar prompts eficazes e ver exemplos práticos de como o Coworker ajuda as equipes a trabalhar com mais eficiência em produtos da Adobe Experience Cloud.
+* **[Colaborador [!UICONTROL Chat]](./chat/overview.md):** Solicite informações, conteúdo e ações em aplicativos do Adobe em linguagem natural.
+* **[Colaborador [!UICONTROL Campanhas]](./campaigns/overview.md):** ajuda equipes de marketing ágeis a passar de uma meta de campanha para uma execução coordenada.
+* **Projetos [!UICONTROL de Colaborador] (em breve):** Para fluxos de trabalho corporativos interfuncionais e de longa duração, em que as equipes definem os processos, as aprovações e o nível de autonomia do Colaborador.
+
+## Como habilitar o Colaborador
+
+Para habilitar o Colaborador (incluindo o Bate-papo do Colaborador), sua organização precisa acessar o Adobe CX Enterprise Coworker. A ativação geralmente envolve:
+
+* **Licenciamento:** entre em contato com o representante de conta ou a equipe de vendas da Adobe para confirmar se você tem as licenças e os direitos certos.
+
+* **Integração:** a equipe de suporte corporativo ou de serviços profissionais da Adobe configura o Coworker para o seu ambiente, configura as integrações com os aplicativos da Adobe e define a governança e os fluxos de trabalho de aprovação.
+
+* **Acesso:** atribua funções e acesso aos recursos de colega de trabalho para suas equipes na Adobe [Admin Console](https://experienceleague.adobe.com/pt-br/docs/core-services/interface/administration/admin-console).
+
+* **Comece:** depois que o Coworker for habilitado, consulte o [Guia da Interface do Usuário](./chat/ui-guide.md) para saber mais sobre como contornar a interface do Chat do Coworker, incluindo a caixa de entrada, as respostas, o histórico do chat e as Habilidades, os servidores MCP e as configurações de Memória.
+
+## Vídeos sobre o uso do Chat do colaborador
+
+Estas listas de reprodução de vídeo abordam os principais recursos do [!UICONTROL Chat] e como escrever prompts efetivos, com exemplos práticos de como o [!DNL Coworker] ajuda as equipes a trabalhar com mais eficiência em produtos do [!DNL CX Enterprise].
 
 <!--
 CARDS
@@ -90,9 +106,24 @@ CARDS
 </div>
 <!-- END CARDS HTML - DO NOT MODIFY BY HAND -->
 
+## Campanhas de colegas de trabalho
+
+Campanhas de colegas de trabalho é um recurso modelado para que pequenas equipes ágeis levantem e executem campanhas.
+
+* [Visão geral](./campaigns/overview.md)
+* [Criar uma campanha de email](./campaigns/create-an-email-campaign.md)
+* [Casos de uso](./campaigns/use-cases.md)
+* [Solicitação de práticas recomendadas](./campaigns/prompting-best-practices.md)
+* [Conectar-se ao Marketo Engage](./campaigns/connectors/marketo.md)
+* [Conectar ao Hubspot](./campaigns/connectors/hubspot.md)
+
+## Projetos (em breve)
+
+Os Projetos de colaboração são um espaço de trabalho compartilhado para automatizar fluxos de trabalho da experiência do cliente, da estratégia à entrega. As equipes o usam para coordenar tarefas, aprovações e execução.
+
 ## Experience League LIVE: Colaborador série desbloqueada
 
-Junte-se à série Desbloqueado da CX Enterprise Coworker para ver como as organizações estão usando a assistência alimentada por IA para simplificar o trabalho da experiência do cliente. Cada sessão explora casos de uso práticos, demonstrações em tempo real e orientação de especialistas que ajudam as equipes a acelerar fluxos de trabalho, descobrir insights e automatizar tarefas em aplicativos da Adobe Experience Cloud. Navegue por episódios anteriores ou registre-se em eventos futuros para saber novas maneiras de aumentar a produtividade e impulsionar os resultados da experiência do cliente.
+Associe-se à série CX Enterprise Coworker Unlocked para ver como as organizações usam a IA para simplificar o trabalho da experiência do cliente. Cada sessão oferece casos de uso práticos, demonstrações em tempo real e orientação de especialistas sobre como acelerar fluxos de trabalho, descobrir insights e automatizar tarefas em aplicativos da Adobe Experience Cloud. Procure episódios anteriores ou registre-se para eventos futuros.
 
 <!--
 CARDS
@@ -155,19 +186,3 @@ CARDS
     </div>
 </div>
 <!-- END CARDS HTML - DO NOT MODIFY BY HAND -->
-
-
-## Campanhas de colegas de trabalho
-
-Campanhas de colegas de trabalho é um recurso modelado para que pequenas equipes ágeis levantem e executem campanhas.
-
-* [Visão geral](./campaigns/overview.md)
-* [Criar uma campanha de email](./campaigns/create-an-email-campaign.md)
-* [Casos de uso](./campaigns/use-cases.md)
-* [Solicitação de práticas recomendadas](./campaigns/prompting-best-practices.md)
-* [Conectar-se ao Marketo Engage](./campaigns/connectors/marketo.md)
-* [Conectar ao Hubspot](./campaigns/connectors/hubspot.md)
-
-## Projetos (em breve)
-
-O Co-worker Projects é um espaço de trabalho unificado para automatizar fluxos de trabalho completos de orquestração da experiência do cliente, ajudando as equipes a coordenar tarefas, aprovações e execução para impulsionar resultados da estratégia até a entrega.

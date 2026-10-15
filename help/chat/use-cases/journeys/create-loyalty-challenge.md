@@ -13,9 +13,9 @@ product_v2:
 feature_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: CX Enterprise Coworker
-source-git-commit: dbee38135a5491fd21b65fdbb70ba60d949d7560
+source-git-commit: bc2c2d0bb2f73ffb9018325f812c9701c90779e1
 workflow-type: tm+mt
-source-wordcount: '153'
+source-wordcount: '152'
 ht-degree: 1%
 ---
 
@@ -31,4 +31,4 @@ O vídeo mostra o plug-in de Fidelidade e sua habilidade de Gerenciamento de des
 
 - [Journey Agent](https://experienceleague.adobe.com/pt-br/docs/cx-enterprise-ai/experience-cloud-ai/agents/ajo-agent), para outros recursos de IA do AJO disponíveis por meio do Chat do Colaborador, como criação, análise e simulação de jornadas.
 - [Gerenciamento de Desafio de Fidelidade](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/get-started/essentials/ajo-coworker-skills#loyalty-challenge-management){target="_blank"} na documentação do Adobe Journey Optimizer.
-- [Mais casos de uso do bate-papo com colegas de trabalho](../overview.md#journeys)
+- [Mais fluxos de trabalho de chat do colega de trabalho](../workflows.md#journeys)

@@ -14,9 +14,9 @@ product_v2:
 feature_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: CX Enterprise Coworker
-source-git-commit: dbee38135a5491fd21b65fdbb70ba60d949d7560
+source-git-commit: bc2c2d0bb2f73ffb9018325f812c9701c90779e1
 workflow-type: tm+mt
-source-wordcount: '129'
+source-wordcount: '128'
 ht-degree: 1%
 ---
 
@@ -31,4 +31,4 @@ Ao automatizar o processo de configuração inicial, as equipes podem gastar men
 ## Consulte também
 
 - [Journey Agent](https://experienceleague.adobe.com/pt-br/docs/cx-enterprise-ai/experience-cloud-ai/agents/ajo-agent#journey-create), o recurso de IA subjacente que habilita a criação de jornadas no Chat de Colaborador.
-- [Mais casos de uso do bate-papo com colegas de trabalho](../overview.md#journeys)
+- [Mais fluxos de trabalho de chat do colega de trabalho](../workflows.md#journeys)
