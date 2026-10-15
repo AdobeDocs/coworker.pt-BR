@@ -1,6 +1,6 @@
 ---
-description: Um guia de referência para a interface do Chat do Colaborador, abordando a navegação, a caixa de entrada, as respostas, o histórico do chat e a configuração de Habilidades, servidores MCP e Memória.
-title: Guia da Interface do Usuário do Chat do Colaborador
+description: Saiba como abrir o Bate-papo com colegas de trabalho, definir sua organização e sandbox, enviar sua primeira mensagem e personalizar habilidades, servidores MCP e memória. Inicie uma conversa em minutos.
+title: Introdução ao Chat do Colaborador
 jira: KT-22106
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
@@ -8,242 +8,258 @@ product_v2:
 feature_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: CX Enterprise Coworker
-source-git-commit: 12ee914ed944c82694b9373f611e19cf040e2229
+source-git-commit: 216699c5b1bd34ffea0884083599fb51609762d1
 workflow-type: tm+mt
-source-wordcount: '1719'
-ht-degree: 4%
+source-wordcount: '1799'
+ht-degree: 2%
 ---
-# Guia da interface do usuário {#ui-guide}
+# Introdução ao Chat do Colaborador {#ui-guide}
 
-Orientar-se com a interface de bate-papo de colega de trabalho. Este guia aborda tudo, desde acessar o aplicativo e navegar pelo espaço de trabalho até aproveitar ao máximo as conversas, gerenciar seu histórico e adaptar sua configuração.
+O Bate-papo com colegas de trabalho permite que você trabalhe com seus dados e ferramentas do Adobe CX Enterprise, perguntando o que precisa em linguagem simples. Use esta página para abrir o Chat do Colaborador, enviar sua primeira mensagem e configurá-la como você trabalha.
 
->[!VIDEO](https://video.tv.adobe.com/v/3498571?captions=por_br&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3498558?learn=on)
 
-## Acessar o bate-papo do colega
+## Disponibilidade
 
-Quando sua organização obtém acesso ao Colaborador, você pode usar seus recursos por meio da experiência imersiva ou de uma experiência no produto.
+O Chat do colaborador está disponível como uma experiência imersiva, um espaço de trabalho de página inteira e como uma experiência no produto em alguns aplicativos do CX Enterprise. Para abrir a experiência no produto, clique no ícone do Colaborador ![Ícone do Colaborador](./assets/icon-coworker.png) na parte superior direita do aplicativo.
 
->[!NOTE]
->
->A experiência no produto pode ser acessada por meio do ícone do Colaborador ![ícone do Colaborador](./assets/icon-coworker.png) no canto superior direito. Os detalhes da experiência imersiva estão [descritos abaixo](#immersive).
+A tabela a seguir mostra onde cada experiência está disponível.
 
-A tabela a seguir captura quando essas experiências estarão disponíveis para cada aplicativo do CX Enterprise.
-
-| Aplicativo CX Enterprise | Experiência imersiva | Experiência no produto |
+| aplicativo CX Enterprise | Experiência imersiva | Experiência no produto |
 |---|---|---|
-| RTCDP | Disponível agora | Em breve |
-| AJO | Disponível agora | Em breve |
-| CJA | Disponível agora | Em breve |
-| Workfront | Disponível agora | Em breve:<br><br>* início de setembro de 2026 na instância de visualização para administradores de sistema da Workfront selecionados<br><br>* meados de setembro de 2026 na instância de produção para clientes Workfront de lançamento rápido qualificados<br><br>* meados de outubro de 2026 na instância de produção para clientes Workfront de lançamento trimestral qualificados |
+| Real-Time CDP | Disponível agora | Em breve |
+| Adobe Journey Optimizer | Disponível agora | Em breve |
+| Customer Journey Analytics | Disponível agora | Em breve |
+| Workfront | Disponível agora | Em breve:<br><br>* início de setembro de 2026 na instância de Pré-visualização para administradores de sistema Workfront selecionados<br><br>* meados de setembro de 2026 na instância de Produção para clientes Workfront de lançamento rápido qualificados<br><br>* meados de outubro de 2026 na instância de Produção para clientes Workfront de lançamento trimestral qualificados |
 | Target | Disponível agora | Disponível agora |
 | AEM | Disponível agora | Disponível agora |
 | Marketo Engage | Disponível agora | Em breve |
 
-### Experiência imersiva {#immersive}
+## Abrir Chat do Colaborador {#immersive}
 
-Acesse o Chat do Colaborador navegando até [https://experience.adobe.com/#/coworker](https://experience.adobe.com/#/coworker) e entrando com suas credenciais da Adobe.
+Para usar a experiência imersiva, entre com as credenciais da Adobe. É possível abri-lo por um link direto ou dentro do CX Enterprise.
 
-Você também pode acessá-lo selecionando **Colaborador** no seletor de aplicativos, no cabeçalho superior do CX Enterprise.
+1. Ir para [https://experience.adobe.com/#/coworker](https://experience.adobe.com/#/coworker).
+1. Faça logon com sua Adobe ID.
 
-![Acessando o Colaborador no seletor de aplicativos do CX Enterprise](./assets/ui-guide-1.png)
+Como alternativa, clique em **[!UICONTROL Colaborador]** no seletor de aplicativos, no cabeçalho do CX Enterprise.
 
-## Escolha sua organização e sandbox
+![Colaborador no seletor de aplicativos do CX Enterprise](./assets/ui-guide-1.png)
 
-O contexto atual é mostrado na parte inferior do painel de navegação esquerdo, sob seu nome e imagem de perfil. O contexto determina quais dados, habilidades e ferramentas conectadas uma conversa pode acessar, portanto, confirme-os antes de começar.
+## Definir seu contexto
 
-Selecione seu nome para abrir o menu de conta, onde você pode alternar o contexto e alterar as configurações do espaço de trabalho:
+Sua organização e sandbox determinam quais dados, habilidades e ferramentas conectadas uma conversa pode acessar. Verifique-as antes de começar. O contexto atual é exibido na parte inferior do painel de navegação esquerdo, sob seu nome.
 
-| Elemento da interface | Descrição |
+Para alterar o contexto:
+
+1. Clique no seu nome na parte inferior do painel de navegação para abrir o menu de conta.
+1. Clique em **[!UICONTROL Organização]** e escolha a organização IMS na qual deseja trabalhar.
+
+   ![O menu de contas com o seletor de organização aberto](./assets/ui-guide-2.png)
+
+1. Clique em **[!UICONTROL Sandbox]** e escolha a sandbox da AEP em que deseja trabalhar.
+
+   ![O menu de conta com o seletor de sandbox aberto](./assets/ui-guide-3.png)
+
+O menu de conta também inclui as seguintes opções:
+
+| Opção | Use-o para |
 | --- | --- |
-| Tema | Desloque o tema da interface entre Claro e Escuro. |
-| Configurações | Abra as configurações do espaço de trabalho para ver detalhes sobre sua conta e outras configurações. |
-| Seletor de organização | Alternar as execuções do Colaborador da Organização IMS. |
-| Seletor de sandbox | Alternar a sandbox ativa do AEP. |
-| Aplicativos CX | Ir para outro aplicativo do CX Enterprise conectado à sua conta. |
-| Fazer logoff | Saia da sua conta da Adobe. |
+| **[!UICONTROL Tema]** | Alternar entre os temas Claro e Escuro. |
+| **[!UICONTROL Configurações]** | Exibir detalhes da conta e configurações do espaço de trabalho. |
+| **[!UICONTROL Aplicativos CX]** | Vá para outro aplicativo do CX Enterprise conectado à sua conta. |
+| **[!UICONTROL Sair]** | Saia da sua conta da Adobe. |
 
-![O menu de contas com o seletor de organização aberto](./assets/ui-guide-2.png)
+## Encontre o seu caminho
 
-![O menu de conta com o seletor de sandbox aberto](./assets/ui-guide-3.png)
-
-## Navegue pela interface
-
-A interface do CX Coworker tem duas áreas principais: o painel de navegação à esquerda e a tela de conversação que preenche o restante da janela.
+O espaço de trabalho tem duas áreas: o painel de navegação à esquerda e a tela de conversa que preenche o restante da janela.
 
 ![A tela inicial](./assets/ui-guide-4.png)
 
-## O painel de navegação
+Use o painel de navegação para se mover entre as partes do produto e retornar ao trabalho recente.
 
-O painel oferece acesso a todas as partes do produto e ao seu trabalho recente.
-
-| Elemento da interface | Descrição |
+| Opção | Use-o para |
 | --- | --- |
-| Novo bate-papo | Inicie uma nova conversa. Seu chat atual foi salvo no histórico. |
-| Início | Retorne à saudação, caixa de entrada e prompts sugeridos. |
-| Chats | Abra o histórico completo do chat para pesquisar, fixar, arquivar ou excluir conversas. |
-| Configurações | Gerenciar habilidades, servidores MCP, Marketplaces, plug-ins e memória. |
-| Fixado | Conversas que você estrelou, mantidas no topo para acesso rápido. Selecione Exibir todos para vê-los na página de Bate-papos. |
-| Recentes | Suas conversas mais recentes. Selecione Exibir tudo para abrir a página Bate-papos. |
+| **[!UICONTROL Novo chat]** | Iniciar uma conversa. O Bate-papo de Colaborador salva o bate-papo atual no seu histórico. |
+| **[!UICONTROL Residência]** | Retorne à saudação, à caixa de entrada e aos prompts sugeridos. |
+| **[!UICONTROL Bate-Papos]** | Pesquisar, fixar, arquivar ou excluir conversas anteriores. |
+| **[!UICONTROL Configurações]** | Gerencie habilidades, servidores MCP, marketplaces, plugins e memória. |
+| **[!UICONTROL Fixado]** | Conversações abertas que você estrelou. Clique em **[!UICONTROL Exibir todos]** para vê-los na página de Bate-papos. |
+| **[!UICONTROL Recentes]** | Abra as conversas mais recentes. Clique em **[!UICONTROL Exibir tudo]** para abrir a página de Bate-papos. |
 
-## A tela inicial
+## Envie sua primeira mensagem
 
-A tela inicial é onde você começa. Ele mostra uma saudação personalizada, a caixa de entrada e um conjunto de prompts sugeridos a partir do que o Coworker Chat pode ajudar você a fazer na sua sandbox.
+A tela inicial mostra uma saudação, a caixa de entrada e os prompts sugeridos com base no que o Coworker Chat pode fazer na sandbox. Você pode começar com uma sugestão ou escrever sua própria mensagem.
 
-### Prompts sugeridos
+Para enviar uma mensagem:
 
-Em Sugerido para você, o CX Coworker lista tarefas de exemplo. Selecione qualquer sugestão para carregá-la na caixa de entrada e, em seguida, edite-a antes de enviá-la ou enviá-la como está. As sugestões são uma maneira rápida de ver os tipos de trabalho que o Coworker Chat suporta: mover esquemas entre sandboxes, encontrar anomalias em uma jornada, validar um conjunto de dados e muito mais.
+1. Clique em **[!UICONTROL Página inicial]** no painel de navegação.
+1. Execute um dos procedimentos a seguir:
 
-### Menções da entidade
+   * Selecione um prompt em **[!UICONTROL Sugerido para você]**. O Bate-papo com colegas de trabalho o adiciona à caixa de entrada, onde você pode editá-lo.
+   * Insira sua própria solicitação na caixa **[!UICONTROL Pergunte qualquer coisa ao parceiro]**.
 
-Os prompts sugeridos e suas próprias mensagens podem fazer referência a objetos específicos em sua sandbox usando menções de entidade como +[schema], +[jornada] e +[conjunto de dados]. Uma menção de entidade informa ao Chat de Colaborador exatamente o objeto desejado, para que você possa adicionar suas próprias menções digitando **+**.
-
-## A caixa de entrada do chat
-
-A caixa de entrada (chamada &#39;Pergunte qualquer coisa ao colega&#39;) é onde você digita. Abaixo do campo de texto há uma barra de ferramentas para anexos, comportamento de resposta, entrada de voz e envio.
-
-| Elemento da interface | Descrição |
-| --- | --- |
-| + (Anexar) | Abra o menu anexar para adicionar um arquivo ou um objeto de dados à mensagem. |
-| Modo de plano | Peça ao bate-papo com colegas de trabalho que proponha um plano passo a passo e faça uma pausa para aprovação antes que ele aja. Desative para permitir que o Bate-papo com colega aja diretamente. |
-| Visualização de transcrição | Controla quanto da atividade interna do Chat de Colaborador é exibida: Normal, Foco ou Detalhado. |
-| Microfone | Ditar sua mensagem com entrada de voz. Selecione novamente para interromper a gravação. |
-| Enviar | Envie a mensagem. Enquanto o Chat do Colaborador está respondendo, isso se torna um controle Stop que pode ser usado para interromper. |
-
-### Anexar arquivos e dados
-
-Selecione + para anexar contexto à mensagem:
-
-- Anexar arquivo: faça upload de um arquivo O Chat do parceiro de trabalho pode ler e fazer referência a ele na resposta.
-- Adicionar dados ou objeto: faça referência a um objeto da sandbox, como um conjunto de dados ou esquema, para que o Coworker Chat funcione em relação aos dados em tempo real.
-
-![O menu anexar](./assets/ui-guide-5.png)
-
-### Modo de plano
-
-Ative o modo de Plano quando uma tarefa for complexa ou alterar os dados e você quiser revisar a abordagem primeiro. O Bate-papo com colegas de trabalho responde com um plano e aguarda sua aprovação antes de executá-lo. Quando o modo de Plano estiver desativado, o Chat do Colaborador continuará diretamente para o trabalho.
-
-![Modo de plano habilitado na barra de ferramentas de entrada](./assets/ui-guide-6.png)
-
-### Visualização de transcrição
-
-A visualização da transcrição define quanto do raciocínio do Coworker Chat e a atividade da ferramenta aparecem em linha na conversa:
-
-| Elemento da interface | Descrição |
-| --- | --- |
-| Normal | Uma visualização equilibrada: as principais etapas de pensamento e a atividade da ferramenta são resumidas. |
-| Focus | Uma exibição simplificada que oculta a maioria das etapas intermediárias para que você veja principalmente a resposta. |
-| Detalhado | O detalhe completo: cada etapa de pensamento, carga de habilidades, leitura de arquivos e consulta. |
-
-![Escolhendo uma exibição de transcrição](./assets/ui-guide-7.png)
-
-## Trabalhar com respostas
-
-Quando você envia uma mensagem, o Bate-papo com colega de trabalho resolve a tarefa ao abrir o e, em seguida, retorna sua resposta. Uma resposta pode incluir raciocínio, um registro das ferramentas usadas e um ou mais artefatos.
-
-![Uma resposta em andamento](./assets/ui-guide-8.png)
-
-### Pensamento e atividade
-
-Como funciona, o Bate-papo do Colaborador mostra o que está fazendo para que você possa seguir (e verificar) o processo dele:
-
-- Blocos de reflexão: etapas recolhíveis rotuladas como &quot;Pensamento&quot;, seguidas pelo número de segundos (ou milissegundos). Expanda um para ler o raciocínio do bate-papo do colega de trabalho.
-- Atividade da habilidade: entradas como habilidade carregada mostram qual recurso especializado o Bate-papo do Colaborador trouxe para a tarefa.
-- Atividade de arquivo e consulta: entradas como Arquivo de leitura e Consulta de execução 1 registram os arquivos que o Chat do colaborador leu e as consultas que executou, cada uma com quanto tempo levou.
+1. (Opcional) Adicione contexto, escolha como o Chat de colaborador responde ou dita sua mensagem. Consulte [Adicionar contexto e escolha um estilo de resposta](#input-options).
+1. Clique em **[!UICONTROL Enviar]**.
 
 >[!TIP]
 >
->Use a exibição de transcrição detalhada para ver cada etapa ou Focar para ocultá-las.
+>Os prompts sugeridos mostram os tipos de tarefas compatíveis com o Coworker Chat, como mover esquemas entre sandboxes, encontrar anomalias em uma jornada e validar um conjunto de dados.
 
-### Artefatos
+Para apontar o Chat do Colaborador para um objeto específico em sua sandbox, digite **+** na caixa de entrada e clique em um esquema, jornada, conjunto de dados ou outro objeto. Isso é chamado de menção de entidade. Ele informa ao Coworker Chat exatamente qual objeto você quer dizer.
 
-Os resultados produzidos pelo Chat do colaborador (como uma tabela de públicos-alvo) aparecem como cartões de artefato dentro da resposta. Em um cartão de artefato, é possível baixar artefatos de tabela como um arquivo CSV. Quando uma resposta inclui vários artefatos, use os controles do carrossel (Anterior/Próximo e a contagem, por exemplo, 1/1) para se mover entre eles.
+## Adicionar contexto e escolher um estilo de resposta {#input-options}
 
-### Leia a análise
+A barra de ferramentas abaixo da caixa de entrada controla o que você anexa, como o Bate-papo com Colaborador aborda a tarefa e quanto do seu trabalho você vê.
 
-Abaixo de seus artefatos, o Bate-papo do Colaborador resume o que significam os resultados, destacando descobertas notáveis e sugerindo ações de acompanhamento que você pode realizar em seguida.
+| Controle | Use-o para |
+| --- | --- |
+| **[!UICONTROL +]** (Anexar) | Adicione um arquivo ou um objeto de sandbox à mensagem. |
+| **[!UICONTROL Modo de plano]** | Revise um plano passo a passo antes que o Bate-papo com os colegas de trabalho aja. |
+| **[!UICONTROL Modo de exibição de transcrição]** | Escolha quanto da atividade do Bate-papo de Colaborador você verá. |
+| **[!UICONTROL Microfone]** | Dite sua mensagem. Clique novamente para interromper a gravação. |
+| **[!UICONTROL Enviar]** | Envie sua mensagem. Enquanto o Chat de Colaborador responde, este controle torna-se **[!UICONTROL Stop]**, o que interrompe a resposta. |
 
-![Uma resposta concluída com tabela e resumo de artefatos](./assets/ui-guide-9.png)
+### Anexar um arquivo ou objeto
 
-### Fornecer comentários e respostas de cópia
+Anexe um arquivo ou objeto quando o Chat do Colaborador precisar de mais informações para fazer o trabalho.
 
-Cada resposta tem controles para classificá-la e reutilizá-la:
+1. Clique em **[!UICONTROL +]** na caixa de entrada.
+1. Clique em uma das opções a seguir:
 
-- Polegar para cima / Polegar para baixo: classifique a resposta para ajudar a melhorar respostas futuras.
-- Copiar: copie a resposta usando Copiar como Markdown (mantém a formatação) ou Copiar como texto sem formatação.
+   * **[!UICONTROL Anexar arquivo]**: carregue um arquivo para o Chat do Colaborador para ler e fazer referência.
+   * **[!UICONTROL Adicionar dados ou objeto]**: faça referência a um objeto na sandbox, como um conjunto de dados ou esquema, para que o Chat do Colaborador funcione em relação aos dados em tempo real.
+
+![O menu anexar](./assets/ui-guide-5.png)
+
+### Revisar um plano antes de o Bate-papo de Colaborador agir
+
+Use o Modo de plano para tarefas complexas ou tarefas que alteram dados. Quando o modo de Plano está ativado, o Bate-papo com colegas de trabalho propõe um plano e aguarda a sua aprovação antes de executá-lo. Quando o modo de Plano está desativado, o Bate-papo com colegas de trabalho inicia o trabalho imediatamente.
+
+1. Clique em **[!UICONTROL Modo de plano]** na barra de ferramentas de entrada para ativá-lo.
+1. Envie sua mensagem.
+1. Revise o plano e aprove-o para continuar.
+
+![Modo de plano ativado na barra de ferramentas de entrada](./assets/ui-guide-6.png)
+
+### Escolher uma exibição de transcrição
+
+A visualização da transcrição controla quanto do raciocínio do Coworker Chat e a atividade da ferramenta aparecem na conversa.
+
+1. Clique em **[!UICONTROL Modo de exibição de transcrição]** na barra de ferramentas de entrada.
+1. Clique em uma exibição:
+
+   | Exibir | O que você vê |
+   | --- | --- |
+   | **[!UICONTROL Normal]** | Um resumo das principais etapas de pensamento e atividade da ferramenta. |
+   | **[!UICONTROL Foco]** | Principalmente a resposta. O Bate-papo de colega de trabalho oculta a maioria das etapas intermediárias. |
+   | **[!UICONTROL Detalhado]** | Cada etapa de pensamento, carga de habilidades, leitura de arquivos e consulta. |
+
+![As opções de exibição de transcrição](./assets/ui-guide-7.png)
+
+## Revisar uma resposta
+
+O Bate-papo com colegas de trabalho mostra seu trabalho à medida que avança e, em seguida, retorna uma resposta. Uma resposta pode incluir seu raciocínio, um registro das ferramentas usadas, artefatos e um resumo.
+
+![Uma resposta em andamento](./assets/ui-guide-8.png)
+
+### Acompanhar a atividade
+
+Enquanto o Bate-papo com colegas de trabalho funciona, você pode seguir e verificar o que ele faz. Expanda qualquer entrada para ver mais detalhes.
+
+* **Pensamento para**: um bloco recolhível com o raciocínio do Chat de Colaborador e quanto tempo levou.
+* **Habilidade carregada**: o recurso especializado Co-worker Chat usado para a tarefa.
+* **Ler arquivo** e **Executar 1 consulta**: os arquivos que o Chat do Colaborador leu e as consultas que executou, com o tempo necessário.
+
+>[!TIP]
+>
+>Defina a **[!UICONTROL Exibição de transcrição]** como **[!UICONTROL Detalhada]** para ver todas as etapas, ou como **[!UICONTROL Foco]** para ocultá-las.
+
+### Trabalhar com artefatos
+
+O Chat do colaborador mostra resultados, como uma tabela de públicos-alvo, como cartões de artefato na resposta. Você pode baixar um artefato de tabela como um arquivo CSV de seu cartão. Quando uma resposta incluir mais de um artefato, use **[!UICONTROL Anterior]** e **[!UICONTROL Próximo]** para mover entre eles.
+
+### Usar o resumo
+
+Abaixo dos artefatos, o Bate-papo do Colaborador explica o que significam os resultados, destaca descobertas notáveis e sugere ações de acompanhamento. Use essas sugestões para continuar a conversa.
+
+![Uma resposta concluída com uma tabela e um resumo de artefatos](./assets/ui-guide-9.png)
+
+### Classificar e copiar uma resposta
+
+Cada resposta inclui controles que você pode usar para fornecer feedback ou reutilizar o conteúdo.
+
+* Clique em **[!UICONTROL Polegar para cima]** ou **[!UICONTROL Polegar para baixo]** para classificar a resposta. Sua classificação ajuda a melhorar respostas futuras.
+* Clique em **[!UICONTROL Copiar]** e escolha **[!UICONTROL Copiar como Markdown]** para manter a formatação ou **[!UICONTROL Copiar como Texto sem Formatação]** para removê-la.
 
 ![O menu de cópia](./assets/ui-guide-10.png)
 
 ## Gerenciar seus chats
 
-Selecione Chats no painel de navegação para abrir seu histórico completo. As conversas são agrupadas por data e cada linha mostra o título do chat e quantas voltas ele contém.
-
-| Elemento da interface | Descrição |
-| --- | --- |
-| Pesquisar por título | Localize uma conversa anterior por nome. |
-| Mostrar fixado | Mostrar apenas as conversas estreladas. |
-| Mostrar arquivado | Mostrar conversas arquivadas. |
-| Novo bate-papo | Inicie uma nova conversa. |
-| Menu Linha (...) | Em qualquer conversa, inicie (marque), renomeie, arquive ou exclua o arquivo. |
+Seu histórico de bate-papo mantém conversas anteriores para que você possa retornar a elas. Clique em **[!UICONTROL Bate-papos]** no painel de navegação para abri-lo. As conversas são agrupadas por data e cada linha mostra o título e o número de turnos.
 
 ![A página de Bate-papos](./assets/ui-guide-11.png)
 
-## Configurações
+Na página de Bate-papos, é possível:
 
-Configurações é onde você adapta o que o Bate-papo de Colaborador pode fazer. Ele tem cinco guias: Habilidades, servidores MCP, Marketplaces, Plug-ins e Memória.
+* Digite um nome em **[!UICONTROL Pesquisar por título]** para localizar uma conversa.
+* Clique em **[!UICONTROL Mostrar fixado]** para ver apenas as conversas que você estrelou.
+* Clique em **[!UICONTROL Mostrar arquivado]** para ver as conversas arquivadas.
+* Clique em **[!UICONTROL Novo chat]** para iniciar uma conversa.
 
-### Habilidades
+Para fixar, renomear, arquivar ou excluir uma conversa, clique no menu de linha (**[!UICONTROL ...]**) em sua linha e escolha uma opção.
 
-Habilidades são recursos especializados que o Bate-papo do Colaborador invoca automaticamente quando são relevantes, ou que você pode acionar digitando / no bate-papo. A guia Skills lista cada habilidade instalada e permite adicionar mais.
+## Personalizar bate-papo de colega
 
-- Adicionar o Source: instalar habilidades de uma nova fonte.
-- Pesquisar: localize uma habilidade por nome.
-- Alterar exibição: alterne entre os layouts de grade e lista usando a opção de exibição.
+As configurações são onde você controla o que o Chat de Colaborador pode fazer. Clique em **[!UICONTROL Configurações]** no painel de navegação e escolha uma guia: **[!UICONTROL Habilidades]**, **[!UICONTROL Servidores MCP]**, **[!UICONTROL Marketplaces]**, **[!UICONTROL Plug-ins]** ou **[!UICONTROL Memória]**.
+
+### Adicionar e exibir habilidades
+
+As habilidades são recursos especializados que o Bate-papo de Colaborador usa automaticamente quando se aplicam. Você também pode iniciar uma habilidade digitando **/** no chat. A guia **[!UICONTROL Habilidades]** lista cada habilidade instalada.
 
 ![A guia Habilidades](./assets/ui-guide-12.png)
 
-Selecione uma habilidade para ver seus detalhes: o plug-in ao qual pertence, uma descrição de quando o Bate-papo do Colaborador o utiliza e quaisquer arquivos que ele inclua. Selecione Exibir SKILL.md para ler a definição completa da habilidade, ou Remover Source para desinstalá-la.
+1. Na guia **[!UICONTROL Habilidades]**, clique em **[!UICONTROL Adicionar Source]** para instalar habilidades de uma nova origem.
+1. Digite um nome em **[!UICONTROL Pesquisar]** para localizar uma habilidade. Use o botão de exibição para alternar entre os layouts de grade e lista.
+1. Selecione uma habilidade para ver o plug-in ao qual pertence, quando o Bate-papo do Colaborador usá-lo e os arquivos que ele inclui.
 
-![Uma exibição de detalhes de habilidades mostrando arquivos de suporte](./assets/ui-guide-13.png)
+   ![Uma exibição de detalhes de habilidades mostrando arquivos de suporte](./assets/ui-guide-13.png)
 
-![O visualizador SKILL.md](./assets/ui-guide-14.png)
+1. (Opcional) Clique em **[!UICONTROL Exibir HABILIDADE.md]** para ler a definição de habilidade completa ou clique em **[!UICONTROL Remover Source]** para desinstalar a habilidade.
 
-### Servidores MCP
+   ![O visualizador SKILL.md](./assets/ui-guide-14.png)
 
-Os servidores MCP (Model Context Protocol) conectam o Coworker Chat a ferramentas e serviços externos, como Adobe Journey Optimizer, Real-Time CDP, Target e Workfront. A guia Servidores MCP lista tudo o que está conectado no momento e quantas conexões estão ativas.
+### Conectar servidores MCP
 
-- Adicionar servidor: conectar uma nova ferramenta ou serviço externo.
+Os servidores de Protocolo de Contexto de Modelo (MCP) conectam o Coworker Chat a ferramentas e serviços externos, como Adobe Journey Optimizer, Real-Time CDP, Target e Workfront. A guia **[!UICONTROL Servidores MCP]** lista os servidores conectados e o número de conexões ativas. Cada cartão mostra o nome do servidor, seu endpoint e tags que descrevem o que ele fornece.
 
-Cada cartão mostra o nome do servidor, seu endpoint e as tags que descrevem o que ele fornece.
+Para conectar um servidor, clique em **[!UICONTROL Adicionar servidor]** e siga as instruções.
 
 ![A guia de servidores MCP](./assets/ui-guide-15.png)
 
-### Marketplaces
+### Adicionar um marketplace
 
-Marketplaces são registros de plug-ins nos quais você pode navegar e instalar. A guia Marketplaces permite adicionar registros e filtrá-los por grupo.
-
-- Adicionar Marketplace: registre um novo marketplace de plug-in.
-- Pesquisar / Filtrar por grupo: limite a lista para encontrar um marketplace.
-
-Cada marketplace mostra sua origem e um status Pronto quando está disponível para instalação.
+Um marketplace é um registro de plug-ins que você pode navegar e instalar. Na guia **[!UICONTROL Marketplaces]**, clique em **[!UICONTROL Adicionar Marketplace]** para registrar um novo. Use a **[!UICONTROL Pesquisa]** ou filtre por grupo para restringir a lista. Um marketplace com status **Pronto** está disponível para instalação.
 
 ![A guia Marketplaces](./assets/ui-guide-16.png)
 
-### Plug-ins
+### Gerenciar plug-ins
 
-Os plug-ins estendem o Co-worker Chat com habilidades agrupadas e servidores MCP que são instalados e gerenciados juntos como uma unidade. A guia Plug-ins mostra o que está instalado e permite que você adicione mais dos seus marketplaces.
+Um plug-in agrupa habilidades e servidores MCP para que você possa instalá-los e gerenciá-los juntos. A guia **[!UICONTROL Plug-ins]** mostra os plug-ins instalados.
 
-- Procurar nos Marketplaces: encontre novos plug-ins para instalar.
-- Desinstalar: remova um plug-in instalado e tudo o que ele empacota.
-- Filtrar por marketplace: veja quais plug-ins vieram de qual registro.
+* Clique em **[!UICONTROL Procurar Marketplaces]** para encontrar novos plug-ins.
+* Filtre por marketplace para ver de onde veio cada plug-in.
+* Clique em **[!UICONTROL Desinstalar]** para remover um plug-in e tudo o que ele empacota.
 
 ![A guia Plug-ins](./assets/ui-guide-17.png)
 
-### Memória
+### Gerenciar memória
 
-A memória permite que o Bate-papo com colegas de trabalho lembre de suas preferências nas conversas para que suas respostas permaneçam relevantes e pessoais ao longo do tempo.
+A memória permite que o Bate-papo com colegas de trabalho lembre de suas preferências nas conversas, para que as respostas permaneçam relevantes ao longo do tempo. Use a guia **[!UICONTROL Memória]** para controlar o que ela mantém.
 
-- Ativar memória: ative ou desative a memória entre sessões.
-- Preferências armazenadas: as preferências que o Co-worker Chat aprendeu e salvou. Cada entrada pode ser editada, excluída ou inspecionada, e as entradas podem ser filtradas por categoria.
-- Histórico de memórias salvas: uma linha do tempo de alterações em suas memórias armazenadas.
+1. Clique em **[!UICONTROL Memória]** na página Configurações.
+1. Ativar **[!UICONTROL Habilitar memória]**. Desative para impedir que o Bate-papo de Colaborador lembre-se entre sessões.
+1. Em **[!UICONTROL Preferências armazenadas]**, verifique o que o Chat do Colaborador salvou. É possível editar, excluir ou inspecionar cada entrada e filtrar entradas por categoria.
+1. Use o **[!UICONTROL Histórico de memórias salvas]** para ver uma linha do tempo de alterações em suas memórias.
 
 ![A guia Memória](./assets/ui-guide-18.png)
