@@ -7,9 +7,9 @@ product_v2:
 feature_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: CX Enterprise Coworker
-source-git-commit: dbee38135a5491fd21b65fdbb70ba60d949d7560
+source-git-commit: d87a189293dcc367e5fdfd80e6b59615fdbe9a2d
 workflow-type: tm+mt
-source-wordcount: '741'
+source-wordcount: '747'
 ht-degree: 3%
 ---
 # Visão geral do Adobe CX Enterprise Coworker Chat {#overview}
@@ -17,6 +17,8 @@ ht-degree: 3%
 O Bate-papo com colegas de trabalho é uma interface conversacional para realizar o trabalho de experiência do cliente. Você descreve uma meta em linguagem simples (por exemplo, &quot;crie um público-alvo para a promoção de yoga na primavera&quot; ou &quot;diga-me por que esse público-alvo encolheu na semana passada&quot;) e o Bate-papo do Colaborador planeja o trabalho, o executa em seu Adobe e em sistemas conectados, valida os resultados e traz o trabalho concluído de volta para você para aprovação.
 
 O valor: trabalho que costumava abranger várias telas, equipes e dias agora acontece em uma conversa em minutos. Você delega o resultado e permanece no controle por meio de revisão e aprovação; o Bate-papo com colegas de trabalho faz as etapas, se recupera de erros ao longo do caminho e fica mais nítido à medida que aprende como sua equipe funciona.
+
+Consulte [Introdução ao Chat do Colaborador](ui-guide.md).
 
 >[!AVAILABILITY]
 >
@@ -70,4 +72,4 @@ O Chat do Colaborador é alimentado pelos blocos de construção do Colaborador.
 
 ## Visão geral do vídeo
 
->[!VIDEO](https://video.tv.adobe.com/v/3495971?captions=por_br&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3495967?learn=on){transcript=true}

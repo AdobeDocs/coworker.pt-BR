@@ -8,7 +8,7 @@ product_v2:
 feature_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: CX Enterprise Coworker
-source-git-commit: 216699c5b1bd34ffea0884083599fb51609762d1
+source-git-commit: 9dbf1eb9bf7b975af633b67ea2af812392932ec3
 workflow-type: tm+mt
 source-wordcount: '1799'
 ht-degree: 2%
@@ -17,7 +17,7 @@ ht-degree: 2%
 
 O Bate-papo com colegas de trabalho permite que você trabalhe com seus dados e ferramentas do Adobe CX Enterprise, perguntando o que precisa em linguagem simples. Use esta página para abrir o Chat do Colaborador, enviar sua primeira mensagem e configurá-la como você trabalha.
 
->[!VIDEO](https://video.tv.adobe.com/v/3498571?captions=por_br&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3498558?learn=on)
 
 ## Disponibilidade
 
@@ -132,7 +132,7 @@ Anexe um arquivo ou objeto quando o Chat do Colaborador precisar de mais informa
 
 ![O menu anexar](./assets/ui-guide-5.png)
 
-### Revisar um plano antes de o Bate-papo de Colaborador agir
+### Revisar um plano antes de o Bate-papo de Colaborador agir {#plan-mode}
 
 Use o Modo de plano para tarefas complexas ou tarefas que alteram dados. Quando o modo de Plano está ativado, o Bate-papo com colegas de trabalho propõe um plano e aguarda a sua aprovação antes de executá-lo. Quando o modo de Plano está desativado, o Bate-papo com colegas de trabalho inicia o trabalho imediatamente.
 
