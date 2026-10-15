@@ -8,16 +8,16 @@ product_v2:
 feature_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: CX Enterprise Coworker
-source-git-commit: 9dbf1eb9bf7b975af633b67ea2af812392932ec3
+source-git-commit: e3d44db4695911c1b72f47fb66bd75e24acfc2e2
 workflow-type: tm+mt
-source-wordcount: '1799'
+source-wordcount: '1809'
 ht-degree: 2%
 ---
 # Introdução ao Chat do Colaborador {#ui-guide}
 
 O Bate-papo com colegas de trabalho permite que você trabalhe com seus dados e ferramentas do Adobe CX Enterprise, perguntando o que precisa em linguagem simples. Use esta página para abrir o Chat do Colaborador, enviar sua primeira mensagem e configurá-la como você trabalha.
 
->[!VIDEO](https://video.tv.adobe.com/v/3498571?captions=por_br&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3498558?learn=on)
 
 ## Disponibilidade
 
@@ -46,9 +46,9 @@ Como alternativa, clique em **[!UICONTROL Colaborador]** no seletor de aplicativ
 
 ![Colaborador no seletor de aplicativos do CX Enterprise](./assets/ui-guide-1.png)
 
-## Definir seu contexto
+## Escolha sua organização
 
-Sua organização e sandbox determinam quais dados, habilidades e ferramentas conectadas uma conversa pode acessar. Verifique-as antes de começar. O contexto atual é exibido na parte inferior do painel de navegação esquerdo, sob seu nome.
+Sua [organização](https://experienceleague.adobe.com/pt-br/docs/core-services/interface/administration/organizations) e sandbox determinam quais dados, habilidades e ferramentas conectadas uma conversa pode acessar. Verifique-as antes de começar. O contexto atual é exibido na parte inferior do painel de navegação esquerdo, sob seu nome.
 
 Para alterar o contexto:
 
@@ -89,7 +89,7 @@ Use o painel de navegação para se mover entre as partes do produto e retornar 
 
 ## Envie sua primeira mensagem
 
-A tela inicial mostra uma saudação, a caixa de entrada e os prompts sugeridos com base no que o Coworker Chat pode fazer na sandbox. Você pode começar com uma sugestão ou escrever sua própria mensagem.
+A tela inicial mostra uma saudação, a caixa de entrada ([!UICONTROL Chat]) e os prompts sugeridos com base no que o Chat de Colaborador pode fazer na sua sandbox. Você pode começar com uma sugestão ou escrever sua própria mensagem.
 
 Para enviar uma mensagem:
 
