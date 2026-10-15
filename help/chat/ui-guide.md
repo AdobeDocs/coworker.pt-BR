@@ -8,20 +8,18 @@ product_v2:
 feature_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: CX Enterprise Coworker
-source-git-commit: e3d44db4695911c1b72f47fb66bd75e24acfc2e2
+source-git-commit: 74f8413fcb9bb0ab6c257a56c38e5e374414e2d5
 workflow-type: tm+mt
-source-wordcount: '1809'
+source-wordcount: '1802'
 ht-degree: 2%
 ---
 # Introdução ao Chat do Colaborador {#ui-guide}
 
 O Bate-papo com colegas de trabalho permite que você trabalhe com seus dados e ferramentas do Adobe CX Enterprise, perguntando o que precisa em linguagem simples. Use esta página para abrir o Chat do Colaborador, enviar sua primeira mensagem e configurá-la como você trabalha.
 
->[!VIDEO](https://video.tv.adobe.com/v/3498571?captions=por_br&learn=on)
-
 ## Disponibilidade
 
-O Chat do colaborador está disponível como uma experiência imersiva, um espaço de trabalho de página inteira e como uma experiência no produto em alguns aplicativos do CX Enterprise. Para abrir a experiência no produto, clique no ícone do Colaborador ![Ícone do Colaborador](./assets/icon-coworker.png) na parte superior direita do aplicativo.
+O [!DNL Coworker] [!UICONTROL Chat] está disponível como uma experiência imersiva, um espaço de trabalho de página inteira e como uma experiência no produto em alguns aplicativos do [!DNL CX Enterprise].
 
 A tabela a seguir mostra onde cada experiência está disponível.
 
@@ -35,16 +33,20 @@ A tabela a seguir mostra onde cada experiência está disponível.
 | AEM | Disponível agora | Disponível agora |
 | Marketo Engage | Disponível agora | Em breve |
 
-## Abrir Chat do Colaborador {#immersive}
+## Abrir o Chat do [!DNL Coworker] {#immersive}
 
 Para usar a experiência imersiva, entre com as credenciais da Adobe. É possível abri-lo por um link direto ou dentro do CX Enterprise.
 
 1. Ir para [https://experience.adobe.com/#/coworker](https://experience.adobe.com/#/coworker).
 1. Faça logon com sua Adobe ID.
-
-Como alternativa, clique em **[!UICONTROL Colaborador]** no seletor de aplicativos, no cabeçalho do CX Enterprise.
+1. Em [!DNL CX Enterprise], clique no menu do seletor de aplicativos ![Ícone do menu do produto](./assets/apps-icon.png) e clique em **[!DNL Coworker]**.
+1. Para abrir o Chat (a experiência no produto), clique em **[!UICONTROL Bate-papos]** ![Ícone do Colaborador](./assets/icon-coworker.png).
 
 ![Colaborador no seletor de aplicativos do CX Enterprise](./assets/ui-guide-1.png)
+
+## Vídeo - Noções básicas da interface de chat [!DNL Coworker]
+
+>[!VIDEO](https://video.tv.adobe.com/v/3498558?learn=on)
 
 ## Escolha sua organização
 
