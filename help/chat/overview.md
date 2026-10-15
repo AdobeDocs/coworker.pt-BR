@@ -7,9 +7,9 @@ product_v2:
 feature_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: CX Enterprise Coworker
-source-git-commit: 74f8413fcb9bb0ab6c257a56c38e5e374414e2d5
+source-git-commit: 7af4950080b8805d94062567bdf4075d1f57fc13
 workflow-type: tm+mt
-source-wordcount: '750'
+source-wordcount: '751'
 ht-degree: 3%
 ---
 # Visão geral do Adobe CX Enterprise Coworker Chat {#overview}
@@ -26,7 +26,7 @@ Para começar, consulte [Introdução ao Chat do Colaborador](ui-guide.md).
 
 >[!NOTE]
 >
->O Bate-papo com colegas de trabalho é um módulo do Adobe CX Enterprise Coworker. Dois outros módulos estendem a mesma base: Campanhas do colaborador (levante e inicie uma campanha completa a partir de uma conversa) e Projetos do colaborador (um espaço de trabalho sempre ativo para fluxos de trabalho completos de várias equipes). Esta página aborda o Bate-papo do Colaborador.
+>O Bate-papo com colegas de trabalho é um módulo do Adobe CX Enterprise Coworker. Dois outros módulos estendem a mesma base: o Colaborador para equipes (se posicionar e iniciar uma campanha completa a partir de uma conversa) e os Projetos do Colaborador (um espaço de trabalho sempre ativo para fluxos de trabalho completos de várias equipes). Esta página aborda o Bate-papo do Colaborador.
 
 ## Uma evolução do Assistente de IA
 
@@ -72,4 +72,4 @@ O Chat do Colaborador é alimentado pelos blocos de construção do Colaborador.
 
 ## Visão geral do vídeo
 
->[!VIDEO](https://video.tv.adobe.com/v/3495971?captions=por_br&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3495967?learn=on){transcript=true}
