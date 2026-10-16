@@ -1,5 +1,5 @@
 ---
-title: Validar e controlar dados do Analytics com o Chat do parceiro
+title: Implementar e administrar o Analytics com o bate-papo entre colegas de trabalho
 description: Planeje sua implementação, rastreie-a em uma lista de verificação e valide os dados do Adobe Analytics, Customer Journey Analytics e Experience Platform com o Chat do colaborador.
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
@@ -7,17 +7,17 @@ product_v2:
 feature_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: CX Enterprise Coworker
-source-git-commit: f914f4a123216985ae9b562413f26e7b8c29eb0f
+source-git-commit: 4bbaf3021be6518ce3aa811efec7b4d0d2746199
 workflow-type: tm+mt
-source-wordcount: '1127'
+source-wordcount: '1126'
 ht-degree: 0%
 ---
 
-# Visão geral da governança e validação de dados
+# Visão geral da implementação e administração inteligentes
 
 Use o Adobe CX Enterprise Coworker Chat para configurar, migrar e gerenciar a implementação de análise e garantir que você possa confiar nos dados por trás de cada resposta. O colaborador pode planejar sua implementação, transformar esse plano em uma lista de verificação que sua equipe pode rastrear e validar seus dados após a coleta.
 
-A governança e validação de dados é um dos vários domínios de análise no Chat de colegas de trabalho. Para ver todos os domínios, consulte [Iniciar análise no Chat do Colaborador](/help/chat/use-cases/data-insights/analytics-overview.md#start-analyzing-in-coworker-chat) em Analisar dados com o Chat do Colaborador.
+A implementação e administração inteligente é um dos vários domínios de análise no Chat do colaborador. Para ver todos os domínios, consulte [Iniciar análise no Chat do Colaborador](/help/chat/use-cases/data-insights/analytics-overview.md#start-analyzing-in-coworker-chat) em Analisar dados com o Chat do Colaborador.
 
 **Recomendado para:** Administrador
 

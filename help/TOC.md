@@ -5,7 +5,7 @@ user-guide-description: Saiba mais sobre o Adobe CX Enterprise Coworker, um comp
 description: Saiba mais sobre as ferramentas de IA no CX Enterprise. Melhore o conhecimento do seu produto e obtenha insights operacionais usando IA no CX Enterprise.
 solution: Experience Cloud
 role: Admin,User,Developer,Leader
-source-git-commit: 9d38c1c9bb50ff07d82da24143074090bf49d7aa
+source-git-commit: 4bbaf3021be6518ce3aa811efec7b4d0d2746199
 workflow-type: tm+mt
 source-wordcount: '275'
 ht-degree: 16%
@@ -23,7 +23,7 @@ ht-degree: 16%
     - Insights de dados {#data-insights}
       - [Visão geral](./chat/use-cases/data-insights/analytics-overview.md)
       - [Introdução](./chat/use-cases/data-insights/analytics-chat.md)
-      - Governança e validação de dados {#data-governance-and-validation}
+      - Implementação e administração inteligentes {#intelligent-implementation-and-administration}
         - [Visão geral](./chat/use-cases/data-insights/data-governance-and-validation.md)
         - [Planejar a implementação](./chat/use-cases/data-insights/implementation-guide.md)
         - [Gerar uma lista de verificação de implementação](./chat/use-cases/data-insights/intelligent-checklist.md)
