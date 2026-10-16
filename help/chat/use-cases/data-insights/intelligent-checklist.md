@@ -1,8 +1,7 @@
 ---
 title: Gerar uma lista de verificação de implementação em projetos de colaboração
 description: Saiba como o Co-worker Projects gera uma lista de verificação de implementação pré-preenchida a partir do seu plano de Guias de implementação, com etapas que você pode atribuir e rastrear.
-hold: true
-source-git-commit: 2bf31c1348054a16ba7e7c0c26c0ff913634aa27
+source-git-commit: 4d91397c769a76fba4f0ec1c3e86938a01fe2c6a
 workflow-type: tm+mt
 source-wordcount: '703'
 ht-degree: 0%

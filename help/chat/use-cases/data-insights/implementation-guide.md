@@ -1,8 +1,7 @@
 ---
 title: Planeje sua implementação do Customer Journey Analytics ou de mídia de transmissão com o colega
 description: Saiba como as habilidades do guia de implementação do Colaborador transformam uma conversa de descoberta em um plano de implementação personalizado e ordenado com listas de verificação exportáveis.
-hold: true
-source-git-commit: 2bf31c1348054a16ba7e7c0c26c0ff913634aa27
+source-git-commit: 4d91397c769a76fba4f0ec1c3e86938a01fe2c6a
 workflow-type: tm+mt
 source-wordcount: '1239'
 ht-degree: 1%
