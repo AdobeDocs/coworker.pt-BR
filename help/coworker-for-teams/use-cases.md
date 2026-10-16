@@ -1,24 +1,24 @@
 ---
-description: Procure padrões reais de prompt para Campanhas do Adobe CX Enterprise Coworker, organizados por caso de uso em campanhas de aquisição, envolvimento, eventos, conversão e retenção.
-title: Casos de uso de campanhas de colegas de trabalho
+description: Procure padrões reais de prompt para equipes do Adobe CX Enterprise Coworker, organizados por caso de uso em campanhas de aquisição, envolvimento, eventos, conversão e retenção.
+title: Colaborador para casos de uso de equipes
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: CX Enterprise Coworker
 feature_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: CX Enterprise Coworker
-source-git-commit: dbee38135a5491fd21b65fdbb70ba60d949d7560
+source-git-commit: 7af4950080b8805d94062567bdf4075d1f57fc13
 workflow-type: tm+mt
-source-wordcount: '508'
+source-wordcount: '512'
 ht-degree: 0%
 ---
 # Casos de uso {#use-cases}
 
-Abaixo estão os padrões de solicitação reais que os profissionais de marketing de ciclo de vida e crescimento estão usando nas Campanhas do Adobe CX Enterprise Coworker. Cada uma é criada para ser copiada, trocada com seu próprio público-alvo e detalhes da marca e refinada na conversa.
+Abaixo estão os padrões de solicitação reais que os profissionais de marketing de ciclo de vida e crescimento estão usando no Adobe CX Enterprise Coworker para equipes. Cada uma é criada para ser copiada, trocada com seu próprio público-alvo e detalhes da marca e refinada na conversa.
 
 ## Como usar
 
-Escolha um caso de uso que se encaixe em sua meta, copie o prompt de amostra e cole-o em Campanhas do colega de trabalho, substitua os espaços reservados por suas especificidades e refine a saída via chat. Para o passo a passo completo, vá para Criar e gerar campanhas.
+Escolha um caso de uso que se ajuste ao seu objetivo, copie o prompt de amostra e cole-o no Co-worker para equipes, substitua os espaços reservados por suas especificidades e refine a saída via chat. Para o passo a passo completo, vá para Criar e gerar campanhas.
 
 ## Aquisição e integração
 
@@ -74,7 +74,7 @@ Melhor para: treinamento de produtos, adoção de recursos, redução do tempo d
 
 Melhor para: mensagens sazonais de varejo, quedas de coleção, momentos de atualização.
 
-`"Build a 2-touch email campaign, 3 days apart, announcing our new seasonal catalog. Highlight what’s new and relevant for buyers in my CSV list. Personalize content to each person’s first name, product interest category, and region."`
+`"Build a 2-touch email campaign, 3 days apart, announcing our new seasonal catalog. Highlight what's new and relevant for buyers in my CSV list. Personalize content to each person's first name, product interest category, and region."`
 
 ## Eventos e eventos
 

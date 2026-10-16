@@ -1,20 +1,20 @@
 ---
-description: Saiba mais sobre as melhorias e correções de recursos nas notas de versão do Adobe CX Enterprise Coworker Campaigns.
-title: Notas de versão do CX Enterprise Coworker Campaigns
+description: Saiba mais sobre os aprimoramentos e correções de recursos nas notas de versão do Adobe CX Enterprise Coworker para equipes.
+title: Notas de versão do CX Enterprise Coworker para equipes
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: CX Enterprise Coworker
 feature_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: CX Enterprise Coworker
-source-git-commit: ee66c1cc95ef1dd8c5e45c1fcb699547e63b9c8a
+source-git-commit: 7af4950080b8805d94062567bdf4075d1f57fc13
 workflow-type: tm+mt
-source-wordcount: '3590'
+source-wordcount: '3597'
 ht-degree: 0%
 ---
-# Notas de versão do Adobe CX Enterprise Coworker Campaigns {#release-notes}
+# Notas de versão do Adobe CX Enterprise Coworker para equipes {#release-notes}
 
-As versões do Co-worker Campaigns operam em um modelo de entrega contínua que permite uma abordagem mais escalável e em fases para a implantação de recursos.
+Os lançamentos de colegas de trabalho para equipes operam em um modelo de entrega contínua que permite uma abordagem mais escalável e em fases para a implantação de recursos.
 
 ## Setembro de 2026 {#sep-2026}
 
@@ -173,7 +173,7 @@ As versões do Co-worker Campaigns operam em um modelo de entrega contínua que 
 * Os insights do Campaign mostram qual fonte de dados habilita cada métrica
 * Os editores de marca agora estão integrados na integração para uma configuração inicial mais suave
 * Visualize um exemplo de público-alvo antes de confirmar sua campanha
-* As Campanhas de colegas de trabalho agora estão no shell de navegação unificado da Experience Cloud
+* Os colegas de trabalho das equipes agora residem no shell de navegação unificado da Experience Cloud
 * Remoção da barra de dica de feedback flutuante de um quadro de campanha mais limpo
 * Várias melhorias de desempenho e confiabilidade no
 
@@ -276,7 +276,7 @@ As versões do Co-worker Campaigns operam em um modelo de entrega contínua que 
 
 **Data de lançamento: 10 de junho de 2026**
 
-* O aplicativo agora é Campanhas de colega de trabalho com nomes atualizados em todo o
+* O aplicativo agora é Colaborador para equipes com nomes atualizados em todo o
 * Um tour de integração pela primeira vez o orienta a criar uma marca de demonstração
 * Inicie campanhas a partir de um diálogo dedicado quando seu plano estiver pronto para uso
 * Conecte o HubSpot com uma chave de API do catálogo de integrações
@@ -370,7 +370,7 @@ As versões do Co-worker Campaigns operam em um modelo de entrega contínua que 
 
 * Os quadros e as listas de campanha permanecem alinhados aos detalhes mais recentes enquanto você trabalha
 * Um aviso de isenção de responsabilidade generativa clara é exibido no bate-papo da campanha e no Construtor de agentes
-* Os detalhes de contato de suporte agora usam o endereço de email dedicado do CX Coworker Campaigns
+* Os detalhes de contato de suporte agora usam o endereço de email dedicado CX Coworker para equipes
 * A página inicial de marketing remove a seção da lista de espera e mostra o vídeo principal com mais clareza
 * Mais telas respeitam os formatos de idioma e data locais automaticamente
 * Várias melhorias de desempenho e confiabilidade no

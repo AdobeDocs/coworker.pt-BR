@@ -5,9 +5,9 @@ user-guide-description: Saiba mais sobre o Adobe CX Enterprise Coworker, um comp
 description: Saiba mais sobre as ferramentas de IA no CX Enterprise. Melhore o conhecimento do seu produto e obtenha insights operacionais usando IA no CX Enterprise.
 solution: Experience Cloud
 role: Admin,User,Developer,Leader
-source-git-commit: 69cf9eca65b61d4eb86ea3365013d8553a81e6e3
+source-git-commit: 7af4950080b8805d94062567bdf4075d1f57fc13
 workflow-type: tm+mt
-source-wordcount: '229'
+source-wordcount: '233'
 ht-degree: 17%
 ---
 
@@ -16,7 +16,7 @@ ht-degree: 17%
 - [Visão geral do colaborador](home.md)
 - Chat {#chat}
   - [Visão geral](./chat/overview.md)
-  - [Guia da interface do usuário](./chat/ui-guide.md)
+  - [Introdução ao Chat](./chat/ui-guide.md)
   - {hide-from-toc}[Chat do Colaborador no Playground](./playground-coworker-chat.md)
   - Casos de uso {#use-cases}
     - [Fluxos de trabalho de chat do colaborador](./chat/use-cases/workflows.md)
@@ -66,15 +66,15 @@ ht-degree: 17%
     - [Gerenciar plug-ins da sua organização](./customizations/plugins/manage-plugins-for-your-org.md)
   - Memória {#memory}
     - [O que é memória?](./customizations/memory/what-is-memory.md)
-- Campanhas {#campaigns}
-  - {hide-from-toc}[Nova experiência com equipes](./campaigns/new-teams-experience.md)
-  - [Visão geral](./campaigns/overview.md)
-  - [Criar uma campanha de email](./campaigns/create-an-email-campaign.md)
-  - [Iniciar e gerenciar uma campanha](./campaigns/launch-manage-campaign.md)
-  - [Casos de uso](./campaigns/use-cases.md)
-  - [Solicitação de práticas recomendadas](./campaigns/prompting-best-practices.md)
-  - [Metadados do C2PA](./campaigns/c2pa-metadata.md)
+- Colaborador de equipes {#coworker-for-teams}
+  - {hide-from-toc}[Nova experiência com equipes](./coworker-for-teams/new-teams-experience.md)
+  - [Visão geral](./coworker-for-teams/overview.md)
+  - [Criar uma campanha de email](./coworker-for-teams/create-an-email-campaign.md)
+  - [Iniciar e gerenciar uma campanha](./coworker-for-teams/launch-manage-campaign.md)
+  - [Casos de uso](./coworker-for-teams/use-cases.md)
+  - [Solicitação de práticas recomendadas](./coworker-for-teams/prompting-best-practices.md)
+  - [Metadados do C2PA](./coworker-for-teams/c2pa-metadata.md)
   - Conectores {#connectors}
-    - [Marketo Engage](./campaigns/connectors/marketo.md)
-    - [Hubspot](./campaigns/connectors/hubspot.md)
-  - [Notas de versão](./campaigns/release-notes.md)
+    - [Marketo Engage](./coworker-for-teams/connectors/marketo.md)
+    - [Hubspot](./coworker-for-teams/connectors/hubspot.md)
+  - [Notas de versão](./coworker-for-teams/release-notes.md)

@@ -1,5 +1,5 @@
 ---
-description: 'Saiba mais sobre as Campanhas do colega de trabalho que geram práticas recomendadas: a estrutura CO-STAR, o que fazer e o que não fazer, o conteúdo não suportado e uma lista de verificação de qualidade para prompts.'
+description: 'Aprenda a colaborar com as equipes, solicitando práticas recomendadas: a estrutura CO-STAR, o que fazer e não fazer, o conteúdo não suportado e uma lista de verificação de qualidade para prompts.'
 title: Práticas recomendadas de criação de prompts
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
@@ -7,18 +7,18 @@ product_v2:
 feature_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: CX Enterprise Coworker
-source-git-commit: b6a05e2fdc16830fd69ac1b5ea68ed1d4c5d5c5f
+source-git-commit: 7af4950080b8805d94062567bdf4075d1f57fc13
 workflow-type: tm+mt
-source-wordcount: '781'
+source-wordcount: '785'
 ht-degree: 1%
 ---
 # Solicitação de práticas recomendadas {#best-practices}
 
-Aproveitar ao máximo as Campanhas de colega de trabalho começa com o modo como você solicita. Conheça as práticas que produzem os melhores resultados: a estrutura CO-STAR para estruturar seus prompts, o que incluir e o que evitar, e exemplos baseados em cenários que dão à IA o contexto necessário para gerar conteúdo relevante no destino.
+Aproveitar ao máximo o Colaborador para equipes começa com como você solicita. Conheça as práticas que produzem os melhores resultados: a estrutura CO-STAR para estruturar seus prompts, o que incluir e o que evitar, e exemplos baseados em cenários que dão à IA o contexto necessário para gerar conteúdo relevante no destino.
 
 >[!NOTE]
 >
->Atualmente, você só pode se conectar a integrações compatíveis com o Co-worker Campaigns. Se você tiver algum aplicativo Adobe Enterprise existente, em que armazene públicos ou compile jornadas, recomendamos que você use o [CX Enterprise Coworker](/help/chat/use-cases/workflows.md).
+>Atualmente, você só pode se conectar ao Colaborador para integrações compatíveis com equipes. Se você tiver algum aplicativo Adobe Enterprise existente, em que armazene públicos ou compile jornadas, recomendamos que você use o [CX Enterprise Coworker](/help/chat/use-cases/workflows.md).
 
 ## Usar a estrutura CO-STAR
 
@@ -179,4 +179,4 @@ Sempre forneça contexto e a proposta de valor para que a IA possa gerar conteú
 
 >[!MORELIKETHIS]
 >
->Procure mais [padrões de prompt](use-cases.md) para Campanhas de Colaborador.
+>Procurar mais [padrões de prompt](use-cases.md) para Colaborador de equipes.

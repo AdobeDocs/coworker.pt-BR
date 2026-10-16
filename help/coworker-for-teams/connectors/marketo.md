@@ -1,5 +1,5 @@
 ---
-description: Saiba como conectar sua conta do Marketo Engage a Campanhas do colega de trabalho para sincronizar listas inteligentes e estáticas do Marketo.
+description: Saiba como conectar sua conta do Marketo Engage ao Colaborador para equipes para sincronizar listas inteligentes e estáticas do Marketo.
 title: Conectar-se ao Marketo Engage
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
@@ -7,14 +7,14 @@ product_v2:
 feature_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: CX Enterprise Coworker
-source-git-commit: dbee38135a5491fd21b65fdbb70ba60d949d7560
+source-git-commit: 7af4950080b8805d94062567bdf4075d1f57fc13
 workflow-type: tm+mt
-source-wordcount: '311'
+source-wordcount: '316'
 ht-degree: 0%
 ---
 # Conectar-se ao Marketo Engage {#marketo}
 
-O Adobe Co-worker Campaigns permite conectar a conta do Marketo Engage para obter listas inteligentes e estáticas.
+O Adobe Co-worker para equipes permite conectar a conta do Marketo Engage para obter listas inteligentes e estáticas.
 
 >[!PREREQUISITES]
 >
@@ -22,13 +22,13 @@ O Adobe Co-worker Campaigns permite conectar a conta do Marketo Engage para obte
 >
 >* Uma conta ativa do Marketo Engage
 >* Sua URL da instância **do Marketo**
->* Um [serviço personalizado](https://experienceleague.adobe.com/pt-br/docs/marketo-developer/marketo/rest/custom-services#custom-services-1) criado para Campanhas de Colaborador no Marketo, com sua [ID de Cliente e segredo de Cliente](https://experienceleague.adobe.com/pt-br/docs/marketo-developer/marketo/rest/authentication#creating-an-access-token) disponíveis
+>* Um [serviço personalizado](https://experienceleague.adobe.com/pt-br/docs/marketo-developer/marketo/rest/custom-services#custom-services-1) criado para o Colaborador para equipes na Marketo, com sua [ID do cliente e segredo do cliente](https://experienceleague.adobe.com/pt-br/docs/marketo-developer/marketo/rest/authentication#creating-an-access-token) disponíveis
 
 ## Como se conectar
 
-1. Na [página inicial de Campanhas do colega de trabalho](https://coworker-campaigns.experience.adobe.com/), clique em **Personalizar** e selecione **Conectores**.
+1. Na [Página inicial de colegas de trabalho das equipes](https://coworker-campaigns.experience.adobe.com/), clique em **Personalizar** e selecione **Conectores**.
 
-   ![Campanhas do colega de trabalho deixaram a navegação com Personalizar expandido e Conectores destacados](./assets/marketo-1.png)
+   ![Colaborador para equipes saiu da navegação com Personalizar expandido e Conectores destacados](./assets/marketo-1.png)
 
 1. Clique em **Adicionar integração**.
 

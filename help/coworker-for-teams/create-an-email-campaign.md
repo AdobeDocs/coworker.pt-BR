@@ -1,5 +1,5 @@
 ---
-description: Um guia passo a passo para gerar uma campanha de email no Adobe CX Enterprise Coworker Campaigns, desde escrever prompts até revisar e exportar sua campanha.
+description: Um guia passo a passo para gerar uma campanha de email no Adobe CX Enterprise Coworker para equipes, desde escrever prompts até revisar e exportar sua campanha.
 title: Criar uma campanha de email
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
@@ -7,9 +7,9 @@ product_v2:
 feature_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: CX Enterprise Coworker
-source-git-commit: 2d4922c334bcc2ec93dec46098a9c021623034ad
+source-git-commit: 7af4950080b8805d94062567bdf4075d1f57fc13
 workflow-type: tm+mt
-source-wordcount: '976'
+source-wordcount: '983'
 ht-degree: 0%
 ---
 # Criar uma campanha de email {#create-an-email-campaign}
@@ -24,7 +24,7 @@ Saiba como gerar e revisar campanhas de email completas em minutos.
 
 Verifique se você tem:
 
-* Uma conta ativa do Adobe CX Enterprise Coworker Campaigns ([inscreva-se aqui](https://coworker-campaigns.experience.adobe.com/){target="_blank"} se você ainda não tiver uma).
+* Uma Adobe CX Enterprise Coworker ativa para a conta de equipes ([inscreva-se aqui](https://coworker-campaigns.experience.adobe.com/){target="_blank"} se você ainda não tiver uma).
 
 * Sua marca adicionada em **Seus itens** > **Marcas**.
 
@@ -46,7 +46,7 @@ _Quando usar: Quando você souber exatamente o que deseja._
 
 _Quando usar: quando você não tem certeza do que deseja._
 
-**Opção três**: use a opção &quot;Ajude-me a avisar&quot; na lista suspensa na barra de prompts para que as Campanhas do Colaborador o orientem durante a escrita do seu prompt.
+**Opção três**: use a opção &quot;Ajude-me a avisar&quot; na lista suspensa na barra de prompts para que o Colaborador das equipes o oriente a escrever seu prompt.
 
 _Quando usar: quando você tiver uma ideia do que deseja, mas quiser alguma ajuda (ou use &quot;Surpreenda-me&quot; para se surpreender)._
 
@@ -54,7 +54,7 @@ _Quando usar: quando você tiver uma ideia do que deseja, mas quiser alguma ajud
 
 ## Etapa 2: criar seu prompt
 
-Um forte prompt do Co-worker Campaigns inclui:
+Um forte alerta de Colaborador para equipes inclui:
 
 * A meta da campanha (o que você está tentando alcançar).
 * O público-alvo (para quem são ou de onde vêm os dados do público-alvo).
@@ -75,7 +75,7 @@ Exemplo:
 
 ![Digitando seu próprio prompt](./assets/create-an-email-campaign-2.png)
 
-Quando o prompt estiver pronto, clique em **Gerar campanha**. As Campanhas de colegas de trabalho irão:
+Quando o prompt estiver pronto, clique em **Gerar campanha**. O colaborador das equipes irá:
 
 * Gerar um plano de campanha estruturado.
 * Pergunte pelo seu público-alvo, que também será usado para personalização de conteúdo.
@@ -115,7 +115,7 @@ Há duas maneiras de atualizar seu conteúdo.
 
 -ou-
 
-* Use a interface conversacional para fazer alterações conversando diretamente com Campanhas do colega de trabalho. Alguns exemplos incluem:
+* Use a interface conversacional para fazer alterações conversando diretamente com o colega de trabalho das equipes. Alguns exemplos incluem:
 
   * &quot;Torne a linha de assunto mais urgente.&quot;
   * &quot;Encurte a cópia do corpo.&quot;
@@ -149,7 +149,7 @@ A funcionalidade do Launch (envio da campanha de email) será adicionada em brev
 
 Isso está gerando uma campanha inteira para você, incluindo a estratégia, o público-alvo necessário, o fluxo de trabalho etc. O tempo médio da primeira resposta com seu conteúdo gerado normalmente é de cerca de um minuto.
 
-**O que devo fazer se o resultado das Campanhas entre Colegas não estiver totalmente correto?**
+**O que devo fazer se o resultado do Colaborador para equipes não estiver totalmente correto?**
 
 Clique no ícone de feedback no cabeçalho e informe-nos para que possamos melhorar a plataforma.
 

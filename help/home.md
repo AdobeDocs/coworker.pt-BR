@@ -7,7 +7,7 @@ product_v2:
 feature_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: CX Enterprise Coworker
-source-git-commit: 161506b712f3a5f39cb584d0491795a3db6faa95
+source-git-commit: 53e769c5478f46ec9240c62534994d8c30ce8380
 workflow-type: tm+mt
 source-wordcount: '936'
 ht-degree: 18%
@@ -23,7 +23,7 @@ O colega de trabalho desloca a IA de _assistência_ para _atuação_. Em vez de 
 [!DNL Coworker] é entregue através de três experiências:
 
 * **[Colaborador [!UICONTROL Chat]](./chat/overview.md):** Solicite informações, conteúdo e ações em aplicativos do Adobe em linguagem natural.
-* **[Colaborador [!UICONTROL Campanhas]](./campaigns/overview.md):** ajuda equipes de marketing ágeis a passar de uma meta de campanha para uma execução coordenada.
+* **[Colaborador [!UICONTROL para equipes]](./coworker-for-teams/overview.md):** ajuda as equipes de marketing ágeis a passar de uma meta de campanha para uma execução coordenada.
 * **Projetos [!UICONTROL de Colaborador] (em breve):** Para fluxos de trabalho corporativos interfuncionais e de longa duração, em que as equipes definem os processos, as aprovações e o nível de autonomia do Colaborador.
 
 ## Como habilitar o Colaborador
@@ -36,7 +36,7 @@ Para habilitar o Colaborador (incluindo o Bate-papo do Colaborador), sua organiz
 
 * **Acesso:** atribua funções e acesso aos recursos de colega de trabalho para suas equipes na Adobe [Admin Console](https://experienceleague.adobe.com/pt-br/docs/core-services/interface/administration/admin-console).
 
-* **Comece:** depois que o Coworker for habilitado, consulte o [Guia da Interface do Usuário](./chat/ui-guide.md) para saber mais sobre como contornar a interface do Chat do Coworker, incluindo a caixa de entrada, as respostas, o histórico do chat e as Habilidades, os servidores MCP e as configurações de Memória.
+* **Introdução:** depois que o Coworker estiver habilitado, consulte [Introdução ao Coworker Chat](./chat/ui-guide.md) para saber mais sobre a interface do Coworker Chat, incluindo a caixa de entrada, as respostas, o histórico do chat e as Habilidades, os servidores MCP e as configurações de Memória.
 
 ## Vídeos sobre o uso do Chat do colaborador
 
@@ -106,20 +106,20 @@ CARDS
 </div>
 <!-- END CARDS HTML - DO NOT MODIFY BY HAND -->
 
-## Campanhas de colegas de trabalho
-
-Campanhas de colegas de trabalho é um recurso modelado para que pequenas equipes ágeis levantem e executem campanhas.
-
-* [Visão geral](./campaigns/overview.md)
-* [Criar uma campanha de email](./campaigns/create-an-email-campaign.md)
-* [Casos de uso](./campaigns/use-cases.md)
-* [Solicitação de práticas recomendadas](./campaigns/prompting-best-practices.md)
-* [Conectar-se ao Marketo Engage](./campaigns/connectors/marketo.md)
-* [Conectar ao Hubspot](./campaigns/connectors/hubspot.md)
-
 ## Projetos (em breve)
 
 Os Projetos de colaboração são um espaço de trabalho compartilhado para automatizar fluxos de trabalho da experiência do cliente, da estratégia à entrega. As equipes o usam para coordenar tarefas, aprovações e execução.
+
+## Colaborador de equipes
+
+O Colaborador para equipes é um recurso modelado para que pequenas equipes ágeis levantem e executem campanhas.
+
+**Artigos populares**
+
+* [Visão geral](./coworker-for-teams/overview.md)
+* [Criar uma campanha de email](./coworker-for-teams/create-an-email-campaign.md)
+* [Casos de uso](./coworker-for-teams/use-cases.md)
+* [Solicitação de práticas recomendadas](./coworker-for-teams/prompting-best-practices.md)
 
 ## Experience League LIVE: Colaborador série desbloqueada
 

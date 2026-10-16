@@ -1,19 +1,19 @@
 ---
-description: Saiba como o Coworker Campaigns anexa e preserva automaticamente metadados C2PA em imagens, desde a geração até a entrega de emails.
-title: Metadados do C2PA em campanhas de colegas de trabalho
+description: Saiba como o Co-worker para equipes anexa e preserva automaticamente metadados C2PA em imagens, desde a geração até a entrega de emails.
+title: Metadados C2PA no Colaborador para equipes
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: CX Enterprise Coworker
-source-git-commit: dbee38135a5491fd21b65fdbb70ba60d949d7560
+source-git-commit: 7af4950080b8805d94062567bdf4075d1f57fc13
 workflow-type: tm+mt
-source-wordcount: '387'
+source-wordcount: '396'
 ht-degree: 4%
 ---
-# Metadados do C2PA em campanhas de colegas de trabalho {#overview}
+# Metadados C2PA no Colaborador para equipes {#overview}
 
 Novas leis estão surgindo em torno da transparência generativa da IA, e a Adobe está trabalhando para atender aos requisitos aplicáveis em todas as jurisdições. [Metadados C2PA](https://c2pa.org/) é a ferramenta de origem que o Adobe usa para atender aos requisitos dessas leis.
 
-Os metadados C2PA são metadados duráveis e invisíveis que registram como um conteúdo foi criado ou editado. Quando você gera ou edita uma imagem com ferramentas de IA gerativas em Campanhas do colega de trabalho, os metadados do C2PA são anexados automaticamente a essa imagem. Nenhuma ação é necessária da sua parte.
+Os metadados C2PA são metadados duráveis e invisíveis que registram como um conteúdo foi criado ou editado. Ao gerar ou editar uma imagem com ferramentas de IA gerativas no Co-worker para equipes, os metadados do C2PA são anexados automaticamente a essa imagem. Nenhuma ação é necessária da sua parte.
 
 ## Metadados C2PA em campanhas de email {#c2pa-metadate-email}
 
@@ -21,7 +21,7 @@ As imagens enviadas em suas campanhas de email mantêm os metadados do C2PA inta
 
 ## Ações que anexam metadados C2PA {#actions}
 
-A tabela a seguir resume quando os metadados C2PA são anexados, com base na ação de imagem executada na geração de imagem em Campanhas do colaborador.
+A tabela a seguir resume quando os metadados do C2PA são anexados, com base na ação de imagem executada na geração de imagem no Co-worker para equipes.
 
 | Ação | Descrição | Metadados C2PA anexados? | Exemplo de caso de uso |
 | --- | --- | --- | --- |
@@ -29,12 +29,12 @@ A tabela a seguir resume quando os metadados C2PA são anexados, com base na aç
 
 ## Tipos de conteúdo e seu escopo {#content-types}
 
-* **Imagens**: Cobertas. Os metadados C2PA são anexados quando as imagens são geradas com IA gerativa e preservados por meio de operações de recorte, sobreposição de texto e sobreposição de imagem executadas pela geração de imagens em campanhas de colegas de trabalho.
-* **Texto**: não aplicável. Saídas somente texto em Campanhas do colega de trabalho, como geração de cópia, tradução e sugestões de alinhamento de marca, não exigem metadados C2PA.
+* **Imagens**: Cobertas. Os metadados C2PA são anexados quando as imagens são geradas com IA gerativa e preservados por meio de operações de recorte, sobreposição de texto e sobreposição de imagem realizadas pela geração de imagens no Co-worker para equipes.
+* **Texto**: não aplicável. Saídas somente texto no Coworker para equipes, como geração de cópia, tradução e sugestões de alinhamento de marca, não exigem metadados C2PA.
 
 ## O que acontece quando o conteúdo se move {#content-moves}
 
-As Campanhas de colega de trabalho preservam os metadados C2PA associados aos ativos de imagem compatíveis. Se uma imagem contiver metadados C2PA quando importada para Campanhas com colegas de trabalho, essas credenciais serão retidas quando o ativo for usado no conteúdo da campanha gerado e em experiências de email de saída.
+O colaborador para equipes preserva os metadados C2PA associados aos ativos de imagem compatíveis. Se uma imagem contiver metadados C2PA quando importada para o Colaborador para equipes, essas credenciais serão mantidas quando o ativo for usado no conteúdo da campanha gerado e em experiências de email de saída.
 
 ## Recursos adicionais {#resources}
 

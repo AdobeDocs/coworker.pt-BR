@@ -8,20 +8,18 @@ product_v2:
 feature_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: CX Enterprise Coworker
-source-git-commit: 216699c5b1bd34ffea0884083599fb51609762d1
+source-git-commit: 74f8413fcb9bb0ab6c257a56c38e5e374414e2d5
 workflow-type: tm+mt
-source-wordcount: '1799'
+source-wordcount: '1802'
 ht-degree: 2%
 ---
 # Introdução ao Chat do Colaborador {#ui-guide}
 
 O Bate-papo com colegas de trabalho permite que você trabalhe com seus dados e ferramentas do Adobe CX Enterprise, perguntando o que precisa em linguagem simples. Use esta página para abrir o Chat do Colaborador, enviar sua primeira mensagem e configurá-la como você trabalha.
 
->[!VIDEO](https://video.tv.adobe.com/v/3498571?captions=por_br&learn=on)
-
 ## Disponibilidade
 
-O Chat do colaborador está disponível como uma experiência imersiva, um espaço de trabalho de página inteira e como uma experiência no produto em alguns aplicativos do CX Enterprise. Para abrir a experiência no produto, clique no ícone do Colaborador ![Ícone do Colaborador](./assets/icon-coworker.png) na parte superior direita do aplicativo.
+O [!DNL Coworker] [!UICONTROL Chat] está disponível como uma experiência imersiva, um espaço de trabalho de página inteira e como uma experiência no produto em alguns aplicativos do [!DNL CX Enterprise].
 
 A tabela a seguir mostra onde cada experiência está disponível.
 
@@ -35,20 +33,24 @@ A tabela a seguir mostra onde cada experiência está disponível.
 | AEM | Disponível agora | Disponível agora |
 | Marketo Engage | Disponível agora | Em breve |
 
-## Abrir Chat do Colaborador {#immersive}
+## Abrir o Chat do [!DNL Coworker] {#immersive}
 
 Para usar a experiência imersiva, entre com as credenciais da Adobe. É possível abri-lo por um link direto ou dentro do CX Enterprise.
 
 1. Ir para [https://experience.adobe.com/#/coworker](https://experience.adobe.com/#/coworker).
 1. Faça logon com sua Adobe ID.
-
-Como alternativa, clique em **[!UICONTROL Colaborador]** no seletor de aplicativos, no cabeçalho do CX Enterprise.
+1. Em [!DNL CX Enterprise], clique no menu do seletor de aplicativos ![Ícone do menu do produto](./assets/apps-icon.png) e clique em **[!DNL Coworker]**.
+1. Para abrir o Chat (a experiência no produto), clique em **[!UICONTROL Bate-papos]** ![Ícone do Colaborador](./assets/icon-coworker.png).
 
 ![Colaborador no seletor de aplicativos do CX Enterprise](./assets/ui-guide-1.png)
 
-## Definir seu contexto
+## Vídeo - Noções básicas da interface de chat [!DNL Coworker]
 
-Sua organização e sandbox determinam quais dados, habilidades e ferramentas conectadas uma conversa pode acessar. Verifique-as antes de começar. O contexto atual é exibido na parte inferior do painel de navegação esquerdo, sob seu nome.
+>[!VIDEO](https://video.tv.adobe.com/v/3498571?captions=por_br&learn=on)
+
+## Escolha sua organização
+
+Sua [organização](https://experienceleague.adobe.com/pt-br/docs/core-services/interface/administration/organizations) e sandbox determinam quais dados, habilidades e ferramentas conectadas uma conversa pode acessar. Verifique-as antes de começar. O contexto atual é exibido na parte inferior do painel de navegação esquerdo, sob seu nome.
 
 Para alterar o contexto:
 
@@ -89,7 +91,7 @@ Use o painel de navegação para se mover entre as partes do produto e retornar 
 
 ## Envie sua primeira mensagem
 
-A tela inicial mostra uma saudação, a caixa de entrada e os prompts sugeridos com base no que o Coworker Chat pode fazer na sandbox. Você pode começar com uma sugestão ou escrever sua própria mensagem.
+A tela inicial mostra uma saudação, a caixa de entrada ([!UICONTROL Chat]) e os prompts sugeridos com base no que o Chat de Colaborador pode fazer na sua sandbox. Você pode começar com uma sugestão ou escrever sua própria mensagem.
 
 Para enviar uma mensagem:
 
@@ -132,7 +134,7 @@ Anexe um arquivo ou objeto quando o Chat do Colaborador precisar de mais informa
 
 ![O menu anexar](./assets/ui-guide-5.png)
 
-### Revisar um plano antes de o Bate-papo de Colaborador agir
+### Revisar um plano antes de o Bate-papo de Colaborador agir {#plan-mode}
 
 Use o Modo de plano para tarefas complexas ou tarefas que alteram dados. Quando o modo de Plano está ativado, o Bate-papo com colegas de trabalho propõe um plano e aguarda a sua aprovação antes de executá-lo. Quando o modo de Plano está desativado, o Bate-papo com colegas de trabalho inicia o trabalho imediatamente.
 

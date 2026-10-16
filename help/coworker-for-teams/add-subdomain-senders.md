@@ -7,9 +7,9 @@ product_v2:
 feature_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: CX Enterprise Coworker
-source-git-commit: ebed9c3e740939a7f7520ab3bf1a6bbe5ba84019
+source-git-commit: 8c59f556cc9ea347c8f934507ac0db97fc7cb697
 workflow-type: tm+mt
-source-wordcount: '380'
+source-wordcount: '383'
 ht-degree: 4%
 ---
 # Adicionar um subdomínio e remetentes {#subdomain-senders}
@@ -54,19 +54,19 @@ Ao fazer isso, você ajudará a preservar a reputação do seu domínio e de out
    >
    >Se o seu provedor de DNS permitir o carregamento em massa dos campos, você poderá clicar em **Exportar CSV** para exportar todos os campos.
 
-1. Quando terminar de inserir as informações em seu provedor de DNS, clique em **Adicionei estes registros** em Campanhas de Colaborador para continuar.
+1. Quando terminar de inserir as informações em seu provedor de DNS, clique em **Adicionei estes registros** no Colaborador para que as equipes continuem.
 
    CAPTURA DE TELA
 
    >[!NOTE]
    >
-   >As alterações de DNS podem levar até 30 minutos para se propagarem. Se você vir um X vermelho em vez de uma verificação verde em qualquer uma das linhas, as Campanhas do colaborador verificarão a cada dois minutos até serem concluídas.
+   >As alterações de DNS podem levar até 30 minutos para se propagarem. Se você vir um X vermelho em vez de uma verificação verde em qualquer uma das linhas, o Colaborador para equipes verificará a cada dois minutos até a conclusão.
 
 1. Quando todos os registros forem validados, uma tabela _Registro de validação_ será exibida na parte inferior da janela. Role para baixo, copie todos os valores listados e adicione-os ao seu provedor de DNS.
 
    CAPTURA DE TELA
 
-1. Quando terminar, clique em **Adicionei este registro** (ou **estes registros** se houver vários) em Campanhas de Colaborador para continuar.
+1. Quando terminar, clique em **Adicionei este registro** (ou **estes registros**, se houver vários) no Colaborador para que as equipes continuem.
 
    CAPTURA DE TELA
 
@@ -85,4 +85,3 @@ Ao fazer isso, você ajudará a preservar a reputação do seu domínio e de out
 ## Como adicionar um remetente
 
 Texto
-
