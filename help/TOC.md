@@ -5,15 +5,15 @@ user-guide-description: Saiba mais sobre o Adobe CX Enterprise Coworker, um comp
 description: Saiba mais sobre as ferramentas de IA no CX Enterprise. Melhore o conhecimento do seu produto e obtenha insights operacionais usando IA no CX Enterprise.
 solution: Experience Cloud
 role: Admin,User,Developer,Leader
-source-git-commit: be1be18a25c57eafa07b326b1bf5800527cb1c7d
+source-git-commit: 2b61bbc29954e10515b5bbdbd7bafe48c7cbfdbd
 workflow-type: tm+mt
-source-wordcount: '281'
+source-wordcount: '282'
 ht-degree: 14%
 ---
 
 # CX Enterprise Coworker {#content}
 
-- [Visão geral do colaborador](home.md)
+- [Guia do colega de trabalho](home.md)
 - Chat {#chat}
   - [Sobre o Bate-papo de Colaborador](./chat/overview.md)
   - [Introdução ao uso do Chat de colaborador](./chat/ui-guide.md)
@@ -69,7 +69,7 @@ ht-degree: 14%
     - Fluxo de trabalho e planejamento {#workflow-and-planning}
       - [Planejar o lançamento de uma campanha digital](./chat/use-cases/workflow-and-planning/plan-digital-campaign-launch.md)
 - Personalizações {#customizations}
-  - [Visão geral](./customizations/overview.md)
+  - [Visão geral das personalizações](./customizations/overview.md)
   - Habilidades {#skills}
     - [O que são habilidades?](./customizations/skills/what-are-skills.md)
     - [Crie sua primeira habilidade](./customizations/skills/create-your-first-skill.md)
