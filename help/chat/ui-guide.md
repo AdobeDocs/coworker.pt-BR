@@ -8,9 +8,9 @@ product_v2:
 feature_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: CX Enterprise Coworker
-source-git-commit: 74f8413fcb9bb0ab6c257a56c38e5e374414e2d5
+source-git-commit: 80f7bf9003e360b9ca6d0e1868c056447d35b763
 workflow-type: tm+mt
-source-wordcount: '1802'
+source-wordcount: '1801'
 ht-degree: 2%
 ---
 # Introdução ao Chat do Colaborador {#ui-guide}
@@ -46,7 +46,7 @@ Para usar a experiência imersiva, entre com as credenciais da Adobe. É possív
 
 ## Vídeo - Noções básicas da interface de chat [!DNL Coworker]
 
->[!VIDEO](https://video.tv.adobe.com/v/3498571?captions=por_br&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3498558?learn=on)
 
 ## Escolha sua organização
 
@@ -213,7 +213,7 @@ Para fixar, renomear, arquivar ou excluir uma conversa, clique no menu de linha 
 
 ## Personalizar bate-papo de colega
 
-As configurações são onde você controla o que o Chat de Colaborador pode fazer. Clique em **[!UICONTROL Configurações]** no painel de navegação e escolha uma guia: **[!UICONTROL Habilidades]**, **[!UICONTROL Servidores MCP]**, **[!UICONTROL Marketplaces]**, **[!UICONTROL Plug-ins]** ou **[!UICONTROL Memória]**.
+[!UICONTROL Personalizações] é onde você controla o que o [!UICONTROL Chat do Colaborador] pode fazer. Clique em **[!UICONTROL Personalizações]** no painel de navegação e escolha uma guia: **[!UICONTROL Habilidades]**, **[!UICONTROL Integrações]**, **[!UICONTROL Marketplaces]**, **[!UICONTROL Plug-ins]** ou **[!UICONTROL Memória]**.
 
 ### Adicionar e exibir habilidades
 
@@ -221,8 +221,9 @@ As habilidades são recursos especializados que o Bate-papo de Colaborador usa a
 
 ![A guia Habilidades](./assets/ui-guide-12.png)
 
-1. Na guia **[!UICONTROL Habilidades]**, clique em **[!UICONTROL Adicionar Source]** para instalar habilidades de uma nova origem.
-1. Digite um nome em **[!UICONTROL Pesquisar]** para localizar uma habilidade. Use o botão de exibição para alternar entre os layouts de grade e lista.
+1. Na guia **[!UICONTROL Habilidades]**, clique em **[!UICONTROL Adicionar habilidades]** para instalar habilidades de uma nova origem.
+1. Digite um nome em **[!UICONTROL Pesquisar]** para localizar uma habilidade.
+Use o botão de exibição para alternar entre os layouts de grade e lista.
 1. Selecione uma habilidade para ver o plug-in ao qual pertence, quando o Bate-papo do Colaborador usá-lo e os arquivos que ele inclui.
 
    ![Uma exibição de detalhes de habilidades mostrando arquivos de suporte](./assets/ui-guide-13.png)
