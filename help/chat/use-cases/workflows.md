@@ -7,9 +7,9 @@ product_v2:
 feature_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: CX Enterprise Coworker
-source-git-commit: be1be18a25c57eafa07b326b1bf5800527cb1c7d
+source-git-commit: ee4016ae71de6eadc7b38d434a6aeefde74b124b
 workflow-type: tm+mt
-source-wordcount: '7712'
+source-wordcount: '7768'
 ht-degree: 6%
 ---
 # Fluxos de trabalho de chat do colaborador {#use-cases}
@@ -188,6 +188,7 @@ O Chat do Colaborador permite consultar, analisar e agir nos dados do [!DNL Expe
 | --- | --- | --- | --- | --- |
 | [Criar, editar e gerenciar desafios de fidelidade](https://experienceleague.adobe.com/pt-br/docs/journey-optimizer/using/loyalty-challenges/loyalty-coworker-skills#loyalty-challenge-management){target="_blank"} | Simplifique e acelere o gerenciamento do programa de fidelidade | `loyalty` | Adobe Journey Optimizer (AJO) | &quot;Crie um desafio incentivando os membros a experimentar uma nova bebida sazonal&quot; <br> &quot;Mostre-me desafios de fidelidade com as taxas mais altas de devolução de membros.&quot; |
 | [Analisar o desempenho do programa de fidelidade](https://experienceleague.adobe.com/pt-br/docs/journey-optimizer/using/loyalty-challenges/loyalty-coworker-skills#loyalty-data-insight){target="_blank"} | Consultar e analisar pontos de fidelidade, níveis de membros, resgates e métricas de receita usando linguagem natural | `loyalty-insights` | Adobe Journey Optimizer (AJO) | &quot;Quantos pontos de fidelidade foram concedidos durante agosto de 2026?&quot; <br> &quot;Mostrar a receita total do programa de fidelidade dividida por dia durante agosto de 2026.&quot; |
+| [Encontrar oportunidades de fidelidade](https://experienceleague.adobe.com/pt-br/docs/journey-optimizer/using/loyalty-challenges/loyalty-coworker-skills#loyalty-opportunities){target="_blank"} | Solicite oportunidades de desafio específicas e baseadas em tendências do programa de fidelidade e dados de desempenho e, em seguida, transforme-as em desafios reais | A definir | Adobe Journey Optimizer (AJO) | &quot;Quais oportunidades de fidelidade poderiam aumentar os gastos dos membros?&quot; <br> &quot;Mostre-me oportunidades para reconquistar membros inativos.&quot; |
 
 **Informações relacionadas**
 
