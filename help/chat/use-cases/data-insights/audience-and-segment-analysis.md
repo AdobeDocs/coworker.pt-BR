@@ -4,13 +4,10 @@ description: Use o Bate-papo com colegas de trabalho para comparar grupos de cli
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: CX Enterprise Coworker
-feature_v2:
-  - id: fdae8433-07cd-42e7-acce-738afe63f6bb
-    internal-label: CX Enterprise Coworker
-source-git-commit: f914f4a123216985ae9b562413f26e7b8c29eb0f
+source-git-commit: 5973a87d21b23d7621366108716cbd476e6f66ae
 workflow-type: tm+mt
-source-wordcount: '662'
-ht-degree: 2%
+source-wordcount: '695'
+ht-degree: 7%
 ---
 
 # Visão geral da análise de público-alvo e segmento
