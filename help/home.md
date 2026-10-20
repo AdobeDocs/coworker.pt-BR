@@ -7,55 +7,97 @@ product_v2:
 feature_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: CX Enterprise Coworker
-source-git-commit: ebe0bd0f8e420b007e1b99ec2e15fd3b249305e6
+source-git-commit: 101f41576f16073e745eb1c7914a3648ab914146
 workflow-type: tm+mt
-source-wordcount: '979'
+source-wordcount: '1094'
 ht-degree: 17%
 ---
 # Guia do CX Enterprise Coworker {#overview}
 
-[!DNL Coworker] é o companheiro de equipe de IA agente da Adobe para a experiência do cliente e o trabalho de marketing. Ele faz mais do que responder perguntas ou recomendar ações: executa workflows de marketing em várias etapas no Adobe e em outros sistemas corporativos, e as aprovações e a governança mantêm você no controle. Saiba mais sobre o [Adobe for Business](https://business.adobe.com/br/products/cx-enterprise-coworker.html).
+[!DNL Coworker] é o companheiro de equipe de IA agente da Adobe para a experiência do cliente e o trabalho de marketing. Ele faz mais do que responder perguntas ou recomendar ações. Ele executa workflows de marketing em várias etapas no Adobe e em outros sistemas corporativos, e as aprovações e a governança mantêm você no controle. Saiba mais sobre o [Adobe for Business](https://business.adobe.com/products/cx-enterprise-coworker.html).
 
-## Como você pode usar o [!DNL Coworker]
+## Escolha uma experiência
 
-O colega de trabalho desloca a IA de _assistência_ para _atuação_. Em vez de alternar entre aplicativos e coordenar cada etapa por conta própria, você define uma meta e o [!DNL Coworker] executa e executa as etapas. Funciona com públicos, jornadas, conteúdo, insights, diagnósticos e operações de marketing.
+Você define uma meta, e o Colaborador trabalha e executa as etapas. Escolha a experiência que se encaixa em como sua equipe trabalha.
 
-[!DNL Coworker] é entregue através de três experiências:
+| Experiência | Use-o para | Disponibilidade |
+| --- | --- | --- |
+| [Colaborador [!UICONTROL Chat]](./chat/overview.md) | Solicite insights, conteúdo e ações nos aplicativos do Adobe em linguagem natural. | Licenciado por meio da equipe de conta da Adobe. Consulte [Verificar disponibilidade](#chat-availability). |
+| [Colaborador [!UICONTROL para equipes]](./coworker-for-teams/overview.md) | Passe de uma meta de campanha para uma execução coordenada, como uma equipe de marketing pequena e ágil. | Teste gratuito até 31 de dezembro de 2026. Somente na América do Norte. |
+| Colaborador [!UICONTROL Projetos] | Execute fluxos de trabalho multifuncionais e de longa duração nos quais suas equipes definem os processos, as aprovações e o nível de autonomia do colaborador. | Em breve. |
 
-* **[Colaborador [!UICONTROL Chat]](./chat/overview.md):** Solicite informações, conteúdo e ações em aplicativos do Adobe em linguagem natural. O chat está licenciado e habilitado por meio da equipe de conta.
-* **[Colaborador [!UICONTROL para equipes]](./coworker-for-teams/overview.md):** ajuda as equipes de marketing ágeis a passar de uma meta de campanha para uma execução coordenada. Colaborador de equipes do é um teste gratuito de autoatendimento em seu próprio URL, termina em 31 de dezembro de 2026 e é somente na América do Norte.
-* **Projetos [!UICONTROL de Colaborador] (em breve):** Para fluxos de trabalho corporativos interfuncionais e de longa duração, em que as equipes definem os processos, as aprovações e o nível de autonomia do Colaborador.
+## Chat do colega de trabalho
 
-## Como habilitar o Bate-papo com Colaborador
+O Bate-papo com colegas de trabalho é uma interface conversacional para realizar o trabalho de experiência do cliente. Descreva o que você precisa em linguagem simples, e o Bate-papo com colegas de trabalho planeja o trabalho, executa-o em seu Adobe e sistemas conectados e retorna os resultados para sua aprovação. Para obter mais informações, consulte a [Visão geral do Chat do Colaborador](./chat/overview.md).
 
-Para habilitar o Chat de Colaborador, sua organização precisa acessar o Adobe CX Enterprise Coworker. A ativação geralmente envolve:
+### Verificar disponibilidade {#chat-availability}
+
+O Bate-papo com colegas de trabalho está disponível agora nos seguintes aplicativos:
+
+* Real-Time CDP
+* Adobe Journey Optimizer
+* Customer Journey Analytics
+* Adobe Target
+* AEM
+* Workfront
+* Marketo Engage
+
+As edições B2B do Real-Time CDP, Adobe Journey Optimizer e Customer Journey Analytics serão disponibilizadas em breve.
+
+Para obter a disponibilidade das experiências imersivas e no produto por aplicativo, consulte [Introdução ao Coworker Chat](./chat/ui-guide.md#availability). Para obter a lista completa de aplicativos compatíveis, consulte [Aplicativos compatíveis do CX Enterprise](./chat/overview.md#compatible-cx-enterprise-applications).
+
+### Habilitar Chat do Colaborador
+
+Para habilitar o Chat de Colaborador, sua organização precisa acessar o Adobe CX Enterprise Coworker. A ativação geralmente envolve o seguinte:
 
 * **Licenciamento:** entre em contato com o representante de conta ou a equipe de vendas da Adobe para confirmar se você tem as licenças e os direitos certos.
-
 * **Integração:** a equipe de suporte corporativo ou de serviços profissionais da Adobe configura o Coworker para o seu ambiente, configura as integrações com os aplicativos da Adobe e define a governança e os fluxos de trabalho de aprovação.
+* **Acesso:** atribua funções e acesso aos recursos de colega para suas equipes no [Admin Console](https://experienceleague.adobe.com/pt-br/docs/core-services/interface/administration/admin-console).
 
-* **Acesso:** atribua funções e acesso aos recursos de colega de trabalho para suas equipes na Adobe [Admin Console](https://experienceleague.adobe.com/pt-br/docs/core-services/interface/administration/admin-console).
+Depois que o Colaborador estiver habilitado, consulte [Introdução ao Chat do Colaborador](./chat/ui-guide.md) para abrir o Chat do Colaborador, enviar a primeira mensagem e examinar as respostas.
 
-* **Introdução:** depois que o Coworker for habilitado, consulte [Introdução ao Coworker Chat](./chat/ui-guide.md) para saber mais sobre a interface do Coworker Chat, incluindo a caixa de entrada, as respostas e o histórico do chat.
+### Personalizar bate-papo de colega
 
-Para adaptar o Chat do Colaborador à sua equipe, consulte [Habilidades](./customizations/skills/what-are-skills.md), [Integrações](./customizations/integrations/understanding-integrations-in-coworker.md), [Plug-ins](./customizations/plugins/what-are-plugins.md) e [Memória](./customizations/memory/what-is-memory.md) ou comece com a [Visão geral de personalizações](./customizations/overview.md).
+Personalize o bate-papo com colegas de trabalho de acordo com a maneira como sua equipe trabalha. Comece com a [Visão geral das personalizações](./customizations/overview.md) ou vá diretamente para um dos seguintes tópicos:
 
-## Vídeos sobre o uso do Chat do colaborador
+* [Habilidades](./customizations/skills/what-are-skills.md)
+* [Integrações](./customizations/integrations/understanding-integrations-in-coworker.md)
+* [Plug-ins](./customizations/plugins/what-are-plugins.md)
+* [Memória](./customizations/memory/what-is-memory.md)
 
-Estas listas de reprodução de vídeo abordam os principais recursos do [!UICONTROL Chat] e como escrever prompts efetivos, com exemplos práticos de como o [!DNL Coworker] ajuda as equipes a trabalhar com mais eficiência em produtos do [!DNL CX Enterprise].
+## Colaborador de equipes
+
+O Co-worker para equipes é um aplicativo independente para equipes de marketing pequenas e ágeis que desejam se preparar e executar campanhas rapidamente. Não faz parte de outro aplicativo do CX Enterprise. Ele está disponível como avaliação gratuita até 31 de dezembro de 2026 somente na América do Norte. Para obter as etapas de acesso, consulte [Como acessar](./coworker-for-teams/overview.md#how-to-access).
+
+Colaborador de equipes inclui conectores para [Marketo Engage](./coworker-for-teams/connectors/marketo.md) e [HubSpot](./coworker-for-teams/connectors/hubspot.md).
+
+Para começar, consulte os seguintes artigos:
+
+* [Colaborador para visão geral de equipes](./coworker-for-teams/overview.md)
+* [Criar uma campanha de email](./coworker-for-teams/create-an-email-campaign.md)
+* [Casos de uso](./coworker-for-teams/use-cases.md)
+* [Solicitação de práticas recomendadas](./coworker-for-teams/prompting-best-practices.md)
+
+## Saiba mais
+
+Assista a vídeos e participe de sessões ao vivo para desenvolver suas habilidades de colega de trabalho.
+
+### Assista a vídeos do bate-papo com colegas de trabalho
+
+Assista a essas listas de reprodução para saber mais sobre as noções básicas do bate-papo entre colegas de trabalho e como personalizá-lo com habilidades, integrações, plug-ins e memória.
 
 <!--
 CARDS
-* https://experienceleague.adobe.com/pt-br/playlists/coworker-get-started-with-chat
+* https://experienceleague.adobe.com/en/playlists/coworker-get-started-with-chat
    {title = Get started with CX Enterprise Coworker Chat}
    {description = Learn the value of CX Enterprise Coworker Chat and start executing use cases.}
    {cta = Watch}
-   {image = https://video.tv.adobe.com/v/3498571?captions=por_br&format=jpeg}    
-*  https://experienceleague.adobe.com/pt-br/playlists/coworker-customize-chat
+   {image = https://video.tv.adobe.com/v/3498558?format=jpeg}    
+*  https://experienceleague.adobe.com/en/playlists/coworker-customize-chat
     {title = Customize CX Enterprise Coworker Chat}
     {description = Learn how Coworker can be customized with reusable skills, enterprise integrations, plugins, and memory to deliver context-aware, personalized, and business-specific AI experiences that fits how your team works.}
     {cta = Watch}
-    {image = https://video.tv.adobe.com/v/3502336?captions=por_br&format=jpeg}
+    {image = https://video.tv.adobe.com/v/3502323?format=jpeg}
 -->
 <!-- START CARDS HTML - DO NOT MODIFY BY HAND -->
 <div class="columns">
@@ -63,8 +105,8 @@ CARDS
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/pt-br/playlists/coworker-get-started-with-chat" title="Introdução ao CX Enterprise Coworker Chat" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3498571?captions=por_br&format=jpeg" alt="Introdução ao CX Enterprise Coworker Chat"
+                    <a href="https://experienceleague.adobe.com/en/playlists/coworker-get-started-with-chat" title="Introdução ao CX Enterprise Coworker Chat" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3498558?format=jpeg" alt="Introdução ao CX Enterprise Coworker Chat"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -72,11 +114,11 @@ CARDS
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/pt-br/playlists/coworker-get-started-with-chat" target="_blank" rel="referrer" title="Introdução ao CX Enterprise Coworker Chat">Introdução ao CX Enterprise Coworker Chat</a>
+                        <a href="https://experienceleague.adobe.com/en/playlists/coworker-get-started-with-chat" target="_blank" rel="referrer" title="Introdução ao CX Enterprise Coworker Chat">Introdução ao CX Enterprise Coworker Chat</a>
                     </p>
                     <p class="is-size-6">Saiba mais sobre o valor do CX Enterprise Coworker Chat e comece a executar casos de uso.</p>
                 </div>
-                <a href="https://experienceleague.adobe.com/pt-br/playlists/coworker-get-started-with-chat" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                <a href="https://experienceleague.adobe.com/en/playlists/coworker-get-started-with-chat" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Assistir</span>
                 </a>
             </div>
@@ -86,8 +128,8 @@ CARDS
         <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
             <div class="card-image">
                 <figure class="image x-is-16by9">
-                    <a href="https://experienceleague.adobe.com/pt-br/playlists/coworker-customize-chat" title="Personalizar o bate-papo do CX Enterprise Coworker" target="_blank" rel="referrer">
-                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3502336?captions=por_br&format=jpeg" alt="Personalizar o bate-papo do CX Enterprise Coworker"
+                    <a href="https://experienceleague.adobe.com/en/playlists/coworker-customize-chat" title="Personalizar o bate-papo do CX Enterprise Coworker" target="_blank" rel="referrer">
+                        <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3502323?format=jpeg" alt="Personalizar o bate-papo do CX Enterprise Coworker"
                              style="width: 100%; aspect-ratio: 16 / 9; object-fit: cover; overflow: hidden; display: block; margin: auto;">
                     </a>
                 </figure>
@@ -95,11 +137,11 @@ CARDS
             <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
                 <div class="top-card-content">
                     <p class="headline is-size-6 has-text-weight-bold">
-                        <a href="https://experienceleague.adobe.com/pt-br/playlists/coworker-customize-chat" target="_blank" rel="referrer" title="Personalizar o bate-papo do CX Enterprise Coworker">Personalizar o Chat do CX Enterprise Coworker</a>
+                        <a href="https://experienceleague.adobe.com/en/playlists/coworker-customize-chat" target="_blank" rel="referrer" title="Personalizar o bate-papo do CX Enterprise Coworker">Personalizar o Chat do CX Enterprise Coworker</a>
                     </p>
                     <p class="is-size-6">Saiba como o Colaborador pode ser personalizado com habilidades reutilizáveis, integrações empresariais, plug-ins e memória para fornecer experiências de IA sensíveis ao contexto, personalizadas e específicas de negócios que se ajustam ao funcionamento de sua equipe.</p>
                 </div>
-                <a href="https://experienceleague.adobe.com/pt-br/playlists/coworker-customize-chat" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
+                <a href="https://experienceleague.adobe.com/en/playlists/coworker-customize-chat" target="_blank" rel="referrer" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
                     <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Assistir</span>
                 </a>
             </div>
@@ -108,24 +150,9 @@ CARDS
 </div>
 <!-- END CARDS HTML - DO NOT MODIFY BY HAND -->
 
-## Projetos (em breve)
+### Associar-se ao Experience League LIVE
 
-Os Projetos de colaboração são um espaço de trabalho compartilhado para automatizar fluxos de trabalho da experiência do cliente, da estratégia à entrega. As equipes o usam para coordenar tarefas, aprovações e execução.
-
-## Colaborador de equipes
-
-O Colaborador para equipes é um recurso modelado para que pequenas equipes ágeis levantem e executem campanhas.
-
-**Artigos populares**
-
-* [Visão geral](./coworker-for-teams/overview.md)
-* [Criar uma campanha de email](./coworker-for-teams/create-an-email-campaign.md)
-* [Casos de uso](./coworker-for-teams/use-cases.md)
-* [Solicitação de práticas recomendadas](./coworker-for-teams/prompting-best-practices.md)
-
-## Experience League LIVE: Colaborador série desbloqueada
-
-Associe-se à série CX Enterprise Coworker Unlocked para ver como as organizações usam a IA para simplificar o trabalho da experiência do cliente. Cada sessão oferece casos de uso práticos, demonstrações em tempo real e orientação de especialistas sobre como acelerar fluxos de trabalho, descobrir insights e automatizar tarefas em aplicativos da Adobe Experience Cloud. Procure episódios anteriores ou registre-se para eventos futuros.
+Assista aos episódios sob demanda da série Colaborador desbloqueado para ver como as organizações usam o Colaborador para simplificar o trabalho da experiência do cliente. Cada sessão inclui casos de uso práticos, demonstrações em tempo real e orientação de especialistas sobre como acelerar fluxos de trabalho, encontrar insights e automatizar tarefas.
 
 <!--
 CARDS
