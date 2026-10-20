@@ -27,5 +27,5 @@ Ao automatizar o processo de configuração inicial, as equipes podem gastar men
 
 ## Consulte também
 
-- [Journey Agent](https://experienceleague.adobe.com/en/docs/cx-enterprise-ai/experience-cloud-ai/agents/ajo-agent#journey-create), o recurso de IA subjacente que habilita a criação de jornadas no Chat de Colaborador.
+- [Journey Agent](https://experienceleague.adobe.com/pt-br/docs/cx-enterprise-ai/experience-cloud-ai/agents/ajo-agent#journey-create), o recurso de IA subjacente que habilita a criação de jornadas no Chat de Colaborador.
 - [Mais fluxos de trabalho de chat do colega de trabalho](../workflows.md#journeys)
