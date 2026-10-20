@@ -39,5 +39,5 @@ O colaborador para equipes preserva os metadados C2PA associados aos ativos de i
 ## Recursos adicionais {#resources}
 
 * [Transparência do conteúdo de IA gerativa](https://experienceleague.adobe.com/pt-br/docs/cx-enterprise-ai/experience-cloud-ai/overview/content-transparency){target="_blank"}
-* [Diretrizes do usuário da IA gerada da Adobe Experience Cloud](https://www.adobe.com/legal/licenses-terms/adobe-dx-gen-ai-user-guidelines.html?lang=pt-BR){target="_blank"}
+* [Diretrizes do usuário da IA gerada da Adobe Experience Cloud](https://www.adobe.com/br/legal/licenses-terms/adobe-dx-gen-ai-user-guidelines.html?lang=pt-BR){target="_blank"}
 * [Medidas de proteção e limitações](https://experienceleague.adobe.com/pt-br/docs/journey-optimizer/using/content-management/generate-content/gs-generative#generative-guardrails){target="_blank"}
