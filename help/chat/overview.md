@@ -7,12 +7,12 @@ product_v2:
 feature_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: CX Enterprise Coworker
-source-git-commit: 7af4950080b8805d94062567bdf4075d1f57fc13
+source-git-commit: 5dcd4ea4f6fe540f6f48e9db73d8c2de8b43d90d
 workflow-type: tm+mt
-source-wordcount: '751'
-ht-degree: 3%
+source-wordcount: '719'
+ht-degree: 6%
 ---
-# Visão geral do Adobe CX Enterprise Coworker Chat {#overview}
+# Sobre o Bate-papo de Colaborador {#overview}
 
 O Bate-papo com colegas de trabalho é uma interface conversacional para realizar o trabalho de experiência do cliente. Você descreve uma meta em linguagem simples (por exemplo, &quot;crie um público-alvo para a promoção de yoga na primavera&quot; ou &quot;diga-me por que esse público-alvo encolheu na semana passada&quot;) e o Bate-papo do Colaborador planeja o trabalho, o executa em seu Adobe e em sistemas conectados, valida os resultados e traz o trabalho concluído de volta para você para aprovação.
 
@@ -22,7 +22,7 @@ Para começar, consulte [Introdução ao Chat do Colaborador](ui-guide.md).
 
 >[!AVAILABILITY]
 >
->O Bate-papo com colegas de trabalho está disponível para o público geral. Os recursos e os aplicativos conectados continuam a se expandir. Verifique as seções habilidades e conectores disponíveis para saber o que é compatível hoje.
+>O Bate-papo com colegas de trabalho está disponível para o público geral. Os recursos e os aplicativos conectados continuam a se expandir. Verifique as [habilidades](./use-cases/workflows.md) e as seções de conectores disponíveis para saber o que é compatível hoje.
 
 >[!NOTE]
 >
@@ -30,7 +30,7 @@ Para começar, consulte [Introdução ao Chat do Colaborador](ui-guide.md).
 
 ## Uma evolução do Assistente de IA
 
-Se você usou o Assistente de IA e o Adobe Experience Platform Agent Orchestrator, o Bate-papo com colegas de trabalho será o próximo progresso. O Assistente de IA está evoluindo para o Chat de colegas de trabalho. Tudo o que você pode fazer no AI Assistant hoje, chamando os Agentes criados com propósitos específicos do Adobe (conhecimento do produto, insights operacionais e de dados, a experiência de conversação), permanecerá disponível. O Bate-papo do Colaborador é apoiado pelos blocos fundamentais do Colaborador (o arnês empresarial, as habilidades, a governança e a memória), de modo que a mesma conversa agora pode ir além de responder e realmente concluir o trabalho de ponta a ponta.
+O Bate-papo com colegas de trabalho é a próxima etapa depois do [Assistente de IA](https://experienceleague.adobe.com/pt-br/docs/cx-enterprise-ai/experience-cloud-ai/ai-assistant/ai-assistant-ui) e do Adobe Experience Platform Agent Orchestrator. Tudo o que você pode fazer no AI Assistant hoje, incluindo conhecimento do produto e insights operacionais e de dados, permanece disponível. O Chat do Colaborador adiciona os [blocos de construção](#building-blocks) que permitem que uma conversa conclua o trabalho, não apenas responda a perguntas.
 
 ## A experiência de bate-papo
 
@@ -40,10 +40,6 @@ Se você usou o Assistente de IA e o Adobe Experience Platform Agent Orchestrato
 * **Prompts sugeridos e de acompanhamento:** o Chat de Colaborador propõe as próximas etapas, portanto, você não precisa adivinhar o que perguntar.
 * **Histórico da conversa:** as conversas anteriores são salvas, para que você possa retornar ao trabalho anterior, continuar de onde parou e reutilizar o que o Chat do Colaborador produziu.
 * **Feedback interno:** Avalie qualquer resposta com um polegar para cima ou para baixo para informar ao Chat do Colaborador o que funcionou e o que não funcionou; seu feedback ajuda a melhorar a experiência ao longo do tempo.
-
->[!NOTE]
->
->As capturas de tela da interface serão adicionadas à medida que a experiência for finalizada.
 
 ## Aplicativos CX Enterprise compatíveis
 

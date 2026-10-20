@@ -7,14 +7,20 @@ product_v2:
 feature_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: CX Enterprise Coworker
-source-git-commit: 0ccc8faed069b726a28a39042047d1e66200181e
+source-git-commit: be1be18a25c57eafa07b326b1bf5800527cb1c7d
 workflow-type: tm+mt
-source-wordcount: '7618'
+source-wordcount: '7712'
 ht-degree: 6%
 ---
 # Fluxos de trabalho de chat do colaborador {#use-cases}
 
 O Chat do Colaborador permite consultar, analisar e agir nos dados do [!DNL Experience Platform] usando linguagem natural em vez de navegar em várias interfaces do usuário ou gravar consultas manualmente. Esta página cataloga os fluxos de trabalho dos quais os profissionais mais dependem, organizados por área de trabalho: insights de dados, públicos, jornadas, fidelidade, elementos essenciais e ferramentas de sandbox. Cada entrada inclui a habilidade que ele chama, os aplicativos com os quais ele funciona e avisos de amostra que você pode copiar, adaptar aos seus próprios dados e refinar através da conversa.
+
+## Sobre habilidades e fluxos de trabalho
+
+**Habilidades:** Uma _habilidade_ é uma capacidade ou ação única e específica que o Colaborador pode executar. Os exemplos incluem criar um público-alvo, enviar um email, gerar um relatório ou analisar os resultados da campanha. Cada habilidade está focada em uma função específica.
+
+**Workflow**: _workflow_ é uma sequência de etapas ou ações (geralmente envolvendo várias habilidades) criadas para atingir uma meta comercial mais ampla. Os workflows coordenam várias habilidades em uma ordem lógica para concluir processos complexos de várias etapas, como iniciar uma campanha de marketing, integrar um novo segmento de cliente ou diagnosticar uma queda no desempenho da campanha.
 
 ## Experiência da marca
 

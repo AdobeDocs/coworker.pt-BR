@@ -5,24 +5,24 @@ user-guide-description: Saiba mais sobre o Adobe CX Enterprise Coworker, um comp
 description: Saiba mais sobre as ferramentas de IA no CX Enterprise. Melhore o conhecimento do seu produto e obtenha insights operacionais usando IA no CX Enterprise.
 solution: Experience Cloud
 role: Admin,User,Developer,Leader
-source-git-commit: 4bbaf3021be6518ce3aa811efec7b4d0d2746199
+source-git-commit: 2b61bbc29954e10515b5bbdbd7bafe48c7cbfdbd
 workflow-type: tm+mt
-source-wordcount: '275'
-ht-degree: 16%
+source-wordcount: '282'
+ht-degree: 14%
 ---
 
 # CX Enterprise Coworker {#content}
 
-- [Visão geral do colaborador](home.md)
+- [Guia do colega de trabalho](home.md)
 - Chat {#chat}
-  - [Visão geral](./chat/overview.md)
-  - [Introdução ao Chat](./chat/ui-guide.md)
+  - [Sobre o Bate-papo de Colaborador](./chat/overview.md)
+  - [Introdução ao uso do Chat de colaborador](./chat/ui-guide.md)
   - {hide-from-toc}[Chat do Colaborador no Playground](./playground-coworker-chat.md)
-  - Casos de uso {#use-cases}
+  - Fluxos de trabalhos {#use-cases}
     - [Fluxos de trabalho de chat do colaborador](./chat/use-cases/workflows.md)
     - Insights de dados {#data-insights}
-      - [Visão geral](./chat/use-cases/data-insights/analytics-overview.md)
-      - [Introdução](./chat/use-cases/data-insights/analytics-chat.md)
+      - [Sobre análise de dados](./chat/use-cases/data-insights/analytics-overview.md)
+      - [Introdução à análise de dados](./chat/use-cases/data-insights/analytics-chat.md)
       - Implementação e administração inteligentes {#intelligent-implementation-and-administration}
         - [Visão geral](./chat/use-cases/data-insights/data-governance-and-validation.md)
         - [Planejar a implementação](./chat/use-cases/data-insights/implementation-guide.md)
@@ -69,7 +69,7 @@ ht-degree: 16%
     - Fluxo de trabalho e planejamento {#workflow-and-planning}
       - [Planejar o lançamento de uma campanha digital](./chat/use-cases/workflow-and-planning/plan-digital-campaign-launch.md)
 - Personalizações {#customizations}
-  - [Visão geral](./customizations/overview.md)
+  - [Visão geral das personalizações](./customizations/overview.md)
   - Habilidades {#skills}
     - [O que são habilidades?](./customizations/skills/what-are-skills.md)
     - [Crie sua primeira habilidade](./customizations/skills/create-your-first-skill.md)
