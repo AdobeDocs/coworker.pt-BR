@@ -25,4 +25,4 @@ Saiba como o CX Enterprise Coworker cria uma jornada entre canais a partir de um
 
 Neste vídeo, veja como simular os caminhos de ramificação da jornada e analisar diagnósticos para identificar problemas de configuração.
 
->[!VIDEO](https://video.tv.adobe.com/v/3504706?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3504710?captions=por_br&learn=on)
