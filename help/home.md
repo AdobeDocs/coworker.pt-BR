@@ -1,17 +1,19 @@
 ---
-title: Guia do Adobe CX Enterprise Coworker
+title: Visão geral do Adobe CX Enterprise Coworker
 description: Saiba mais sobre o Adobe CX Enterprise Coworker, um companheiro de equipe alimentado por IA que automatiza a experiência do cliente e os fluxos de trabalho de marketing em toda a organização.
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: CX Enterprise Coworker
-source-git-commit: 5973a87d21b23d7621366108716cbd476e6f66ae
+source-git-commit: 577c1f8f9ea054eabfede407149139638311d5dc
 workflow-type: tm+mt
-source-wordcount: '1094'
-ht-degree: 17%
+source-wordcount: '1181'
+ht-degree: 16%
 ---
-# Guia do CX Enterprise Coworker {#overview}
+# Visão geral do CX Enterprise Coworker {#overview}
 
-[!DNL Coworker] é o companheiro de equipe de IA agente da Adobe para a experiência do cliente e o trabalho de marketing. Ele faz mais do que responder perguntas ou recomendar ações. Ele executa workflows de marketing em várias etapas no Adobe e em outros sistemas corporativos, e as aprovações e a governança mantêm você no controle. Saiba mais sobre o [Adobe for Business](https://business.adobe.com/br/products/cx-enterprise-coworker.html).
+[!DNL Coworker] é um colega de equipe que trabalha com IA e reimagina a natureza do trabalho para organizações, equipes e indivíduos. Ele automatiza a experiência do cliente e os fluxos de trabalho de marketing para que as organizações possam se concentrar em alcançar metas comerciais e melhorar resultados em vez de coordenar tarefas. Como um mecanismo de agente, o Co-worker adota uma abordagem inovadora para a automação de processos de negócios. Ele melhora o desempenho e a precisão do modelo de IA, unindo o contexto corporativo, os dados, a inteligência, a colaboração e a execução de habilidades orgânicas, com governança e supervisão humana integradas.
+
+O colega de trabalho é projetado para organizações que executam fluxos de trabalho complexos e multifuncionais de experiência do cliente. Ele reúne o Bate-papo do colaborador e os Projetos do colaborador, permitindo que os profissionais migrem de uma única tarefa para um fluxo de trabalho completo de várias equipes dentro da experiência do colaborador. A governança, as aprovações e a supervisão humana são integradas desde o início. Saiba mais sobre o [Adobe for Business](https://business.adobe.com/br/products/cx-enterprise-coworker.html).
 
 ## Escolha uma experiência
 
