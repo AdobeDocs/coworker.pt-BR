@@ -4,14 +4,130 @@ title: Notas de versão do CX Enterprise Coworker para equipes
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: CX Enterprise Coworker
-source-git-commit: 5973a87d21b23d7621366108716cbd476e6f66ae
+source-git-commit: d3cfd773137d0fc985cff508025935727dc4566b
 workflow-type: tm+mt
-source-wordcount: '3597'
+source-wordcount: '4474'
 ht-degree: 0%
 ---
 # Notas de versão do Adobe CX Enterprise Coworker para equipes {#release-notes}
 
 Os lançamentos de colegas de trabalho para equipes operam em um modelo de entrega contínua que permite uma abordagem mais escalável e em fases para a implantação de recursos.
+
+## Outubro de 2026 {#oct-2026}
+
+**Data de lançamento: 21 de outubro de 2026**
+
+* Solte arquivos em prompts de campanha e conversas para anexá-los
+* Anexos muito grandes são capturados antes que interrompam seu trabalho
+* Os tamanhos dos arquivos são exibidos no idioma e no formato local
+* As visualizações de email se encaixam em designs amplos sem cortar o conteúdo
+* Continue digitando ao editar emails em uma conversa
+* Os detalhes do remetente são preenchidos automaticamente no seu perfil
+* As alterações do remetente das visualizações de conversa continuam para a sua campanha
+* As visualizações da estratégia de campanha aberta refletem as alterações salvas mais recentes
+* Visualizar listas de contatos de amostra quando os dados de amostra estiverem disponíveis
+* As descrições do conector são mais fáceis de ler no seu idioma
+* Encontrar detalhes do conector e da habilidade com mais confiança no Contexto
+* Os filtros de canal de modelo se ajustam mais confortavelmente em telas menores
+* As ações de perfil permanecem acessíveis no shell de navegação do Adobe
+* Os erros de relatório de campanha não sugerem mais incorretamente que a sessão expirou
+* Escolha filtros de conta de avaliação que correspondam aos status disponíveis
+* Continuar a abrir e renomear chats sem uma opção de exclusão enganosa
+* É mais fácil ignorar as atualizações de produto mais recentes
+* A atividade de campanha é contada mais consistentemente nos relatórios
+
+**Data de lançamento: 16 de outubro de 2026**
+
+* Aplicar um modelo de email sem reescrever o conteúdo
+* Alternar modelos de email sem perder as edições mais recentes
+* Alternar modelos, baixar emails e enviar testes de um menu
+* Leia visualizações de email com mais conforto antes de fazer alterações
+* Tentar novamente uma mensagem quando o envio falhar antes de ser iniciado
+* Encontre guias Início mais facilmente em telefones menores
+* As caixas de diálogo do Launch se ajustam mais confortavelmente em telas menores
+* Rótulos longos de público-alvo permanecem legíveis sem sobreposição
+* Veja até seis campanhas recentes na Página inicial
+* A página inicial agora se concentra em campanhas e ideias em vez de recapitulações diárias
+* Inicie uma campanha ou procure ideias a partir de uma Página inicial vazia
+* Os menus de campanha mostram ações adequadas a cada status de campanha
+* A edição do Adobe Express permanece indisponível quando uma imagem não pode ser carregada
+* Os links de Campanhas antigas levam você ao Colaborador para equipes
+* Leia as respostas do bate-papo com um dimensionamento de texto mais confortável
+* Encontre guias Visão geral e Insights da campanha centralizadas no cabeçalho
+
+**Data de lançamento: 15 de outubro de 2026**
+
+* Filtrar Página inicial e Campanhas por quem criou cada campanha
+* Obtenha um resumo diário de campanhas, conversas e variantes de email
+* Consulte status da campanha, criador e data de criação abaixo do título
+* Reproduzir a configuração da campanha a partir das ideias do Campaign sempre que precisar de orientação
+* Redimensionar visualizações de campanha e retornar a quadros com mais tranquilidade
+* Os links de email agora persistem quando você salva o rascunho
+* Os rascunhos de email são salvos de forma confiável enquanto você continua editando
+* As imagens substitutas permanecem conectadas aos rascunhos de email
+* Alternar modelos de email e baixar emails diretamente do editor
+* Exportar registros DNS como arquivos de zona com orientação de configuração de linguagem simples
+* Identificar domínios e remetentes fornecidos pelo sistema com selos padrão claros
+* Comece a digitar para focalizar o compositor de bate- papo ativo
+* Navegue pelas atualizações de produtos com uma navegação mais clara e um link direto para as notas de versão
+
+**Data de lançamento: 14 de outubro de 2026**
+
+* Criar e alternar espaços de trabalho no menu do perfil
+* Encontrar campanhas e conteúdo salvo na navegação atualizada
+* Veja campanhas recentes e tente carregá-las novamente da Página inicial
+* Veja quem criou campanhas, modelos e kits de marca
+* Encontre seu status de avaliação e opções de atualização com mais facilidade
+* Conectar o Shopify e atualizar os detalhes de conexão da loja
+* Anexe documentos, planilhas e imagens diretamente do bate-papo em casa
+* Visualizar e editar emails sem sair da conversa
+* Redimensionar visualizações da conversa para se adequar ao seu trabalho
+* Revisar fluxos de trabalho, estratégias e públicos-alvo ao lado da conversa
+* Alternar modelos de email, exportar emails e enviar emails de teste das visualizações
+* Continuar lendo conversas mesmo quando uma visualização de email não puder ser atualizada
+* Veja estratégias de campanha junto com suas outras fontes de conhecimento
+* Ver alterações de estratégia salvas imediatamente em visualizações abertas
+* Leia estratégias de campanha e detalhes do público diretamente no chat
+* Ler contagem de público-alvo grandes em um formato menor e mais claro
+* Acompanhe as atualizações do quadro de campanha com destaques mais claros
+* Abrir conversas na mensagem mais recente durante a navegação normal
+* Retorne à tela anterior com a navegação traseira aprimorada
+* Consulte os nomes das conversas no cabeçalho do bate-papo do quadro de campanha
+* Usar quadros de campanha, editores e bate-papo em telas menores
+* Iniciar um novo chat sem passar pela conversa anterior
+* Encontrar novas conversas na história antes de enviar
+* O chat mantém quebras de linha e torna os endereços da Web clicáveis
+* As atualizações de workflow não ocultam mais a explicação de fechamento do assistente
+* As confirmações por email de prova não aparecem mais duas vezes no chat
+* Os refinamentos de email atualizam os rascunhos existentes em vez de criar duplicatas
+* As tarefas de acompanhamento não substituem mais as configurações ou os públicos da campanha
+* Os quadros de campanha mantêm o fluxo de trabalho mais recente após a remoção das etapas
+* O status da campanha reflete o estágio real da campanha
+* Obtenha avisos mais claros sobre programações de lançamento inválidas ou expiradas
+* Veja quais detalhes de prompt estão ausentes antes de criar uma campanha
+* Configurar domínios de envio com registros DNS mais claros e próximas etapas
+* O logon na conta pessoal sobrevive e é atualizado com mais confiança
+* Mudar da integração para a Página inicial sem flash na tela de carregamento
+* As ações de edição de marca e padrão pessoal estão disponíveis novamente
+* Veja a atribuição precisa do criador em kits de marca
+* Entenda quando a alteração de uma marca padrão afetar seu espaço de trabalho
+* A geração da marca não é mais interrompida pelo banner de redefinição
+* Os controles de variação de email são mais fáceis de distinguir
+* As mensagens de erro do chat usam um tratamento visual mais calmo
+
+**Data de lançamento: 13 de outubro de 2026**
+
+* As confirmações de avaliação lembram você de verificar a pasta de spam
+
+**Data de lançamento: 12 de outubro de 2026**
+
+* Adicionar seu site e o uso pretendido após solicitar acesso à avaliação
+* Reinicie o processo de inscrição com o email comercial quando necessário
+
+**Data de lançamento: 7 de outubro de 2026**
+
+* Consulte o agendamento de atualização das equipes e observe sobre a próxima redefinição de dados
+* Siga o guia vinculado para salvar o conteúdo antes de redefinir
 
 ## Setembro de 2026 {#sep-2026}
 
