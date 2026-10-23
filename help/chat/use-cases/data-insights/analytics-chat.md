@@ -4,9 +4,9 @@ description: Saiba como usar o Adobe CX Enterprise Coworker Chat para analisar d
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: CX Enterprise Coworker
-source-git-commit: 5973a87d21b23d7621366108716cbd476e6f66ae
+source-git-commit: f1ffc050071fc0ca48ae36c7aea8bc66eff2a147
 workflow-type: tm+mt
-source-wordcount: '2094'
+source-wordcount: '2160'
 ht-degree: 4%
 ---
 # Introdução à análise de dados com o Chat de colaborador
@@ -314,17 +314,22 @@ Em quatro perguntas simples, Coworker nos ajudou a:
 * Isole o problema real para a finalização móvel e quantifique a correção em um aumento de 35% nas compras
 * Saia com uma correção específica para priorizar: pagamento móvel e atrito de formulários. Isso é comparado com a taxa de conversão de 23,2% do desktop
 
-## Analisar no Customer Journey Analytics
+## Abrir uma visualização no Analysis Workspace
 
-Depois que o Colaborador criar uma visualização, você poderá abri-la no Analysis Workspace para análise mais profunda e controle granular. A visualização é aberta em um novo projeto do Analysis Workspace no Customer Journey Analytics.
+Depois que o Colaborador criar uma visualização, você poderá abri-la no Analysis Workspace para análise mais profunda e controle granular. A visualização é aberta em um novo projeto do Analysis Workspace no Customer Journey Analytics ou Adobe Analytics, dependendo da fonte de dados.
 
 Para abrir uma visualização em um novo projeto do Analysis Workspace:
 
-1. Selecione [!UICONTROL **Analisar no CJA**] ao lado de qualquer visualização criada no Co-worker.
+1. Ao lado de qualquer visualização criada no Colaborador, selecione uma das seguintes opções:
 
-1. Com a visualização aberta no Customer Journey Analytics, você pode usar a interface de navegador de arrastar e soltar do Analysis Workspace para fazer modificações, criar ainda mais sua análise, criar um público-alvo e muito mais. Você pode até mesmo compartilhar seu projeto do Workspace com qualquer pessoa que escolher.
+   * [!UICONTROL **Analise no CJA**] para uma visualização baseada em uma visualização de dados do Customer Journey Analytics
+   * [!UICONTROL **Analise no Analysis Workspace**] para uma visualização baseada em um conjunto de relatórios do Adobe Analytics
 
-   Para obter mais informações sobre o Analysis Workspace, consulte [visão geral do Analysis Workspace](https://experienceleague.adobe.com/pt-br/docs/analytics-platform/using/cja-workspace/home).
+1. Com a visualização aberta no Analysis Workspace, você pode usar a interface de navegador de arrastar e soltar para fazer modificações, criar ainda mais a análise e muito mais. No Customer Journey Analytics, você também pode criar um público-alvo.
+
+1. (Opcional) Compartilhe seu projeto do Workspace com qualquer pessoa que você escolher.
+
+   Para obter mais informações sobre o Analysis Workspace, consulte [visão geral do Analysis Workspace](https://experienceleague.adobe.com/pt-br/docs/analytics-platform/using/cja-workspace/home) na documentação do Customer Journey Analytics ou [visão geral do Analysis Workspace](https://experienceleague.adobe.com/en/docs/analytics/analyze/analysis-workspace/home) na documentação do Adobe Analytics.
 
 ## Próximas etapas
 
