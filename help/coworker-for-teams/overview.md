@@ -4,9 +4,9 @@ title: Visão geral do Adobe CX Enterprise Coworker
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: CX Enterprise Coworker
-source-git-commit: 5973a87d21b23d7621366108716cbd476e6f66ae
+source-git-commit: 2c08a164e3f127eb01271b31e1150f1d815e5b27
 workflow-type: tm+mt
-source-wordcount: '983'
+source-wordcount: '1030'
 ht-degree: 0%
 ---
 # Colaborador para visão geral de equipes {#overview}
@@ -21,7 +21,7 @@ No momento, todas as interações com a IA o direcionarão para a [geração de 
 >
 >O colega de trabalho para equipes está disponível por meio de avaliação gratuita até 31 de dezembro de 2026. Durante a avaliação, todos os ativos e atividades são específicos do usuário.
 
-1. Acesse coworker-campaigns.experience.adobe.com.
+1. Acesse coworker-teams.adobe.com.
 
 1. Se você tiver uma conta existente do Adobe, clique em **Entrar**. Caso contrário, clique em **Participe da avaliação gratuita** e crie uma conta usando o email comercial.
 
@@ -35,7 +35,7 @@ No momento, todas as interações com a IA o direcionarão para a [geração de 
 
 1. (Opcional) Carregue um modelo de email do HTML em **Modelos de email** para o Colaborador, para que as equipes apliquem seu design ao gerar conteúdo.
 
-   ![Tela de boas-vindas do Colaborador para avaliação de equipes](./assets/overview-1.png){width="800" zoomable="yes"}
+   ![Tela de boas-vindas do Colaborador para avaliação de equipes](./assets/overview-1.gif)
 
 Você está pronto para gerar sua primeira campanha.
 
@@ -45,14 +45,49 @@ A interface de Colaborador de equipes é organizada em torno de uma navegação 
 
 ![Tela inicial](./assets/overview-2.gif)
 
-| Menu de navegação esquerdo | Finalidade |
-|---|---|
-| Novo bate-papo | Inicie uma nova conversa para gerar uma campanha. |
-| Início | Seu ponto de partida: barra de prompts, campanhas recentes e templates de campanha prontos. |
-| Chats | Todas as conversas que você iniciou que ainda não foram geradas em um quadro de campanha. |
-| Campanhas | Seu inventário de todas as campanhas de rascunho e ativas. |
-| Suas coisas | Os kits da sua marca e os modelos de email (o colaborador de ativos das equipes usa o para manter tudo sob a marca). |
-| Personalizar | Conectores (Marketo Engage no lançamento) e habilidades (comportamentos personalizados que você pode aplicar em campanhas). |
+<table>
+  <thead>
+    <tr>
+      <th>Menu de navegação esquerdo</th>
+      <th>Finalidade</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Novo bate-papo</td>
+      <td>Inicie uma nova conversa para gerar uma campanha.</td>
+    </tr>
+    <tr>
+      <td>Início</td>
+      <td>Seu ponto de partida: barra de prompts, campanhas recentes e templates de campanha prontos.</td>
+    </tr>
+    <tr>
+      <td>Chats</td>
+      <td>Todas as conversas que você iniciou que ainda não foram geradas em um quadro de campanha.</td>
+    </tr>
+    <tr>
+      <td>Campanhas</td>
+      <td>Seu inventário de todas as campanhas de rascunho e ativas.</td>
+    </tr>
+    <tr>
+      <td>Listas de contatos</td>
+      <td>Gerencie suas listas de público-alvo e de supressão.</td>
+    </tr>
+    <tr>
+      <td>Insights</td>
+      <td>Visualize métricas em todas as campanhas ativas, rastreadas em um intervalo de datas selecionado.</td>
+    </tr>
+    <tr>
+      <td>Contexto</td>
+      <td>Clique em <i>Contexto</i> para exibir seu submenu:<br><br>
+      <li><b>Marcas</b> - Gerencie e adicione kits de marca e defina um padrão para seu espaço de trabalho.</li>
+      <li><b>Modelos de email</b> - Gerencie e carregue modelos personalizados do HTML e informe ao Colaborador quando usá-los.</li>
+      <li><b>Conectores</b> - Integrações externas como Databricks e Salesforce para trazer públicos ou contexto.</li>
+      <li><b>Habilidades</b> - Instruções reutilizáveis que moldam como o Coworker compila e personaliza suas campanhas.</li></td>
+    </tr>
+  </tbody>
+</table>
+
 
 >[!NOTE]
 >
@@ -111,7 +146,7 @@ O colega de trabalho para equipes é um produto em desenvolvimento ativo. Veja o
 
 ## Visão geral do vídeo
 
->[!VIDEO](https://video.tv.adobe.com/v/3492811?captions=por_br&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3492807?learn=on){transcript=true}
 
 
 Novos recursos serão enviados durante a avaliação. Seus comentários ajudam a moldar o que vem a seguir. Envie feedback por meio do ícone de feedback no produto, no cabeçalho.
