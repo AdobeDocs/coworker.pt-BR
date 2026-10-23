@@ -18,5 +18,5 @@ ht-degree: 0%
 
 Saiba como transformar um resumo da campanha em uma página de aterrissagem de rascunho com o Adobe CX Enterprise Coworker. Siga o fluxo de trabalho para usar uma página do Adobe Experience Manager existente como modelo, confirmar o destino, aplicar conteúdo da campanha e metadados de SEO e refinar imagens e copiar no Editor universal.
 
->[!VIDEO](https://video.tv.adobe.com/v/3504682/?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3504686/?captions=por_br&learn=on)
 
