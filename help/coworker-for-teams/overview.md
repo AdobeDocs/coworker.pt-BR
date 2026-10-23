@@ -4,9 +4,9 @@ title: Visão geral do Adobe CX Enterprise Coworker
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: CX Enterprise Coworker
-source-git-commit: 2c08a164e3f127eb01271b31e1150f1d815e5b27
+source-git-commit: 5bc85387e83672fade431a5e8e801215429fa8c9
 workflow-type: tm+mt
-source-wordcount: '1030'
+source-wordcount: '1027'
 ht-degree: 0%
 ---
 # Colaborador para visão geral de equipes {#overview}
@@ -97,12 +97,12 @@ A interface de Colaborador de equipes é organizada em torno de uma navegação 
 
 O colega de trabalho para equipes reúne cinco fluxos de trabalho que geralmente abrangem cinco ferramentas diferentes em uma experiência de conversação:
 
-- **Transformar um resumo em um plano de campanha**. Solte em um prompt ou faça upload de um resumo, e o Colaborador de equipes retorna um plano estruturado e completo.
+- **Transformar um resumo em uma estratégia de campanha**. Soltar em um prompt ou carregar um arquivo: o colega de trabalho das equipes retorna uma estratégia inicial para orquestrar sua campanha.
 - **Criar e refinar públicos**. Carregue um CSV ou conecte seus dados e refine o segmento na conversa.
 - **Gerar conteúdo sobre a marca**. O colega de trabalho das equipes grava emails que correspondem à voz, às referências e aos modelos da sua marca.
 - **Criar jornadas de várias etapas**. Colaborador de equipes monta sequências de criação, não apenas envios únicos.
 - **Enviar emails de prova**. Visualize cada mensagem em sua própria caixa de entrada antes do lançamento.
-- **Iniciar e analisar**. _(Em breve)_ Envie campanhas e obtenha os melhores insights da próxima etapa sem sair do Colaborador para as equipes.
+- **Iniciar e analisar**. Envie campanhas e obtenha insights sobre a próxima etapa sem sair do Colaborador para as equipes.
 
 ## Como a IA funciona
 
@@ -110,7 +110,7 @@ O colega de trabalho para equipes segue um loop conversacional simples de vária
 
 **Entrada**. Você fornece uma meta de campanha, seu público-alvo (carregado ou conectado) e o contexto opcional da marca.
 
-**Processando**. O Colaborador para equipes do Agentic AI gera um plano de campanha, cria uma jornada e rascunha conteúdo personalizado. Tudo o que você pode atualizar, conversacionalmente.
+**Processando**. O Colaborador para equipes de IA de agente gera uma estratégia de campanha, cria uma jornada e elabora um conteúdo personalizado. Tudo o que você pode atualizar, conversacionalmente.
 
 **Saída**. Um rascunho de campanha é exibido no quadro de campanha, pronto para revisão, iteração e eventual lançamento.
 
@@ -126,7 +126,7 @@ Alguns achados dos primeiros usuários que fazem uma diferença real:
 
 - **Comece com um caso de uso real e específico**. &quot;Crie uma série de reconquista para clientes que não fizeram pedidos em 90 dias&quot; bate &quot;faça-me uma campanha&quot;. Consulte _Casos de uso_ para obter exemplos específicos.
 - **Limpar os dados do público-alvo**. O colega de trabalho das equipes só pode personalizar, assim como o CSV permite. Exclua todos os contatos para os quais você não deve enviar emails antes de fazer upload.
-- **Invista na configuração da sua marca**. Colaborador para equipes extrai detalhes da marca quando você se inscreve. Uma análise rápida de **Seus itens** > **Marcas** beneficia cada campanha gerada.
+- **Invista na configuração da sua marca**. Colaborador para equipes extrai detalhes da marca quando você se inscreve. Uma análise rápida do **Contexto** > **Marcas** beneficia cada campanha gerada.
 - **Enviar um email de prova**. Antes de iniciar, envie uma prova e revise-a na sua própria caixa de entrada.
 - **Iterar, não reiniciar**. Trate o Colaborador para saída de equipes primeiro como um ponto de partida. O caminho mais rápido para o ótimo é algumas rodadas de refinamento, não um prompt novo.
 - **Exporte quando precisar de uma trilha de papel**. Exporte emails individuais como HTML ou a campanha completa como um documento do Word ou PDF para análise da equipe.
@@ -146,7 +146,7 @@ O colega de trabalho para equipes é um produto em desenvolvimento ativo. Veja o
 
 ## Visão geral do vídeo
 
->[!VIDEO](https://video.tv.adobe.com/v/3492811?captions=por_br&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3492807?learn=on){transcript=true}
 
 
 Novos recursos serão enviados durante a avaliação. Seus comentários ajudam a moldar o que vem a seguir. Envie feedback por meio do ícone de feedback no produto, no cabeçalho.
