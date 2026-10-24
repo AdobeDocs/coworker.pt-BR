@@ -4,9 +4,9 @@ description: Use o Bate-papo com colegas de trabalho para criar funis, descobrir
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: CX Enterprise Coworker
-source-git-commit: 5973a87d21b23d7621366108716cbd476e6f66ae
+source-git-commit: f1ffc050071fc0ca48ae36c7aea8bc66eff2a147
 workflow-type: tm+mt
-source-wordcount: '683'
+source-wordcount: '690'
 ht-degree: 2%
 ---
 
@@ -62,7 +62,7 @@ O colaborador usa as seguintes habilidades para os casos de uso descritos neste 
 * Especifique os segmentos, canais ou dispositivos que deseja incluir, excluir ou comparar.
 * Mencione qualquer hipótese que você já tenha, como uma alteração recente no site, para que o Bate-papo do Colaborador possa validá-la ou descartá-la.
 * Peça as próximas etapas recomendadas se desejar que o Bate-papo com colegas de trabalho sugira perguntas de acompanhamento.
-* Abra qualquer visualização no Analysis Workspace quando quiser mais controle manual.
+* Abra qualquer visualização no Analysis Workspace quando quiser mais controle manual. Consulte [Abrir uma visualização no Analysis Workspace](/help/chat/use-cases/data-insights/analytics-chat.md#open-a-visualization-in-analysis-workspace).
 
 ## Próximas etapas
 

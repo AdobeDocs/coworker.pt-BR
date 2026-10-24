@@ -4,10 +4,10 @@ description: Use o Bate-papo com colegas de trabalho para descobrir o que o cont
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: CX Enterprise Coworker
-source-git-commit: 5973a87d21b23d7621366108716cbd476e6f66ae
+source-git-commit: b54085a497ca4bbf0003d5837d816206a4d40396
 workflow-type: tm+mt
-source-wordcount: '474'
-ht-degree: 1%
+source-wordcount: '566'
+ht-degree: 2%
 ---
 
 # Visão geral do desempenho de conteúdo
@@ -22,13 +22,13 @@ O desempenho do conteúdo é um dos vários domínios de análise no Chat do col
 
 ## Pré-requisitos
 
-<!-- FLAG: Confidence: High for the first two bullets (sourced from analytics-chat.md and the Skills and limitations table). Low for the third bullet: the attribute-level and image exposure descriptions suggest that these use cases rely on Content Analytics data in Customer Journey Analytics, and implementation-guide.md lists Content Analytics as an implementation path, but no source confirms this. It's a shared bullet rather than a table row because it would apply to every use case on this page. The paid channel row ("Compare Meta ad creative to our web banners") may need an additional data source, which would become an "Additional prerequisite" note on that row in the Use cases table. Confirm with the PM. -->
+<!-- FLAG: Confidence: High for the first two bullets (sourced from analytics-chat.md and the Skills and limitations table). High for the third bullet: attribute-level and asset analysis needs Content Analytics components, which are available only in data views that are configured for Content Analytics (report/report.md in analytics-platform.en). This applies whichever skill runs the analysis. It's a shared bullet rather than a table row because it applies to every use case on this page. The paid channel row ("Compare Meta ad creative to our web banners") also needs the Paid Media channel enabled in Content Analytics through an Experience Platform paid media source connector, such as Meta Ads or Google Ads. Comparing paid creative with on-site revenue needs custom tracking-key mapping, because enabling paid media doesn't connect paid media data to site orders or revenue (config/paid-media.md). Add an "Additional prerequisite" note on that row after the PM confirms. -->
 
 Para usar os casos de uso nesta página, você precisa:
 
 * O Bate-papo com colegas de trabalho conectou-se às visualizações de dados do Customer Journey Analytics ou aos conjuntos de relatórios do Adobe Analytics. Consulte [Introdução à análise de dados com o Chat de Colaborador](/help/chat/use-cases/data-insights/analytics-chat.md).
 * Acesso de visualização às visualizações de dados ou conjuntos de relatórios que você deseja analisar. O Chat do colega herda suas permissões do Customer Journey Analytics ou do Adobe Analytics.
-* O Content Analytics é configurado no Customer Journey Analytics, para que o Chat do colaborador possa analisar os atributos do conteúdo e a exposição da imagem. Para planejar uma implementação do Content Analytics, consulte [Planejar sua implementação com o Colaborador](/help/chat/use-cases/data-insights/implementation-guide.md).
+* Uma visualização de dados configurada para o Content Analytics. Consulte [Configurar Content Analytics](https://experienceleague.adobe.com/pt-br/docs/analytics-platform/using/content-analytics/configuration/configuration) no guia do Customer Journey Analytics.
 
 ## Casos de uso
 
@@ -39,20 +39,15 @@ Para usar os casos de uso nesta página, você precisa:
 | Comparar o criativo entre canais pagos e próprios | Mostra quais visuais e temas são obtidos em canais da Web, móveis e pagos em uma exibição.<p>**Prompts de exemplo:**</p><ul><li>&quot;Quais temas criativos ganham em páginas pagas e em nosso site?&quot;</li><li>&quot;Compare o anúncio criativo do Meta com nossos banners da Web&quot;</li></ul> |
 | Saber quais visuais movem cada público | Mostra quais visuais funcionam para cada público-alvo para orientar a personalização e os resumos criativos.<p>**Prompts de exemplo:**</p><ul><li>&quot;Quais visuais têm melhor desempenho para cada segmento?&quot;</li><li>&quot;Quais imagens funcionam para visitantes novos?&quot;</li></ul> |
 
-<!--
-HIDDEN until the skills are confirmed. To publish, remove this comment wrapper.
+## Habilidades usadas
 
-## Skills used
+<!-- FLAG: Confidence: Medium. The `analyze-content` skill is a foundational skill for content questions, so it's listed for every use case on this page. Confirm with the PM that it covers all four. -->
 
-FLAG: Confidence: Low. No source in the repo (workflows.md, the Skills and limitations table, or any data insights article) names the skills behind these use cases. Get the skill IDs from the PM, replace the placeholder rows, and add the skills to the Skills and limitations table on analytics-overview.md so that the link above the table covers them. When you unhide this section, wrap this FLAG note in its own HTML comment.
+O colaborador usa as seguintes habilidades para os casos de uso descritos neste artigo. Para obter uma lista de todas as habilidades de análise, incluindo as permissões necessárias e as que não são abordadas, consulte [Habilidades e limitações](/help/chat/use-cases/data-insights/analytics-overview.md#skills-and-limitations) em Analisar dados com o Chat do Colaborador.
 
-Coworker uses the following skills for the use cases described in this article. For a list of all analytics skills, including the permissions they require and what they don't cover, see [Skills and limitations](/help/chat/use-cases/data-insights/analytics-overview.md#skills-and-limitations) in Analyze data with Coworker Chat.
-
-| Skill | Used for |
+| Habilidade | Usado para |
 | --- | --- |
-| *[Skill to be confirmed]* | Find what winning content has in common<br>Attribute revenue to the content customers see<br>Compare creative across paid and owned channels<br>Know which visuals move each audience |
-
--->
+| `analyze-content`, `cja` | Encontre o que o conteúdo vencedor tem em comum<br>Atribuir receita aos clientes do conteúdo ver<br>Comparar criação entre canais pagos e próprios<br>Saber quais visuais movem cada público<p>Para obter mais informações, consulte [Fazer perguntas sobre o seu conteúdo](/help/chat/use-cases/data-insights/ask-content-questions.md).</p> |
 
 ## Dicas para obter melhores resultados
 
@@ -64,5 +59,6 @@ Coworker uses the following skills for the use cases described in this article. 
 
 ## Próximas etapas
 
+* Para saber como o Colaborador responde a perguntas sobre conteúdo, consulte [Fazer perguntas sobre seu conteúdo](/help/chat/use-cases/data-insights/ask-content-questions.md).
 * Para obter uma visão geral da análise de dados com o Chat do Colaborador, incluindo os outros domínios de análise e práticas recomendadas, consulte [Analisar dados com o Chat do Colaborador](/help/chat/use-cases/data-insights/analytics-overview.md).
 * Para configurar o Chat do Colaborador e percorrer um exemplo funcional, consulte [Introdução à análise de dados com o Chat do Colaborador](/help/chat/use-cases/data-insights/analytics-chat.md).

@@ -4,9 +4,9 @@ title: Criar uma campanha de email
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: CX Enterprise Coworker
-source-git-commit: 5973a87d21b23d7621366108716cbd476e6f66ae
+source-git-commit: f25492704c73fc42d54bf44aa8d59ab73f811f1b
 workflow-type: tm+mt
-source-wordcount: '964'
+source-wordcount: '933'
 ht-degree: 0%
 ---
 # Criar uma campanha de email {#create-an-email-campaign}
@@ -19,9 +19,9 @@ Verifique se você tem:
 
 * Uma Adobe CX Enterprise Coworker ativa para a conta de equipes ([inscreva-se aqui](https://coworker-campaigns.experience.adobe.com/){target="_blank"} se você ainda não tiver uma).
 
-* Sua marca adicionada em **Seus itens** > **Marcas**.
+* Sua marca adicionada em **Contexto** > **Marcas**.
 
-* (Opcional, mas recomendado) Um modelo de email do HTML carregado em **Seus itens** > **Modelos de email**.
+* (Opcional, mas recomendado) Um modelo de email do HTML carregado em **Contexto** > **Modelos de email**.
 
 * Um CSV de público-alvo pronto para upload.
 
@@ -70,13 +70,13 @@ Exemplo:
 
 Quando o prompt estiver pronto, clique em **Gerar campanha**. O colaborador das equipes irá:
 
-* Gerar um plano de campanha estruturado.
+* Gerar uma estratégia de campanha estruturada.
 * Pergunte pelo seu público-alvo, que também será usado para personalização de conteúdo.
 * Conteúdo de email personalizado de rascunho para cada etapa.
 * Crie dinamicamente a jornada ao longo do caminho.
 * Reúna tudo em um único quadro de campanha.
 
-## Etapa 3: Fazer upload do público
+## Etapa 3: atualizar o público
 
 Os públicos-alvo são carregados por CSV. Todos os públicos-alvo são específicos para suas respectivas campanhas (eles não são armazenados em nenhum outro lugar do seu ambiente no momento).
 
@@ -161,10 +161,6 @@ Sim, o limite de tamanho é de 8 MB.
 **E se o CSV do meu público-alvo retornar erros?**
 
 Verifique se o arquivo CSV não contém caracteres ocultos &quot;avançados&quot;.
-
-**Como usar modelos de campanha?**
-
-Selecione o modelo desejado e clique em **Remix**. Você pode atualizar todos os tokens de personalização e clicar no ícone **enviar** no canto inferior direito.
 
 **Como faço para compartilhar uma campanha de rascunho com um colega de equipe para revisão?**
 
