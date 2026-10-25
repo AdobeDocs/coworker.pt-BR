@@ -1,15 +1,15 @@
 ---
-description: Saiba mais sobre o Adobe CX Enterprise Coworker para equipes, um aplicativo de marketing nativo em IA que transforma um único prompt em uma campanha pronta para revisão.
-title: Visão geral do Adobe CX Enterprise Coworker
+description: Explore o Adobe CX Enterprise Coworker para equipes. Acesse a avaliação gratuita, faça um tour pela interface, gere campanhas conversacionalmente e revise detalhes da avaliação.
+title: Visão geral do Adobe CX Enterprise Coworker para equipes
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: CX Enterprise Coworker
-source-git-commit: 5bc85387e83672fade431a5e8e801215429fa8c9
+source-git-commit: 6e7f80445232b5762eb93b82a604d8036c5a78e1
 workflow-type: tm+mt
-source-wordcount: '1027'
+source-wordcount: '1082'
 ht-degree: 0%
 ---
-# Colaborador para visão geral de equipes {#overview}
+# Visão geral do Adobe CX Enterprise Coworker para equipes {#overview}
 
 O Co-worker para equipes foi projetado para organizações menores com equipes de marketing mais ágeis que precisam de geração de conteúdo, criação de jornadas e análise em uma única ferramenta.
 
@@ -80,14 +80,15 @@ A interface de Colaborador de equipes é organizada em torno de uma navegação 
     <tr>
       <td>Contexto</td>
       <td>Clique em <i>Contexto</i> para exibir seu submenu:<br><br>
+      <ul>
       <li><b>Marcas</b> - Gerencie e adicione kits de marca e defina um padrão para seu espaço de trabalho.</li>
-      <li><b>Modelos de email</b> - Gerencie e carregue modelos personalizados do HTML e informe ao Colaborador quando usá-los.</li>
+      <li><b>Modelos de email</b> - Gerencie e carregue modelos personalizados do HTML e informe ao Colaborador as equipes quando usá-los.</li>
       <li><b>Conectores</b> - Integrações externas como Databricks e Salesforce para trazer públicos ou contexto.</li>
-      <li><b>Habilidades</b> - Instruções reutilizáveis que moldam como o Coworker compila e personaliza suas campanhas.</li></td>
+      <li><b>Habilidades</b> - Instruções reutilizáveis que moldam como o Coworker compila e personaliza suas campanhas.</li>
+      </ul></td>
     </tr>
   </tbody>
 </table>
-
 
 >[!NOTE]
 >
@@ -108,11 +109,11 @@ O colega de trabalho para equipes reúne cinco fluxos de trabalho que geralmente
 
 O colega de trabalho para equipes segue um loop conversacional simples de várias rodadas:
 
-**Entrada**. Você fornece uma meta de campanha, seu público-alvo (carregado ou conectado) e o contexto opcional da marca.
+**Entrada**: você fornece uma meta de campanha, seu público-alvo (carregado ou conectado) e o contexto opcional da marca.
 
-**Processando**. O Colaborador para equipes de IA de agente gera uma estratégia de campanha, cria uma jornada e elabora um conteúdo personalizado. Tudo o que você pode atualizar, conversacionalmente.
+**Processando**: o Colaborador para equipes com IA de agência gera uma estratégia de campanha, cria uma jornada e rascunha conteúdo personalizado, tudo o que você pode atualizar conversacionalmente.
 
-**Saída**. Um rascunho de campanha é exibido no quadro de campanha, pronto para revisão, iteração e eventual lançamento.
+**Saída**: uma campanha de rascunho aparece no quadro de campanha, pronta para revisão, iteração e eventual inicialização.
 
 Você pode conversar com os colegas de trabalho sobre equipes a qualquer momento (por exemplo, &quot;tornar o segundo email mais urgente&quot;, &quot;encurtar as linhas de assunto&quot; ou &quot;trocar o público-alvo para clientes antigos do 3º trimestre&quot;) e os artefatos serão atualizados no local.
 
@@ -124,29 +125,28 @@ Você pode conversar com os colegas de trabalho sobre equipes a qualquer momento
 
 Alguns achados dos primeiros usuários que fazem uma diferença real:
 
-- **Comece com um caso de uso real e específico**. &quot;Crie uma série de reconquista para clientes que não fizeram pedidos em 90 dias&quot; bate &quot;faça-me uma campanha&quot;. Consulte _Casos de uso_ para obter exemplos específicos.
+- **Comece com um caso de uso real e específico**. &quot;Crie uma série de reconquista para clientes que não fizeram pedidos em 90 dias&quot; bate &quot;faça-me uma campanha&quot;. Consulte [Casos de uso](/help/coworker-for-teams/use-cases.md) para obter exemplos específicos.
 - **Limpar os dados do público-alvo**. O colega de trabalho das equipes só pode personalizar, assim como o CSV permite. Exclua todos os contatos para os quais você não deve enviar emails antes de fazer upload.
 - **Invista na configuração da sua marca**. Colaborador para equipes extrai detalhes da marca quando você se inscreve. Uma análise rápida do **Contexto** > **Marcas** beneficia cada campanha gerada.
 - **Enviar um email de prova**. Antes de iniciar, envie uma prova e revise-a na sua própria caixa de entrada.
 - **Iterar, não reiniciar**. Trate o Colaborador para saída de equipes primeiro como um ponto de partida. O caminho mais rápido para o ótimo é algumas rodadas de refinamento, não um prompt novo.
 - **Exporte quando precisar de uma trilha de papel**. Exporte emails individuais como HTML ou a campanha completa como um documento do Word ou PDF para análise da equipe.
-- **A chave de escape**. Pressione a tecla escape sempre que estiver em um editor de Colaborador de campanhas ou em uma caixa de diálogo (campanhas, jornada etc.) para sair rapidamente.
+- **A chave de escape**. Pressione a tecla Escape sempre que estiver em um colega de trabalho para o editor de equipes ou diálogo (campanhas, jornada, etc.) para sair rapidamente.
 
 ## O que saber sobre o julgamento
 
 O colega de trabalho para equipes é um produto em desenvolvimento ativo. Veja o que você deve saber sobre a entrada:
 
 - **Janela de avaliação**: até 31 de dezembro de 2026.
-- **Aceitação necessária**: você precisará revisar e aceitar os termos de avaliação antes de acessar o produto.
+- **Aceitação necessária**: revise e aceite os termos de avaliação antes de acessar o produto. É necessário um endereço de email comercial válido.
 - **Região**: a avaliação gratuita está disponível somente para usuários na América do Norte no momento.
-- **Públicos-alvo**: os públicos-alvo são carregados via CSV. Todos os públicos-alvo são específicos para suas respectivas campanhas (eles não são armazenados em nenhum outro lugar do seu ambiente no momento).
+- **Públicos-alvo**: os públicos-alvo são carregados via CSV. Todos os públicos-alvo são específicos para suas respectivas campanhas (eles não são armazenados em nenhum outro lugar do seu ambiente no momento). Se você não tiver um público-alvo no momento da criação da campanha, poderá pedir ao Colaborador que as equipes gerem um público-alvo de amostra para que você possa continuar criando sua campanha.
 - **Orientação de dados**: não carregar dados confidenciais ou regulamentados. Atualmente, os colegas de trabalho para equipes não se destinam a setores regulamentados pela HIPAA.
 - **Conformidade**: você é responsável pelas seguintes regulamentações de email (links de cancelamento de inscrição, políticas de privacidade, etc.).
-- **Limite de envio**: (_Em breve_) Quando o Launch estiver disponível, você poderá enviar até 5.000 emails por mês.
+- **Limite de envio**: você pode enviar até 5.000 emails por mês. Se você precisar que esse limite seja aumentado, entre em contato com a equipe de produtos por meio do menu **Ajuda e comentários**, no canto inferior esquerdo da tela.
 
-## Visão geral do vídeo
+![Menu Ajuda e comentários](./assets/overview-3.png)
 
->[!VIDEO](https://video.tv.adobe.com/v/3492811?captions=por_br&learn=on){transcript=true}
+## Feedback
 
-
-Novos recursos serão enviados durante a avaliação. Seus comentários ajudam a moldar o que vem a seguir. Envie feedback por meio do ícone de feedback no produto, no cabeçalho.
+Novos recursos são fornecidos durante toda a avaliação. Seus comentários ajudam a moldar o que vem a seguir. Enviar comentários via **Ajuda e comentários**.
