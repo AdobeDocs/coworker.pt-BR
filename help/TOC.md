@@ -6,9 +6,9 @@ description: Saiba mais sobre as ferramentas de IA no CX Enterprise. Melhore o c
 solution: Experience Cloud
 role: Admin,User,Developer,Leader
 nudge: true
-source-git-commit: 43080128c8b3eeaa712334c3fff2fa89c157efea
+source-git-commit: fd69d41fa38c993fce1f32815f5badfd4714a270
 workflow-type: tm+mt
-source-wordcount: '312'
+source-wordcount: '314'
 ht-degree: 14%
 ---
 
@@ -103,3 +103,4 @@ ht-degree: 14%
   - [Notas de versão](./coworker-for-teams/release-notes.md)
 - Mais recursos {#more-resources}
   - [Atualizações na documentação](./more-resources/documentation-updates.md)
+  - [Notas de versão](./more-resources/release-notes.md)
