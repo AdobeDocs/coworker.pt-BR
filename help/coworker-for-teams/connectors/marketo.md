@@ -19,7 +19,7 @@ O Adobe Co-worker para equipes permite conectar a conta do Marketo Engage para o
 >
 >* Uma conta ativa do Marketo Engage
 >* Sua URL da instância **do Marketo**
->* Um [serviço personalizado](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/custom-services#custom-services-1) criado para o Colaborador para equipes na Marketo, com sua [ID do cliente e segredo do cliente](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/authentication#creating-an-access-token) disponíveis
+>* Um [serviço personalizado](https://experienceleague.adobe.com/pt-br/docs/marketo-developer/marketo/rest/custom-services#custom-services-1) criado para o Colaborador para equipes na Marketo, com sua [ID do cliente e segredo do cliente](https://experienceleague.adobe.com/pt-br/docs/marketo-developer/marketo/rest/authentication#creating-an-access-token) disponíveis
 
 ## Como se conectar
 
