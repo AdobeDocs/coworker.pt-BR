@@ -5,9 +5,9 @@ jira: KT-22106
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: CX Enterprise Coworker
-source-git-commit: fe2c27fd27bfebe17f31078cea769e6a1e4c71f1
+source-git-commit: d611ce2398cba72cf21c766f3b25225765c1675b
 workflow-type: tm+mt
-source-wordcount: '1903'
+source-wordcount: '1902'
 ht-degree: 2%
 ---
 # Introdução ao Chat do Colaborador {#ui-guide}
@@ -43,7 +43,7 @@ Para usar a experiência imersiva, entre com as credenciais da Adobe. É possív
 
 ## Vídeo - Noções básicas da interface de chat [!DNL Coworker]
 
->[!VIDEO](https://video.tv.adobe.com/v/3498571?captions=por_br&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3498558?learn=on)
 
 ## Escolha sua organização
 
@@ -82,7 +82,7 @@ Use o painel de navegação para se mover entre as partes do produto e retornar 
 | **[!UICONTROL Novo chat]** | Iniciar uma conversa. O Bate-papo de Colaborador salva o bate-papo atual no seu histórico. |
 | **[!UICONTROL Residência]** | Retorne à saudação, à caixa de entrada e aos prompts sugeridos. |
 | **[!UICONTROL Bate-Papos]** | Pesquisar, fixar, arquivar ou excluir conversas anteriores. |
-| **[!UICONTROL Configurações]** | Gerencie habilidades, servidores MCP, marketplaces, plugins e memória. |
+| **[!UICONTROL Personalizações]** | Gerencie habilidades, integrações, marketplaces, plugins e memória. |
 | **[!UICONTROL Fixado]** | Conversações abertas que você estrelou. Clique em **[!UICONTROL Exibir todos]** para vê-los na página de Bate-papos. |
 | **[!UICONTROL Recentes]** | Abra as conversas mais recentes. Clique em **[!UICONTROL Exibir tudo]** para abrir a página de Bate-papos. |
 
@@ -229,7 +229,7 @@ Use o botão de exibição para alternar entre os layouts de grade e lista.
 
    ![O visualizador SKILL.md](./assets/ui-guide-14.png)
 
-### Conectar um servidor
+### Conectar um servidor {#server}
 
 A integração do servidor a conecta o Coworker Chat a ferramentas e serviços externos, como o Adobe Journey Optimizer, Real-Time CDP, Target e Workfront. A guia **[!UICONTROL Personalizações]** > **[!UICONTROL Usuário]** > **[!UICONTROL Integrações]** lista os servidores conectados e o número de conexões ativas. Cada cartão mostra o nome do servidor, seu endpoint e tags que descrevem o que ele fornece.
 
@@ -272,7 +272,7 @@ Um plug-in agrupa habilidades e servidores para que você possa instalá-los e g
 
 A memória permite que o Bate-papo com colegas de trabalho lembre de suas preferências nas conversas, para que as respostas permaneçam relevantes ao longo do tempo. Use a guia **[!UICONTROL Memória]** para controlar o que ela mantém.
 
-1. Clique em **[!UICONTROL Memória]** na página Configurações.
+1. Clique em **[!UICONTROL Memória]** na página Personalizações.
 1. Ativar **[!UICONTROL Habilitar memória]**. Desative para impedir que o Bate-papo de Colaborador lembre-se entre sessões.
 1. Em **[!UICONTROL Preferências armazenadas]**, verifique o que o Chat do Colaborador salvou. É possível editar, excluir ou inspecionar cada entrada e filtrar entradas por categoria.
 1. Use o **[!UICONTROL Histórico de memórias salvas]** para ver uma linha do tempo de alterações em suas memórias.

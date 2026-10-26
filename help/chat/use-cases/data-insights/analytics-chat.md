@@ -4,16 +4,16 @@ description: Configure o Adobe CX Enterprise Coworker Chat para analisar dados d
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: CX Enterprise Coworker
-source-git-commit: a9f620ee74eeec0f4a838b7bae7a6189226fecc3
+source-git-commit: d611ce2398cba72cf21c766f3b25225765c1675b
 workflow-type: tm+mt
-source-wordcount: '2184'
+source-wordcount: '2182'
 ht-degree: 4%
 ---
 # Introdução à análise de dados com o Chat de colaborador
 
 Configure o Adobe CX Enterprise Coworker Chat para analisar suas visualizações de dados do Customer Journey Analytics ou conjuntos de relatórios do Adobe Analytics e, em seguida, siga um exemplo funcional. Para obter uma visão geral do que você pode fazer com o Chat do Colaborador, incluindo casos de uso, habilidades e práticas recomendadas, consulte [Analisar dados com o Chat do Colaborador](/help/chat/use-cases/data-insights/analytics-overview.md).
 
-Antes de começar, conheça a interface de Bate-papo do colega e as opções de configuração e, em seguida, verifique se o colega está conectado ao Customer Journey Analytics ou Adobe Analytics e às visualizações de dados ou conjuntos de relatórios relevantes.
+Antes de começar, aprenda a interface de Bate-papo com o Colaborador e as opções de personalização e, em seguida, verifique se o Colaborador está conectado ao Customer Journey Analytics ou Adobe Analytics e às visualizações de dados ou conjuntos de relatórios relevantes.
 
 ## Antes de começar
 
@@ -28,7 +28,7 @@ Antes de usar o Bate-papo com os colegas de trabalho com os dados do Customer Jo
 * Entradas de chat
 * Conversas
 * Marketplaces
-* Servidores MCP
+* Servidores de integração
 * Memória
 * Plug-ins
 * Habilidades
@@ -42,11 +42,15 @@ O Bate-papo com colegas de trabalho se conecta ao Customer Journey Analytics e a
 
 1. Em Colaborador, selecione [!UICONTROL **Personalizações**] no painel esquerdo.
 
-1. Selecione a guia [!UICONTROL **Integrações**] e verifique se [!UICONTROL **cja-mcp**] e [!UICONTROL **aa-mcp**] estão disponíveis na sua lista de servidores MCP conectados. Use o campo de pesquisa para filtrar rapidamente a lista de integrações disponíveis.
+1. Selecione a guia [!UICONTROL **Integrações**] e verifique se o [!UICONTROL **cja-mcp**] e o [!UICONTROL **aa-mcp**] estão disponíveis na sua lista de servidores conectados.
+
+   Use o campo de pesquisa para filtrar rapidamente a lista de integrações disponíveis.
 
    ![A guia Integrações na página Personalizações, filtrada para mostrar aa-mcp](assets/coworker-mcp-aa.png)
 
-1. (Condicional) Se a integração não estiver listada, selecione [!UICONTROL **Adicionar servidor**] para adicioná-la. Para obter mais informações, consulte [Conectar servidores MCP](/help/chat/ui-guide.md#connect-mcp-servers) no guia da interface do Chat do Colaborador.
+1. (Condicional) Se a integração não estiver listada, selecione [!UICONTROL **Adicionar servidor**] para adicioná-la.
+
+   Para obter mais informações, consulte [Conectar um servidor](/help/chat/ui-guide.md#server) no guia de introdução.
 
 ## Conecte-se à visualização de dados ou conjunto de relatórios correta
 
@@ -331,7 +335,7 @@ Para abrir uma visualização em um novo projeto do Analysis Workspace:
 
 1. (Opcional) Compartilhe seu projeto do Workspace com qualquer pessoa que você escolher.
 
-   Para obter mais informações sobre o Analysis Workspace, consulte [visão geral do Analysis Workspace](https://experienceleague.adobe.com/pt-br/docs/analytics-platform/using/cja-workspace/home) na documentação do Customer Journey Analytics ou [visão geral do Analysis Workspace](https://experienceleague.adobe.com/pt-br/docs/analytics/analyze/analysis-workspace/home) na documentação do Adobe Analytics.
+   Para obter mais informações sobre o Analysis Workspace, consulte [visão geral do Analysis Workspace](https://experienceleague.adobe.com/pt-br/docs/analytics-platform/using/cja-workspace/home) na documentação do Customer Journey Analytics ou [visão geral do Analysis Workspace](https://experienceleague.adobe.com/en/docs/analytics/analyze/analysis-workspace/home) na documentação do Adobe Analytics.
 
 ## Próximas etapas
 
