@@ -43,7 +43,7 @@ Para usar a experiência imersiva, entre com as credenciais da Adobe. É possív
 
 ## Vídeo - Noções básicas da interface de chat [!DNL Coworker]
 
->[!VIDEO](https://video.tv.adobe.com/v/3498558?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3498571?captions=por_br&learn=on)
 
 ## Escolha sua organização
 
