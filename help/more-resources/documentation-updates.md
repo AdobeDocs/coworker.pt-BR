@@ -1,0 +1,47 @@
+---
+title: Atualizações de documentação do CX Enterprise Coworker
+description: Consulte os novos artigos e vídeos adicionados à documentação do CX Enterprise Coworker. Volte para encontrar as adições mais recentes.
+product_v2:
+  - id: fdae8433-07cd-42e7-acce-738afe63f6bb
+    internal-label: CX Enterprise Coworker
+source-git-commit: 6ccaaf8cd5976c21119d800ada44101b11c65eb6
+workflow-type: tm+mt
+source-wordcount: '163'
+ht-degree: 1%
+---
+# Atualizações na documentação {#documentation-updates}
+
+Use esta página para localizar novo conteúdo na documentação do CX Enterprise Coworker. As atualizações são listadas por mês, com a mais recente primeiro. Para ver as alterações de produto do Colaborador de equipes, consulte as [Notas de versão do Colaborador de equipes](../coworker-for-teams/release-notes.md).
+
+## Outubro de 2026 {#oct-2026}
+
+**23 de outubro de 2026**
+
+* Novo: [Criar uma jornada a partir de uma imagem](../chat/use-cases/journeys/create-journey-from-image.md)
+
+**20 de outubro de 2026**
+
+* Novo: [Detectar anomalias do Experience Platform](../chat/use-cases/data-insights/anomaly-detection.md)
+
+**16 de outubro de 2026**
+
+* Novo: [Criar, simular e analisar jornadas entre canais](../chat/use-cases/journeys/create-simulate-and-analyze-a-cross-channel-journey-with-cx-enterprise-coworker-feature-video.md)
+* Novo: [visão geral da análise de Jornada](../chat/use-cases/data-insights/journey-analysis.md)
+* Novo: [Visão geral da análise de público-alvo e segmento](../chat/use-cases/data-insights/audience-and-segment-analysis.md)
+* Novo: [Visão geral do desempenho empresarial](../chat/use-cases/data-insights/business-performance.md)
+* Novo: [Visão geral do desempenho do conteúdo](../chat/use-cases/data-insights/content-performance.md)
+* Novo: [Medição de marketing e visão geral de atribuição](../chat/use-cases/data-insights/marketing-measurement-and-attribution.md)
+* Novo: [Visão geral sobre implementação e administração inteligentes](../chat/use-cases/data-insights/data-governance-and-validation.md)
+
+**14 de outubro de 2026**
+
+* Novo: [Acelere os insights de dados com o Colaborador, o AEM e o CJA](../chat/use-cases/data-insights/accelerate-data-insights.md)
+
+**8 de outubro de 2026**
+
+* Novo: [Acelerar a experimentação com o Colaborador, o AEM e o Target](../chat/use-cases/optimization/accelerate-experimentation.md)
+
+**7 de outubro de 2026**
+
+* Novo: [Integrar sua marca no AEM Assets](../chat/use-cases/brand-visibility/onboard-aem-assets.md)
+* Novo: [Gerenciar Plug-ins e Marketplaces](../customizations/plugins/manage-plugins-for-your-org.md)
