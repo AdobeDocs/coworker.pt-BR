@@ -1,13 +1,13 @@
 ---
-description: Saiba como abrir o Bate-papo com colegas de trabalho, definir sua organização e sandbox, enviar sua primeira mensagem e personalizar habilidades, servidores MCP e memória. Inicie uma conversa em minutos.
+description: Saiba como abrir o Chat do colaborador, definir sua organização e sandbox, enviar sua primeira mensagem e personalizar habilidades, servidores de integração e memória.
 title: Introdução ao Chat do Colaborador
 jira: KT-22106
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: CX Enterprise Coworker
-source-git-commit: b91e8dcdacf57bdbc4fb6cf7d6fe92920e7fbb6e
+source-git-commit: fe2c27fd27bfebe17f31078cea769e6a1e4c71f1
 workflow-type: tm+mt
-source-wordcount: '1765'
+source-wordcount: '1903'
 ht-degree: 2%
 ---
 # Introdução ao Chat do Colaborador {#ui-guide}
@@ -43,7 +43,7 @@ Para usar a experiência imersiva, entre com as credenciais da Adobe. É possív
 
 ## Vídeo - Noções básicas da interface de chat [!DNL Coworker]
 
->[!VIDEO](https://video.tv.adobe.com/v/3498571?captions=por_br&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3498558?learn=on)
 
 ## Escolha sua organização
 
@@ -229,13 +229,28 @@ Use o botão de exibição para alternar entre os layouts de grade e lista.
 
    ![O visualizador SKILL.md](./assets/ui-guide-14.png)
 
-### Conectar servidores MCP
+### Conectar um servidor
 
-Os servidores de Protocolo de Contexto de Modelo (MCP) conectam o Coworker Chat a ferramentas e serviços externos, como Adobe Journey Optimizer, Real-Time CDP, Target e Workfront. A guia **[!UICONTROL Servidores MCP]** lista os servidores conectados e o número de conexões ativas. Cada cartão mostra o nome do servidor, seu endpoint e tags que descrevem o que ele fornece.
+A integração do servidor a conecta o Coworker Chat a ferramentas e serviços externos, como o Adobe Journey Optimizer, Real-Time CDP, Target e Workfront. A guia **[!UICONTROL Personalizações]** > **[!UICONTROL Usuário]** > **[!UICONTROL Integrações]** lista os servidores conectados e o número de conexões ativas. Cada cartão mostra o nome do servidor, seu endpoint e tags que descrevem o que ele fornece.
 
-Para conectar um servidor, clique em **[!UICONTROL Adicionar servidor]** e siga as instruções.
+1. Navegue até **[!UICONTROL Personalizações]** > **[!UICONTROL Usuário]** > **[!UICONTROL Integrações]**
 
-![A guia de servidores MCP](./assets/ui-guide-15.png)
+   ![A guia Servidores](./assets/get-started-customizations.png)
+
+1. Em Personalizações, clique em **[!UICONTROL Adicionar servidor]**.
+
+   ![Adicionar integrações](./assets/get-started-add-integrations.png)
+
+1. Preencha os seguintes campos e opções:
+
+   * **[!UICONTROL Nome do servidor]** (obrigatório): digite um nome que identifique o servidor na lista de integrações, por exemplo `github` ou `slack`.
+   * **[!UICONTROL URL ou comando do Source]** (obrigatório): digite o endereço ao qual o Chat do Colaborador se conecta, por exemplo `https://mcp.example.com/sse`.
+   * **[!UICONTROL Tipo de conexão]**: selecione o protocolo que o servidor usa para se comunicar com o Chat do Colaborador, **[!UICONTROL SSE]** (eventos enviados pelo servidor) ou **[!UICONTROL HTTP]**. O padrão é **[!UICONTROL SSE]**.
+   * **[!UICONTROL Tempo limite da ferramenta (segundos)]**: Defina por quanto tempo o Chat do Colaborador espera uma ferramenta neste servidor responder antes de parar a solicitação. O padrão é 60 segundos.
+   * **[!UICONTROL Autenticação]**: selecione como o Chat de Colaborador comprova sua identidade para o servidor. O padrão é **[!UICONTROL Nenhum]**, que não envia credenciais. Selecione outro método se o servidor exigir credenciais.
+   * **[!UICONTROL Cabeçalhos]**: Clique em **[!UICONTROL Adicionar cabeçalho]** para enviar cabeçalhos HTTP extras, como uma chave de API, com cada solicitação ao servidor. Essa opção é opcional.
+
+1. Clique em **[!UICONTROL Adicionar]**.
 
 ### Adicionar um marketplace
 
@@ -245,7 +260,7 @@ Um marketplace é um registro de plug-ins que você pode navegar e instalar. Na 
 
 ### Gerenciar plug-ins
 
-Um plug-in agrupa habilidades e servidores MCP para que você possa instalá-los e gerenciá-los juntos. A guia **[!UICONTROL Plug-ins]** mostra os plug-ins instalados.
+Um plug-in agrupa habilidades e servidores para que você possa instalá-los e gerenciá-los juntos. A guia **[!UICONTROL Plug-ins]** mostra os plug-ins instalados.
 
 * Clique em **[!UICONTROL Procurar Marketplaces]** para encontrar novos plug-ins.
 * Filtre por marketplace para ver de onde veio cada plug-in.
