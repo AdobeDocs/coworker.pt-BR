@@ -1,19 +1,23 @@
 ---
 title: Atualizações de documentação do CX Enterprise Coworker
-description: Consulte os novos artigos e vídeos adicionados à documentação do CX Enterprise Coworker. Volte para encontrar as adições mais recentes.
+description: Consulte os artigos e vídeos novos e atualizados na documentação do CX Enterprise Coworker. Volte para encontrar as adições mais recentes.
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: CX Enterprise Coworker
-source-git-commit: 6ccaaf8cd5976c21119d800ada44101b11c65eb6
+source-git-commit: e4fbbf54c26a0443f0fab50d05428e793dbb5c88
 workflow-type: tm+mt
-source-wordcount: '163'
-ht-degree: 1%
+source-wordcount: '229'
+ht-degree: 0%
 ---
 # Atualizações na documentação {#documentation-updates}
 
-Use esta página para localizar novo conteúdo na documentação do CX Enterprise Coworker. As atualizações são listadas por mês, com a mais recente primeiro. Para ver as alterações de produto do Colaborador de equipes, consulte as [Notas de versão do Colaborador de equipes](../coworker-for-teams/release-notes.md).
+Use esta página para encontrar conteúdo novo e substancialmente atualizado na documentação do CX Enterprise Coworker. As atualizações são listadas por mês, com a mais recente primeiro. Para ver as alterações de produto do Colaborador de equipes, consulte as [Notas de versão do Colaborador de equipes](../coworker-for-teams/release-notes.md).
 
 ## Outubro de 2026 {#oct-2026}
+
+**26 de outubro de 2026**
+
+* Atualizado: [Introdução ao Chat do Colaborador](../chat/ui-guide.md). O artigo é reorganizado e reescrito para corresponder à interface atual. Agora descreve o menu de conta e o painel de navegação, incluindo **Artefatos** e **Contexto de Experiência**. Ele também explica como escolher uma organização e sandbox, e como usar a barra de ferramentas de entrada, as exibições de transcrição e o resumo da atividade de resposta. Capturas de tela desatualizadas são removidas.
 
 **23 de outubro de 2026**
 
