@@ -4,14 +4,14 @@ title: Conectar-se aos Databricks
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: CX Enterprise Coworker
-source-git-commit: 6d121c60fbf41dc2b27844854078f8f4f48d1944
+source-git-commit: 395e6f64210aedd90fa4f6655860cf4c9bf19f7b
 workflow-type: tm+mt
-source-wordcount: '129'
+source-wordcount: '140'
 ht-degree: 0%
 ---
 # Conectar-se aos Databricks {#databricks}
 
-O Adobe Co-worker para equipes permite conectar seus Databricks a..........
+O Adobe Co-worker para equipes permite conectar e consultar tabelas do Catálogo de unidade no espaço de trabalho de Databricks para criar e ativar públicos-alvo da campanha.
 
 >[!PREREQUISITES]
 >
@@ -19,7 +19,7 @@ O Adobe Co-worker para equipes permite conectar seus Databricks a..........
 
 ## Como se conectar
 
-1. Na [Página inicial de colegas de trabalho das equipes](https://coworker-campaigns.experience.adobe.com/), clique em **Personalizar** e selecione **Conectores**.
+1. Na [Página inicial de colegas de trabalho das equipes](https://coworker-campaigns.experience.adobe.com/), clique em **Contexto** e selecione **Conectores**.
 
    CAPTURA DE TELA
 
@@ -39,7 +39,7 @@ O Adobe Co-worker para equipes permite conectar seus Databricks a..........
 
    CAPTURA DE TELA
 
-Após a conexão, o Databricks é exibido na lista de Conectores e................
+Após a conexão, os Databricks são exibidos na lista de Conectores.
 
 **Para desconectar:**
 
