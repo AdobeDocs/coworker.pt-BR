@@ -6,10 +6,10 @@ description: Saiba mais sobre as ferramentas de IA no CX Enterprise. Melhore o c
 solution: Experience Cloud
 role: Admin,User,Developer,Leader
 nudge: true
-source-git-commit: 6022fafc0e0213cbc887f5b38267cb65fd8d4326
+source-git-commit: a0a02aaf4048f13954a1018499204cab05c27023
 workflow-type: tm+mt
-source-wordcount: '305'
-ht-degree: 12%
+source-wordcount: '312'
+ht-degree: 15%
 ---
 
 # CX Enterprise Coworker {#content}
@@ -65,6 +65,8 @@ ht-degree: 12%
       - [Habilidades de agente de ferramentas de sandbox](./chat/use-cases/sandbox-tooling/sandbox-tooling.md)
     - Alertas {#alerts}
       - [Habilidades de alerta do cliente](./chat/use-cases/customer-alerts/customer-alerts.md)
+    - Notificações {#notifications}
+      - [Habilidades de notificação](./chat/use-cases/notifications/notification-skills.md)
     - Visibilidade da marca {#brand-visibility}
       - [Criar e refinar uma página de aterrissagem do AEM](./chat/use-cases/brand-visibility/create-and-refine-aem-landing-page.md)
       - [Verificação de conformidade da marca](./chat/use-cases/brand-visibility/brand-compliance.md)
@@ -88,7 +90,6 @@ ht-degree: 12%
   - Memória {#memory}
     - [O que é memória?](./customizations/memory/what-is-memory.md)
 - Colaborador de equipes {#coworker-for-teams}
-  - {hide-from-toc}[Nova experiência com equipes](./coworker-for-teams/new-teams-experience.md)
   - [Visão geral](./coworker-for-teams/overview.md)
   - [Criar uma campanha de email](./coworker-for-teams/create-an-email-campaign.md)
   - [Iniciar e gerenciar uma campanha](./coworker-for-teams/launch-manage-campaign.md)
@@ -98,4 +99,8 @@ ht-degree: 12%
   - Conectores {#connectors}
     - [Marketo Engage](./coworker-for-teams/connectors/marketo.md)
     - [Hubspot](./coworker-for-teams/connectors/hubspot.md)
+    - [Salesforce](./coworker-for-teams/connectors/salesforce.md)
   - [Notas de versão](./coworker-for-teams/release-notes.md)
+- Mais recursos {#more-resources}
+  - [Atualizações na documentação](./more-resources/documentation-updates.md)
+  - [Notas de versão](./more-resources/release-notes.md)

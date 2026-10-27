@@ -1,12 +1,12 @@
 ---
-description: Descrição
+description: Saiba como conectar o Colaborador para equipes à sua conta da Salesforce para acessar seus clientes potenciais e contatos.
 title: Conectar-se ao Salesforce
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: CX Enterprise Coworker
-source-git-commit: 5973a87d21b23d7621366108716cbd476e6f66ae
+source-git-commit: 6d121c60fbf41dc2b27844854078f8f4f48d1944
 workflow-type: tm+mt
-source-wordcount: '224'
+source-wordcount: '240'
 ht-degree: 0%
 ---
 # Conectar-se ao Salesforce {#salesforce}
@@ -23,9 +23,9 @@ O Adobe Co-worker para equipes permite que você conecte sua conta da Salesforce
 
 ## Como se conectar
 
-1. Na [Página inicial de colegas de trabalho das equipes](https://coworker-campaigns.experience.adobe.com/), clique em **Personalizar** e selecione **Conectores**.
+1. Na [Página inicial de colegas de trabalho das equipes](https://coworker-campaigns.experience.adobe.com/), clique em **Contexto** e selecione **Conectores**.
 
-   ![Colaborador para equipes saiu da navegação com Personalizar expandido e Conectores destacados](./assets/salesforce-1.png)
+   ![Colaborador para equipes saiu da navegação com Contexto expandido e Conectores destacados](./assets/salesforce-1.png)
 
 1. Clique em **Adicionar integração**.
 

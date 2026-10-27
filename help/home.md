@@ -4,9 +4,9 @@ description: Saiba mais sobre o Adobe CX Enterprise Coworker, um companheiro de 
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: CX Enterprise Coworker
-source-git-commit: 577c1f8f9ea054eabfede407149139638311d5dc
+source-git-commit: d611ce2398cba72cf21c766f3b25225765c1675b
 workflow-type: tm+mt
-source-wordcount: '1181'
+source-wordcount: '1213'
 ht-degree: 16%
 ---
 # Visão geral do CX Enterprise Coworker {#overview}
@@ -63,6 +63,8 @@ Personalize o bate-papo com colegas de trabalho de acordo com a maneira como sua
 * [Integrações](./customizations/integrations/understanding-integrations-in-coworker.md)
 * [Plug-ins](./customizations/plugins/what-are-plugins.md)
 * [Memória](./customizations/memory/what-is-memory.md)
+
+Para conectar o Chat do Colaborador a uma ferramenta ou serviço externo, adicione-o como um servidor em **[!UICONTROL Personalizações]** > **[!UICONTROL Usuário]** > **[!UICONTROL Integrações]**. Para as etapas e uma descrição de cada campo, consulte [Conectar um servidor](./chat/ui-guide.md#server).
 
 ## Colaborador de equipes
 

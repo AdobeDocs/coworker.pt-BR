@@ -4,9 +4,9 @@ title: Criar uma campanha de email
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: CX Enterprise Coworker
-source-git-commit: f25492704c73fc42d54bf44aa8d59ab73f811f1b
+source-git-commit: bf3751af83dd8d40021fb2459743aec66c53209c
 workflow-type: tm+mt
-source-wordcount: '933'
+source-wordcount: '935'
 ht-degree: 0%
 ---
 # Criar uma campanha de email {#create-an-email-campaign}
@@ -80,15 +80,13 @@ Quando o prompt estiver pronto, clique em **Gerar campanha**. O colaborador das 
 
 Os públicos-alvo são carregados por CSV. Todos os públicos-alvo são específicos para suas respectivas campanhas (eles não são armazenados em nenhum outro lugar do seu ambiente no momento).
 
-1. Depois de enviar seu prompt, revise as tarefas que o Co-worker executará e clique em **Compilação**.
+1. Depois de enviar seu prompt, o Colaborador para equipes (geralmente) gera um público-alvo de amostra para você. Caso contrário, será solicitado que você importe um público-alvo.
 
-1. No painel _Conversão de campanha_, à esquerda, clique em **Carregar CSV**.
-
-   ![](./assets/create-an-email-campaign-3.png)
+1. Importe seu próprio público carregando um arquivo CSV ou trazendo dados de um conector disponível.
 
    >[!NOTE]
    >
-   >* Endereço de email é um campo obrigatório, nome, última data de compra e qualquer outro campo que possa ser usado para personalização é recomendado.
+   >Embora o Colaborador das equipes permita que você continue criando sua campanha usando uma amostra de público, é necessário adicionar um público real para iniciar sua campanha.
 
 1. Importe seu arquivo CSV.
 
@@ -132,9 +130,9 @@ Antes de iniciar, envie a campanha para você mesmo para analisá-la em uma caix
 
 ![](./assets/create-an-email-campaign-6.png)
 
-## Etapa 6: Próximas etapas
+## Etapa 6: iniciar a campanha
 
-A funcionalidade do Launch (envio da campanha de email) será adicionada em breve. Até lá, você pode analisar o conteúdo com sua equipe e iniciar sua próxima campanha.
+Agora você está pronto para [iniciar sua campanha](/help/coworker-for-teams/launch-manage-campaign.md#launch-a-campaign).
 
 ## Perguntas frequentes
 

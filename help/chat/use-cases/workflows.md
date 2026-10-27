@@ -4,9 +4,9 @@ title: Fluxos de trabalho de chat do colaborador
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: CX Enterprise Coworker
-source-git-commit: b85f470f860795f9a3960f5a4e36d0584e2b6a81
+source-git-commit: 5acb9a62c94486e0487cc7805ebc9ef6e25e2079
 workflow-type: tm+mt
-source-wordcount: '8358'
+source-wordcount: '8465'
 ht-degree: 6%
 ---
 # Fluxos de trabalho de chat do colaborador {#use-cases}
@@ -147,6 +147,7 @@ O Chat do Colaborador permite consultar, analisar e agir nos dados do [!DNL Expe
 | [Analisar a higiene das jornadas](https://experienceleague.adobe.com/pt-br/docs/journey-optimizer/using/orchestrate-journeys/journeys-coworker-skills#journey-analyze){target="_blank"} | Faça auditoria do inventário de jornadas para encontrar jornadas com nomes ausentes ou genéricos, jornadas de rascunho ou ativas obsoletas, jornadas grandes demais, jornadas fechadas já existentes e nomes de ação e evento semelhantes, com recomendações para limpar e estabilizar sua configuração | Jornada análise | Adobe Journey Optimizer (AJO) | &quot;Auditoria da configuração do meu jornada.&quot; <br> &quot;Quais das minhas jornadas estão obsoletas ou precisam de limpeza?&quot; |
 | [Comparar versões do jornada](https://experienceleague.adobe.com/pt-br/docs/journey-optimizer/using/orchestrate-journeys/journeys-coworker-skills#journey-analyze){target="_blank"} | Comparar duas versões do jornada e revisar uma comparação estruturada de alterações de nó, conexão e propriedade no nível da jornada | `journey-analyze-version-comparison` | Adobe Journey Optimizer (AJO) | &quot;Comparar versões 2 e 3 da minha jornada de Boas-vindas&quot; <br> &quot;O que mudou entre essas duas versões do jornada?&quot; |
 | [Rastrear perfis por meio de uma jornada](https://experienceleague.adobe.com/pt-br/docs/journey-optimizer/using/orchestrate-journeys/journeys-coworker-skills#trace-journey-profile){target="_blank"} | Obter dados de execução somente leitura em nível de perfil para uma jornada publicada: veja quantos perfis entraram em cada nó e como eles se dividem em ramificações, localize quais perfis com erro e por quê ou siga o caminho de um único perfil nó por nó pela jornada | Rastrear perfil de Jornada | Adobe Journey Optimizer (AJO) | &quot;Rastrear perfis pelo [Nome da Jornada].&quot; <br> &quot;Quais perfis apresentaram erro em [Nome da Jornada] nos últimos 7 dias, em qual nó e por quê?&quot; <br> &quot;Mostre-me o caminho do perfil [ID ou email] através do [Nome da Jornada].&quot; |
+| [Analisar a linha do tempo de execução da jornada](https://experienceleague.adobe.com/pt-br/docs/journey-optimizer/using/orchestrate-journeys/journeys-coworker-skills#journey-execution-timeline){target="_blank"} | Obtenha a linha do tempo de ponta a ponta de um lote de jornadas de leitura de público-alvo: veja quanto tempo levou, quando a exportação de público-alvo, a execução de jornadas e a entrega começaram e terminaram e o nível de perfil P95 e P99 para entrada, saída ou tempo de execução | Linha do tempo de execução da Jornada | Adobe Journey Optimizer (AJO) | &quot;Quanto tempo demorou para executar a jornada de Leitura de Público [Nome da Jornada]?&quot; <br> &quot;Mostre-me os cronogramas de exportação de público, execução de jornada e entrega para [Nome da Jornada] por lote.&quot; <br> &quot;Qual lote de [Nome da Jornada] levou mais tempo e qual estágio causou o atraso?&quot; |
 
 **Informações relacionadas**
 
