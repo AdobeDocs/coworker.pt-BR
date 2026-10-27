@@ -4,9 +4,9 @@ title: Criar uma campanha de email
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: CX Enterprise Coworker
-source-git-commit: bf3751af83dd8d40021fb2459743aec66c53209c
+source-git-commit: a456bf55f7004304df7ad9ea6d6bc3410faffaba
 workflow-type: tm+mt
-source-wordcount: '935'
+source-wordcount: '933'
 ht-degree: 0%
 ---
 # Criar uma campanha de email {#create-an-email-campaign}
@@ -68,7 +68,7 @@ Exemplo:
 
 ![Digitando seu próprio prompt](./assets/create-an-email-campaign-2.png)
 
-Quando o prompt estiver pronto, clique em **Gerar campanha**. O colaborador das equipes irá:
+Quando o prompt estiver pronto, clique no ícone de seta para cima. O colaborador das equipes irá:
 
 * Gerar uma estratégia de campanha estruturada.
 * Pergunte pelo seu público-alvo, que também será usado para personalização de conteúdo.
@@ -88,8 +88,6 @@ Os públicos-alvo são carregados por CSV. Todos os públicos-alvo são específ
    >
    >Embora o Colaborador das equipes permita que você continue criando sua campanha usando uma amostra de público, é necessário adicionar um público real para iniciar sua campanha.
 
-1. Importe seu arquivo CSV.
-
    >[!IMPORTANT]
    >
    >Exclua todos os contatos para os quais você não deseja enviar um email (usuários que cancelaram a inscrição, endereços internos, contas de teste) antes de fazer upload. Embora progressivamente possamos habilitar a funcionalidade para excluir usuários específicos ou adicionar atributos durante o curso da avaliação, ela não está imediatamente disponível a partir da data de lançamento.
@@ -98,7 +96,7 @@ Os públicos-alvo são carregados por CSV. Todos os públicos-alvo são específ
 
 Para fazer alterações no email, navegue até a direita. Em _Campaign Assets_, clique em **Abrir editor**.
 
-![](./assets/create-an-email-campaign-4.png)
+![](./assets/create-an-email-campaign-3.png)
 
 Há duas maneiras de atualizar seu conteúdo.
 
@@ -114,7 +112,7 @@ Há duas maneiras de atualizar seu conteúdo.
 
 Você também pode usar os botões AI para ajudar a refinar o Assunto ou o Pré-cabeçalho.
 
-![](./assets/create-an-email-campaign-5.png)
+![](./assets/create-an-email-campaign-4.png)
 
 >[!TIP]
 >
@@ -128,7 +126,7 @@ Antes de iniciar, envie a campanha para você mesmo para analisá-la em uma caix
 >
 >No momento, você só pode enviar um email de teste para si mesmo, e apenas um de cada vez.
 
-![](./assets/create-an-email-campaign-6.png)
+![](./assets/create-an-email-campaign-5.png)
 
 ## Etapa 6: iniciar a campanha
 
