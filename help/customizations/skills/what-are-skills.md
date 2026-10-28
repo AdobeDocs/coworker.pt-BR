@@ -22,7 +22,7 @@ As habilidades são manuais reutilizáveis que ajudam o Adobe CX Coworker a exec
  
 Neste vídeo, você aprenderá como as habilidades funcionam, quando usá-las e como elas ajudam as equipes a dimensionar práticas de experiência do cliente repetíveis.
 
->[!VIDEO](https://video.tv.adobe.com/v/3502322/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3502327/?captions=por_br&learn=on&enablevpops)
 
 Uma habilidade fornece:
 
