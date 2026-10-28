@@ -66,4 +66,4 @@ O Chat do Colaborador é alimentado pelos blocos de construção do Colaborador.
 
 ## Visão geral do vídeo
 
->[!VIDEO](https://video.tv.adobe.com/v/3495967?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3495971?captions=por_br&learn=on){transcript=true}
