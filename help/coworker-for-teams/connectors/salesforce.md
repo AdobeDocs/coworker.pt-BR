@@ -4,9 +4,9 @@ title: Conectar-se ao Salesforce
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: CX Enterprise Coworker
-source-git-commit: 6d121c60fbf41dc2b27844854078f8f4f48d1944
+source-git-commit: 55ee8ef8f43e03720e75c9e68fccf12da8595f9c
 workflow-type: tm+mt
-source-wordcount: '240'
+source-wordcount: '287'
 ht-degree: 0%
 ---
 # Conectar-se ao Salesforce {#salesforce}
@@ -19,11 +19,11 @@ O Adobe Co-worker para equipes permite que você conecte sua conta da Salesforce
 >
 >* Uma conta ativa do Salesforce
 >* As seguintes permissões no Salesforce: `api`, `sobjects.Contact.read`, `sobjects.Campaign.read`, `sobjects.CampaignMember.read`
->* Sua URL da Instância do Salesforce, [ID do Cliente e segredo do Cliente](https://help.salesforce.com/s/articleView?id=xcloud.remoteaccess_oauth_client_credentials_flow.htm&type=5#:~:text=DESCRIPTION-,client_id,-The%20consumer%20key) estão disponíveis
+>* Sua URL da Instância do Salesforce, [ID do Cliente e segredo do Cliente](https://help.salesforce.com/s/articleView?id=xcloud.remoteaccess_oauth_client_credentials_flow.htm&type=5#:~:text=DESCRIPTION-,client_id,-The%20consumer%20key){target="_blank"} estão disponíveis
 
 ## Como se conectar
 
-1. Na [Página inicial de colegas de trabalho das equipes](https://coworker-campaigns.experience.adobe.com/), clique em **Contexto** e selecione **Conectores**.
+1. Na [Página inicial de colegas de trabalho das equipes](https://coworker-campaigns.experience.adobe.com/){target="_blank"}, clique em **Contexto** e selecione **Conectores**.
 
    ![Colaborador para equipes saiu da navegação com Contexto expandido e Conectores destacados](./assets/salesforce-1.png)
 
@@ -37,7 +37,7 @@ O Adobe Co-worker para equipes permite que você conecte sua conta da Salesforce
 
 1. Na linha Salesforce, clique em **Conectar**.
 
-   ![](./assets/salesforce-3.png)
+   ![Mosaico do conector do Salesforce com o botão Conectar](./assets/salesforce-3.png)
 
 1. Digite a **URL da instância**, a **ID do Cliente** e o **segredo do Cliente** do Salesforce. Clique em **Conectar**.
 
@@ -47,7 +47,7 @@ O Adobe Co-worker para equipes permite que você conecte sua conta da Salesforce
    >
    >* Enquanto estiver na sua conta da Salesforce, você poderá encontrar a URL da Instância na barra de endereços do navegador ou navegando até **Configuração** > **Configurações da Empresa** > **Meu Domínio**.
 
-   ![](./assets/salesforce-4.png)
+   ![Caixa de diálogo Conectar o Salesforce com campos para URL de instância, ID do Cliente e segredo do Cliente](./assets/salesforce-4.png)
 
 Após a conexão, o Salesforce é exibido na lista Conectores e pode ser selecionado ao vincular um cliente potencial ou lista de contatos para sincronização do Salesforce.
 
@@ -55,12 +55,12 @@ Após a conexão, o Salesforce é exibido na lista Conectores e pode ser selecio
 
 1. Na tela Conectores, encontre o bloco Salesforce e clique em **Gerenciar**.
 
-   ![](./assets/salesforce-5.png)
+   ![Tela Conectores mostrando o Salesforce conectado com o botão Gerenciar realçado](./assets/salesforce-5.png)
 
 1. Clique em **Desconectar** (não é necessário inserir novamente o segredo do cliente neste momento).
 
-   ![](./assets/salesforce-6.png)
+   ![Caixa de diálogo Gerenciar Salesforce com o botão Desconectar realçado](./assets/salesforce-6.png)
 
 1. Clique novamente em **Desconectar** para confirmar.
 
-   ![](./assets/salesforce-7.png)
+   ![Caixa de diálogo de confirmação para desconectar com o botão Desconectar realçado](./assets/salesforce-7.png)
