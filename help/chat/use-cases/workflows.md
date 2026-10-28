@@ -4,9 +4,9 @@ title: Fluxos de trabalho de chat do colaborador
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: CX Enterprise Coworker
-source-git-commit: 5a5642bf7d8b6f4d2aa14321fa9a06249440e998
+source-git-commit: 8e88ec793bd4ae6fe4692c1d5107fe01fe14bf7f
 workflow-type: tm+mt
-source-wordcount: '8511'
+source-wordcount: '8510'
 ht-degree: 6%
 ---
 # Fluxos de trabalho de chat do colaborador {#use-cases}
@@ -117,7 +117,7 @@ O Chat do Colaborador permite consultar, analisar e agir nos dados do [!DNL Expe
 | Previsão | Projetar valores de métricas futuras com base em dados históricos do CJA ou do AA | `cja`, `aa` | Customer Journey Analytics (CJA), Adobe Analytics (AA) | &quot;Sessões de previsão para os próximos 30 dias&quot; <br> &quot;Estamos no caminho certo para atingir nossa meta de receita?&quot; |
 | [Análise da causa principal](data-insights/root-cause-analysis.md) | Investigar por que uma métrica mudou: diagnosticar quedas, picos e anomalias | `cja-root-cause-analysis`, `aa-root-cause-analysis` | Customer Journey Analytics (CJA), Adobe Analytics (AA) | &quot;Por que as conversões caíram na semana passada?&quot; <br> &quot;O que causou o pico de receita em 15 de janeiro?&quot; |
 | Resumos executivos e resumos de KPI | Produzir resumos de desempenho prontos para as partes interessadas, recomendações prescritivas e descrições do conjunto de slides | `cja-executive-summary`, `cja-bacom-anomaly-tracker-v2`, `cja-cno-weekly-pulse`, `cja-reporting`, `cja`, `aa`, `dx-api` | Customer Journey Analytics (CJA), Adobe Analytics (AA) | &quot;Dê-me um resumo executivo do mês passado&quot; <br> &quot;Criar uma descrição do conjunto de slides a partir dos dados deste trimestre&quot; |
-| [Análise de conteúdo](data-insights/ask-content-questions.md) | Responda a perguntas gerais ou específicas sobre seu conteúdo usando dados do Content Analytics: qual conteúdo priorizar, quais atributos impulsionam a participação e quais ativos e experiências impulsionam a receita | `analyze-content`, `cja` | Customer Journey Analytics (CJA) | &quot;Que tipo de conteúdo devo priorizar?&quot; <br> &quot;O que nossas imagens com melhor desempenho têm em comum?&quot; |
+| [Análise de conteúdo](data-insights/ask-content-questions.md) (disponibilidade limitada) | Responda a perguntas gerais ou específicas sobre seu conteúdo usando dados do Content Analytics: qual conteúdo priorizar, quais atributos impulsionam a participação e quais ativos e experiências impulsionam a receita | `analyze-content`, `cja` | Customer Journey Analytics (CJA) | &quot;Que tipo de conteúdo devo priorizar?&quot; <br> &quot;O que nossas imagens com melhor desempenho têm em comum?&quot; |
 | [Validação de dados do CJA considerada pelo AA](data-insights/data-validation-aa-cja.md) | Comparar, auditar e reconciliar dados entre o Adobe Analytics e o Customer Journey Analytics, especialmente ao atualizar do Adobe Analytics para o Customer Journey Analytics | `aa-cja-validation`, `cja`, `aa`, `dx-api` | ADOBE ANALYTICS + CJA | &quot;Comparar meu conjunto de relatórios do AA com minha visualização de dados do CJA&quot; <br> &quot;Validar visualizações de página entre o AA e o CJA&quot; |
 | [Validar qualidade de conjunto de dados e campo](data-insights/data-validation-aep.md) | Execute a validação estatística e semântica em conjuntos de dados e campos do Experience Platform para capturar problemas de qualidade de dados após a implementação ou de forma contínua <!--TODO: confirm skill ID(s) with engineering before publishing--> | `data-validation` | Adobe Experience Platform | &quot;Validar a Amostra de Eletrônicos do conjunto de dados 1000&quot; <br> &quot;Validar o campo de email no conjunto de dados Customers_2024&quot; |
 | Séries cronológicas operacionais e análise causal | Consultar e analisar dados históricos de séries temporais para públicos, conjuntos de dados e jornadas com atribuição causal | `operational-stats-causal-analysis` | Todos os aplicativos qualificados | &quot;Mostre-me as tendências de tamanho de público nos últimos 90 dias&quot; <br> &quot;Por que minha contagem de linhas do conjunto de dados aumentou em 3 de março?&quot; |

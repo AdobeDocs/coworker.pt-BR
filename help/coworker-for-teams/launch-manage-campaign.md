@@ -4,10 +4,10 @@ title: Iniciar e gerenciar uma campanha
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: CX Enterprise Coworker
-source-git-commit: f25492704c73fc42d54bf44aa8d59ab73f811f1b
+source-git-commit: a456bf55f7004304df7ad9ea6d6bc3410faffaba
 workflow-type: tm+mt
-source-wordcount: '610'
-ht-degree: 2%
+source-wordcount: '683'
+ht-degree: 1%
 ---
 # Iniciar e gerenciar uma campanha {#launch-campaign}
 
@@ -31,11 +31,15 @@ Depois que a campanha for criada, saiba como iniciá-la, agendar quando ela for 
 
 1. Clique em **Iniciar campanha** quando terminar.
 
->[!NOTE]
->
->- Uma campanha não pode ser iniciada com um público-alvo de amostra (não real), rascunhos de email que não foram revisados ou configurações de envio não definidas.
->
->- Se você agendar uma campanha, ainda poderá editá-la antes do seu lançamento. Não há necessidade de alternar para o modo de rascunho.
+### Itens a serem observados - lançamento
+
+- Uma campanha não pode ser iniciada com um público-alvo de amostra (não real), rascunhos de email que não foram revisados ou configurações de envio não definidas.
+
+- Se você agendar uma campanha, ainda poderá editá-la antes do seu lançamento. Não há necessidade de alternar para o modo de rascunho.
+
+- Sua avaliação inclui 5.000 emails enviados por mês. O _impacto do limite estimado_ é exibido no lançamento para que você possa acompanhar quantos emails ainda tem.
+
+- Quando sua campanha estiver ativa, os insights ficam disponíveis em duas horas por meio da guia _Insights_ na parte superior do seu quadro de campanha. Os insights incluem o número de envios, aberturas, cliques, rejeições, cancelamentos de assinatura e erros, bem como o desempenho diário e seu fluxo de trabalho.
 
 ## Agendar o lançamento de uma campanha {#schedule-when-a-campaign-launches}
 
@@ -80,7 +84,7 @@ A campanha deve estar pronta para ser iniciada (todas as configurações necess�
 | Dia do mês | Em qual dia do mês a campanha se repete | Sim, para frequência Mensal |
 | Encerrar campanha | Nunca ou em uma data final específica | Sim, para Recorrente |
 
-### Itens a serem observados
+### Itens a serem observados - agendamento
 
 - As campanhas recorrentes podem ser definidas para serem executadas indefinidamente ou até uma data final específica. Campanhas únicas e imediatas não têm uma opção de data de término, pois são executadas uma vez.
 - A programação não é compatível com intervalos de repetição personalizados, como &quot;a cada 2 semanas&quot; ou &quot;a cada 3 dias&quot;. Também não oferece suporte para recorrência mensal relativa, como &quot;a segunda segunda-feira do mês&quot;.

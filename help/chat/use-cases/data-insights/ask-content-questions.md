@@ -4,9 +4,9 @@ description: Pergunte ao bate-papo com colegas de trabalho sobre seu conteúdo e
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: CX Enterprise Coworker
-source-git-commit: f1ffc050071fc0ca48ae36c7aea8bc66eff2a147
+source-git-commit: 8e88ec793bd4ae6fe4692c1d5107fe01fe14bf7f
 workflow-type: tm+mt
-source-wordcount: '1009'
+source-wordcount: '1076'
 ht-degree: 2%
 ---
 
@@ -14,7 +14,11 @@ ht-degree: 2%
 
 <!-- FLAG: Confirm with the PM: (1) availability (GA, beta, or experimental) and whether this page needs an AVAILABILITY note or `hide: true` until launch, and (2) any required Coworker entitlement. Content Analytics itself has no separate permission: users get access through data views that are configured for Content Analytics (Access control section of analytics-platform.en/help/content-analytics/config/configuration.md). -->
 
-Use o Adobe CX Enterprise Coworker Chat para obter respostas precisas sobre o conteúdo do Adobe Content Analytics. Faça uma pergunta específica, como &quot;Quais imagens herói geraram mais receita no último trimestre?&quot;, ou uma pergunta geral, como &quot;Qual tipo de conteúdo devo priorizar?&quot;. Colaborador transforma sua pergunta em uma análise sólida.
+>[!AVAILABILITY]
+>
+>A funcionalidade descrita neste artigo está na fase de Teste limitado da versão e pode ainda não estar disponível em seu ambiente. Essa nota será removida quando a funcionalidade estiver disponível no geral.
+
+Use o Adobe CX Enterprise Coworker Chat para obter respostas precisas sobre o conteúdo do Adobe Content Analytics. Faça uma pergunta específica, como &quot;Quais imagens geraram mais receita no último trimestre?&quot;, ou geral, como &quot;Qual tipo de conteúdo devo priorizar?&quot;. Colaborador transforma sua pergunta em uma análise sólida.
 
 O colaborador entende como os dados do Content Analytics são estruturados e aplica as regras de relatório que um analista experiente aplicaria, para que profissionais de marketing e outros usuários empresariais obtenham resultados confiáveis sem um profundo conhecimento sobre o Content Analytics.
 
@@ -62,8 +66,8 @@ A tabela a seguir mostra prompts de exemplo para diferentes tipos de perguntas d
 | --- | --- |
 | Amplo ou exploratório | <ul><li>&quot;Que tipo de conteúdo devo priorizar?&quot;</li><li>&quot;Como está o desempenho do nosso conteúdo?&quot;</li></ul> |
 | Nível do atributo | <ul><li>&quot;O que nossas imagens com melhor desempenho têm em comum?&quot;</li><li>&quot;Quais atributos de conteúdo impulsionam mais engajamento?&quot;</li></ul> |
-| Receita e conversões | <ul><li>&quot;Quais imagens excelentes geraram mais receita no último trimestre?&quot;</li><li>&quot;Quanta receita está vinculada a este banner?&quot;</li></ul> |
-| Canais e públicos | <ul><li>&quot;Quais temas criativos ganham em páginas pagas e em nosso site?&quot;</li><li>&quot;Quais imagens funcionam para visitantes novos?&quot;</li></ul> |
+| Receita e conversões | <ul><li>&quot;Quais imagens geraram mais receita no último trimestre?&quot;</li><li>&quot;Quanta receita está vinculada à imagem em https://www.example.com/images/spring-sale.jpg?&quot;</li></ul> |
+| Canais e públicos | <ul><li>&quot;Quais temas criativos ganham em nosso aplicativo móvel e em nosso site?&quot;</li><li>&quot;Quais imagens funcionam para visitantes novos?&quot;</li></ul> |
 
 ## Como o Colaborador responde a perguntas sobre conteúdo
 
@@ -77,14 +81,14 @@ Se a sua pergunta deixa de fora um detalhe, a habilidade aplica um padrão sensa
 
 ### Correspondência de métricas para ativos e experiências
 
-<!-- FLAG: The table covers web and mobile content. Paid media content uses separate summary metrics, such as Impressions, Clicks, and Spend with a reporting-level suffix (for example, Clicks | Asset Summary), that can't be combined with event metrics such as Asset Views (config/paid-media.md in analytics-platform.en). Confirm with the PM how the skill handles paid media, then add a row or note. -->
+<!-- FLAG: The SME confirmed (October 2026) that the skill doesn't support paid media yet. Support is planned, either in this skill or in a separate add-on skill (not decided). When it ships, add paid media here: paid media content uses separate summary metrics, such as Impressions, Clicks, and Spend with a reporting-level suffix (for example, Clicks | Asset Summary), that can't be combined with event metrics such as Asset Views (config/paid-media.md in analytics-platform.en). -->
 
 O Content Analytics rastreia dois tipos de conteúdo: ativos e experiências. Cada uma tem suas próprias métricas. A habilidade sempre emparelha a métrica com o tipo de conteúdo sobre o qual você pergunta.
 
 | Tipo de conteúdo | O que é | Métricas usadas pela habilidade |
 | --- | --- | --- |
 | Ativos | Um conteúdo individual, como uma imagem | Exibições de ativos, cliques em ativos, taxa de cliques em ativos (CTR) |
-| Experiências | Todo o texto em uma página da Web ou a combinação de texto, ativos e chamadas para ação em um aplicativo móvel | Exibições de experiência, Cliques de experiência, Taxa de cliques de experiência (CTR) |
+| Experiências | Um contêiner de conteúdo que inclui texto e ativos, em uma página da Web ou em um aplicativo móvel | Exibições de experiência, Cliques de experiência, Taxa de cliques de experiência (CTR) |
 
 ### Arquitetura de dados do Content Analytics
 
@@ -105,7 +109,7 @@ A habilidade inclui instruções para análises de conteúdo comuns, como:
 
 * Encontrar os atributos que ativos ou experiências de melhor desempenho têm em comum.
 * Vincular a exposição do conteúdo a conversões e receita.
-* Comparação de conteúdo entre canais da Web, móveis e de mídia paga.
+* Comparação de conteúdo entre canais da Web e móveis.
 * Comparação de qual conteúdo funciona para públicos e segmentos diferentes.
 * Identificação do conteúdo que está superutilizado ou subutilizado.
 
@@ -117,6 +121,7 @@ A habilidade seleciona visualizações que se ajustam à sua pergunta e aos dado
 
 * Comece bem se não tiver certeza do que perguntar. O colega de trabalho pode transformar uma pergunta geral em uma análise focada, e você pode refinar a partir daí.
 * Diga se você quer dizer ativos individuais, como imagens, ou experiências inteiras, como páginas, quando souber qual deles deseja.
+* Quando você perguntar sobre uma imagem específica, inclua o URL ou a ID do ativo. O colaborador não pode identificar uma imagem pela sua função na página, como uma imagem herói ou um banner.
 * Nomeie a métrica e o intervalo de datas que deseja analisar, como receita do último trimestre.
 * Especifique os segmentos, públicos ou canais que deseja comparar.
 * Pergunte sobre atributos de conteúdo, como imagens, temas ou mensagens, em vez de arquivos individuais, quando quiser saber por que o conteúdo tem bom desempenho.
