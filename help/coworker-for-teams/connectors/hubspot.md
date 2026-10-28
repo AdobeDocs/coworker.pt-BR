@@ -4,14 +4,14 @@ title: Conectar-se ao HubSpot
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: CX Enterprise Coworker
-source-git-commit: 5394a34858c6480dec74f4fdf8b9a26e28bcac68
+source-git-commit: bd7454ee46cb1ee4ca8b7ae6ab07348a23854979
 workflow-type: tm+mt
-source-wordcount: '261'
+source-wordcount: '260'
 ht-degree: 0%
 ---
 # Conectar-se ao HubSpot {#hubspot}
 
-O Adobe Co-worker para equipes permite que você conecte sua conta HubSpot para obter listas de contatos.
+Colaborador de equipes permite conectar sua conta do HubSpot para obter listas de contatos.
 
 >[!PREREQUISITES]
 >

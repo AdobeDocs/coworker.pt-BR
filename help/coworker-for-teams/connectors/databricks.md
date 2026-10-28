@@ -1,17 +1,17 @@
 ---
-description: O Adobe Co-worker para equipes permite conectar e consultar tabelas do Catálogo de unidade no espaço de trabalho de Databricks para criar e ativar públicos-alvo da campanha.
+description: O colega de trabalho para equipes permite conectar e consultar tabelas do Catálogo de Unidades no espaço de trabalho de Databricks para criar e ativar públicos-alvo da campanha.
 title: Conectar-se aos Databricks
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: CX Enterprise Coworker
-source-git-commit: 55ee8ef8f43e03720e75c9e68fccf12da8595f9c
+source-git-commit: bd7454ee46cb1ee4ca8b7ae6ab07348a23854979
 workflow-type: tm+mt
-source-wordcount: '275'
+source-wordcount: '273'
 ht-degree: 0%
 ---
 # Conectar-se aos Databricks {#databricks}
 
-O Adobe Co-worker para equipes permite conectar e consultar tabelas do Catálogo de unidade no espaço de trabalho de Databricks para criar e ativar públicos-alvo da campanha.
+O colega de trabalho para equipes permite conectar e consultar tabelas do Catálogo de Unidades no espaço de trabalho de Databricks para criar e ativar públicos-alvo da campanha.
 
 >[!PREREQUISITES]
 >
