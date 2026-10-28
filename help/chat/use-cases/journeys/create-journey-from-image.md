@@ -1,5 +1,5 @@
 ---
-title: Criar uma jornada a partir de uma imagem
+title: Criar uma Jornada a partir de uma imagem
 description: Saiba como o CX Enterprise Coworker transforma uma imagem de fluxograma, como um slide de sua equipe de marketing, em uma jornada pronta para edição no Adobe Journey Optimizer (AJO).
 role: User
 level: Beginner
@@ -28,7 +28,7 @@ topic_v2:
     internal-label: Artificial intelligence
   - id: da31900f-0b2e-4267-a5f8-69290b954752
     internal-label: Customer experience management
-source-git-commit: 312450e09d9252f17cb2b5d471ee33e1a22b9a05
+source-git-commit: 0ef1f562174f53393bab97a0d0c91c666810aa20
 workflow-type: tm+mt
 source-wordcount: '101'
 ht-degree: 0%
@@ -38,4 +38,4 @@ ht-degree: 0%
 
 Saiba como o CX Enterprise Coworker transforma uma imagem de fluxograma, como um slide do PowerPoint de sua equipe de marketing, em uma jornada pronta para edição no Adobe Journey Optimizer. Você verá como o Colaborador extrai um prompt da imagem, permite revisá-lo e ajustá-lo, solicita o evento de acionador e salva o resultado como um rascunho que corresponde ao design original.
 
->[!VIDEO](https://video.tv.adobe.com/v/3504869/?captions=por_br&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3504865/?learn=on&enablevpops)

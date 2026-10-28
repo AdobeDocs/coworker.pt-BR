@@ -1,5 +1,5 @@
 ---
-title: Criar sua primeira habilidade de colega de trabalho
+title: Crie Sua Primeira Habilidade De Colaborador
 description: Saiba como o Colaborador pode transformar uma tarefa de análise única em uma habilidade reutilizável que fornece insights de negócios consistentes mês após mês.
 role: User
 level: Beginner
@@ -10,7 +10,7 @@ jira: KT-22378
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: Coworker
-source-git-commit: 312450e09d9252f17cb2b5d471ee33e1a22b9a05
+source-git-commit: 0ef1f562174f53393bab97a0d0c91c666810aa20
 workflow-type: tm+mt
 source-wordcount: '237'
 ht-degree: 0%
@@ -31,7 +31,7 @@ Em vez de criar relatórios e interpretar métricas manualmente, o analista trab
 
 O resultado é um fluxo de trabalho repetível que pode ser executado sob demanda com um prompt simples.
 
->[!VIDEO](https://video.tv.adobe.com/v/3502336/?captions=por_br&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3502323/?learn=on&enablevpops)
 
 ## Transformar a análise em uma habilidade reutilizável
 

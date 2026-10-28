@@ -1,5 +1,5 @@
 ---
-title: Criar páginas do AEM Sites com o Colaborador
+title: Páginas do AEM Sites do autor com o colega de trabalho
 description: Saiba como criar páginas do AEM Sites com o Adobe CX Enterprise Coworker adicionando uma nova promoção criada a partir de um Fragmento de conteúdo visual, usando linguagem natural.
 version: Experience Manager as a Cloud Service
 role: Leader, User, Developer
@@ -13,7 +13,7 @@ product_v2:
 topic_v2:
   - id: bce87dde-a4ab-44c9-8a18-ad66e4ddb377
     internal-label: Customer experience
-source-git-commit: 2d4922c334bcc2ec93dec46098a9c021623034ad
+source-git-commit: 0ef1f562174f53393bab97a0d0c91c666810aa20
 workflow-type: tm+mt
 source-wordcount: '103'
 ht-degree: 0%
@@ -22,7 +22,7 @@ ht-degree: 0%
 
 Use o Adobe CX Enterprise Coworker para criar páginas do AEM Sites descrevendo o que você deseja em linguagem simples. Neste vídeo, o Coworker adiciona uma nova promoção à página inicial do WKND, criada a partir de um fragmento de conteúdo visual, usando um prompt de bate-papo.
 
->[!VIDEO](https://video.tv.adobe.com/v/3503867/?captions=por_br&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3503863/?learn=on)
 
 >[!NOTE]
 >
