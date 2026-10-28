@@ -4,7 +4,7 @@ description: Configure o Adobe CX Enterprise Coworker Chat para analisar dados d
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: CX Enterprise Coworker
-source-git-commit: d611ce2398cba72cf21c766f3b25225765c1675b
+source-git-commit: d92dcaa94d6fe5577c11db62928f5c4c5e124ed5
 workflow-type: tm+mt
 source-wordcount: '2182'
 ht-degree: 4%
@@ -42,7 +42,7 @@ O Bate-papo com colegas de trabalho se conecta ao Customer Journey Analytics e a
 
 1. Em Colaborador, selecione [!UICONTROL **Personalizações**] no painel esquerdo.
 
-1. Selecione a guia [!UICONTROL **Integrações**] e verifique se o [!UICONTROL **cja-mcp**] e o [!UICONTROL **aa-mcp**] estão disponíveis na sua lista de servidores conectados.
+1. Selecione a guia [!UICONTROL **Integrações**] e verifique se [!UICONTROL **cja-mcp**] e [!UICONTROL **aa-mcp**] estão disponíveis na sua lista de servidores conectados.
 
    Use o campo de pesquisa para filtrar rapidamente a lista de integrações disponíveis.
 
@@ -335,7 +335,7 @@ Para abrir uma visualização em um novo projeto do Analysis Workspace:
 
 1. (Opcional) Compartilhe seu projeto do Workspace com qualquer pessoa que você escolher.
 
-   Para obter mais informações sobre o Analysis Workspace, consulte [visão geral do Analysis Workspace](https://experienceleague.adobe.com/pt-br/docs/analytics-platform/using/cja-workspace/home) na documentação do Customer Journey Analytics ou [visão geral do Analysis Workspace](https://experienceleague.adobe.com/pt-br/docs/analytics/analyze/analysis-workspace/home) na documentação do Adobe Analytics.
+   Para obter mais informações sobre o Analysis Workspace, consulte [visão geral do Analysis Workspace](https://experienceleague.adobe.com/pt-br/docs/analytics-platform/using/cja-workspace/home) na documentação do Customer Journey Analytics ou [visão geral do Analysis Workspace](https://experienceleague.adobe.com/en/docs/analytics/analyze/analysis-workspace/home) na documentação do Adobe Analytics.
 
 ## Próximas etapas
 

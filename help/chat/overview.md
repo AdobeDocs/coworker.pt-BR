@@ -4,9 +4,9 @@ title: Visão geral do Adobe CX Enterprise Coworker Chat
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: CX Enterprise Coworker
-source-git-commit: 5973a87d21b23d7621366108716cbd476e6f66ae
+source-git-commit: d92dcaa94d6fe5577c11db62928f5c4c5e124ed5
 workflow-type: tm+mt
-source-wordcount: '719'
+source-wordcount: '721'
 ht-degree: 6%
 ---
 # Sobre o Bate-papo de Colaborador {#overview}
@@ -45,6 +45,7 @@ Os seguintes aplicativos da CX Enterprise são compatíveis com o Chat do colabo
 * Real-Time CDP B2C Edition
 * Adobe Journey Optimizer B2C Edition
 * Customer Journey Analytics B2C Edition
+* Adobe Analytics
 * Adobe Target
 * AEM
 * Workfront
@@ -65,4 +66,4 @@ O Chat do Colaborador é alimentado pelos blocos de construção do Colaborador.
 
 ## Visão geral do vídeo
 
->[!VIDEO](https://video.tv.adobe.com/v/3495971?captions=por_br&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3495967?learn=on){transcript=true}
