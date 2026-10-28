@@ -9,8 +9,8 @@ last-substantial-update: 2026-08-27T00:00:00.000Z
 jira: PLAT-302857
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
-    internal-label: CX Enterprise Coworker
-source-git-commit: b54085a497ca4bbf0003d5837d816206a4d40396
+    internal-label: Coworker
+source-git-commit: 312450e09d9252f17cb2b5d471ee33e1a22b9a05
 workflow-type: tm+mt
 source-wordcount: '1058'
 ht-degree: 0%
@@ -156,5 +156,5 @@ Se suas necessidades de validação forem mais exaustivas ou exigirem uma lógic
 
 * [Validar dados do Adobe Analytics para o Customer Journey Analytics ao atualizar](./data-validation-aa-cja.md)
 * [Validar dados do Customer Journey Analytics com a habilidade Validação de dados no Co-worker](./validate-dataset-quality-for-cja.md)
-* [Validar seus dados (Assistente de IA)](https://experienceleague.adobe.com/pt-br/docs/cx-enterprise-ai/experience-cloud-ai/agents/data-validation)
+* [Validar seus dados (Assistente de IA)](https://experienceleague.adobe.com/en/docs/cx-enterprise-ai/experience-cloud-ai/agents/data-validation)
 * [Confie nos seus relatórios do Customer Journey Analytics: habilidade de validação de dados no Adobe CX Enterprise Coworker](https://www.youtube.com/watch?v=gCSm_QYSYhk) (vídeo)

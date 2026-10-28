@@ -10,8 +10,8 @@ last-substantial-update: 2026-08-10T00:00:00.000Z
 jira: KT-22081
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
-    internal-label: CX Enterprise Coworker
-source-git-commit: 5973a87d21b23d7621366108716cbd476e6f66ae
+    internal-label: Coworker
+source-git-commit: 312450e09d9252f17cb2b5d471ee33e1a22b9a05
 workflow-type: tm+mt
 source-wordcount: '128'
 ht-degree: 1%
@@ -23,9 +23,9 @@ Tradicionalmente, a criação de jornadas para clientes requer configuração ab
  
 Ao automatizar o processo de configuração inicial, as equipes podem gastar menos tempo criando jornadas do zero e mais tempo refinando as experiências dos clientes e os resultados dos negócios.
 
->[!VIDEO](https://video.tv.adobe.com/v/3496880/?captions=por_br&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3496867/?learn=on&enablevpops)
 
 ## Consulte também
 
-- [Journey Agent](https://experienceleague.adobe.com/pt-br/docs/cx-enterprise-ai/experience-cloud-ai/agents/ajo-agent#journey-create), o recurso de IA subjacente que habilita a criação de jornadas no Chat de Colaborador.
+- [Journey Agent](https://experienceleague.adobe.com/en/docs/cx-enterprise-ai/experience-cloud-ai/agents/ajo-agent#journey-create), o recurso de IA subjacente que habilita a criação de jornadas no Chat de Colaborador.
 - [Mais fluxos de trabalho de chat do colega de trabalho](../workflows.md#journeys)

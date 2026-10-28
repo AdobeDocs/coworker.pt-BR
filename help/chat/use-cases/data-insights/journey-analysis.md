@@ -3,8 +3,8 @@ title: Analise as Jornadas do cliente e a devolução com o bate-papo com colega
 description: Use o Bate-papo com colegas de trabalho para criar funis, descobrir onde os clientes abandonam, diagnosticar rejeições de conversão e comparar jornadas entre períodos nos dados de análise.
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
-    internal-label: CX Enterprise Coworker
-source-git-commit: f1ffc050071fc0ca48ae36c7aea8bc66eff2a147
+    internal-label: Coworker
+source-git-commit: 312450e09d9252f17cb2b5d471ee33e1a22b9a05
 workflow-type: tm+mt
 source-wordcount: '690'
 ht-degree: 2%

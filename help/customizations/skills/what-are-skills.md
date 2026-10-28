@@ -9,8 +9,8 @@ last-substantial-update: 2026-08-26T00:00:00.000Z
 jira: KT-22377
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
-    internal-label: CX Enterprise Coworker
-source-git-commit: dbee38135a5491fd21b65fdbb70ba60d949d7560
+    internal-label: Coworker
+source-git-commit: 312450e09d9252f17cb2b5d471ee33e1a22b9a05
 workflow-type: tm+mt
 source-wordcount: '215'
 ht-degree: 0%
@@ -22,7 +22,7 @@ As habilidades são manuais reutilizáveis que ajudam o Adobe CX Coworker a exec
  
 Neste vídeo, você aprenderá como as habilidades funcionam, quando usá-las e como elas ajudam as equipes a dimensionar práticas de experiência do cliente repetíveis.
 
->[!VIDEO](https://video.tv.adobe.com/v/3502327/?captions=por_br&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3502322/?learn=on&enablevpops)
 
 Uma habilidade fornece:
 
@@ -45,7 +45,6 @@ Muitas organizações executam os mesmos tipos de tarefas repetidamente, incluin
 
 As habilidades ajudam as equipes a capturar e reutilizar essas práticas recomendadas sem explicar manualmente o processo a cada vez.
  
-
 ## Habilidades e governança de dados
 
 As habilidades não armazenam dados do cliente.

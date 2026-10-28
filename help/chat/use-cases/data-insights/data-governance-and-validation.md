@@ -3,8 +3,8 @@ title: Implementar e administrar o Analytics com o bate-papo entre colegas de tr
 description: Planeje sua implementação, rastreie-a em uma lista de verificação e valide os dados do Adobe Analytics, Customer Journey Analytics e Experience Platform com o Chat do colaborador.
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
-    internal-label: CX Enterprise Coworker
-source-git-commit: decc8d209d4c9c177c6329a30668f0bbb8bd2c00
+    internal-label: Coworker
+source-git-commit: 312450e09d9252f17cb2b5d471ee33e1a22b9a05
 workflow-type: tm+mt
 source-wordcount: '1235'
 ht-degree: 0%

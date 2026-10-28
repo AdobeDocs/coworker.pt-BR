@@ -10,8 +10,8 @@ last-substantial-update: 2026-09-01T00:00:00.000Z
 jira: KT-22501
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
-    internal-label: CX Enterprise Coworker
-source-git-commit: 5973a87d21b23d7621366108716cbd476e6f66ae
+    internal-label: Coworker
+source-git-commit: 312450e09d9252f17cb2b5d471ee33e1a22b9a05
 workflow-type: tm+mt
 source-wordcount: '137'
 ht-degree: 0%
@@ -25,4 +25,4 @@ Por exemplo, o Colaborador pode revisar o conteúdo gerado automaticamente, como
 
 O colega de trabalho não apenas identifica problemas, mas oferece sugestões acionáveis. Por exemplo, se uma legenda for muito genérica ou não tiver uma call to action, ela fornecerá uma versão revisada que atende aos padrões da sua marca, completa com tags relevantes. Esse processo simplifica a criação de conteúdo e garante a conformidade da marca com o mínimo esforço.
 
->[!VIDEO](https://video.tv.adobe.com/v/3502706/?captions=por_br&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3502691/?learn=on&enablevpops)
