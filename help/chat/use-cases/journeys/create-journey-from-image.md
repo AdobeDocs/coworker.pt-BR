@@ -38,4 +38,4 @@ ht-degree: 0%
 
 Saiba como o CX Enterprise Coworker transforma uma imagem de fluxograma, como um slide do PowerPoint de sua equipe de marketing, em uma jornada pronta para edição no Adobe Journey Optimizer. Você verá como o Colaborador extrai um prompt da imagem, permite revisá-lo e ajustá-lo, solicita o evento de acionador e salva o resultado como um rascunho que corresponde ao design original.
 
->[!VIDEO](https://video.tv.adobe.com/v/3504865/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3504869/?captions=por_br&learn=on&enablevpops)
