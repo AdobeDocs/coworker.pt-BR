@@ -46,7 +46,7 @@ Entre no [!DNL Coworker] usando suas credenciais da Adobe.
 
 ## Aprenda os conceitos básicos do Bate-papo com colegas de trabalho
 
->[!VIDEO](https://video.tv.adobe.com/v/3498558?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3498571?captions=por_br&learn=on)
 
 ## Especifique suas preferências de colega {#preferences}
 
