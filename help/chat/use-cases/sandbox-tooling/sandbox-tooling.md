@@ -19,7 +19,7 @@ ht-degree: 1%
 
 Use as habilidades de agente de ferramentas de sandbox para mover tipos de objetos compatíveis entre ambientes Adobe Experience Platform, descrevendo o que você deseja realizar em linguagem natural. Com o Coworker, você pode descobrir os metadados necessários, identificar dependências automaticamente, criar pacotes de migração e migrar objetos por meio de uma experiência de conversação.
 
->[!VIDEO](https://video.tv.adobe.com/v/3496706?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3496712?captions=por_br&learn=on)
 
 ## Pré-requisitos {#prerequisites}
 
