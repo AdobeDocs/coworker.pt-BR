@@ -4,9 +4,9 @@ title: Fluxos de Trabalho de Chat de Colaborador
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: Coworker
-source-git-commit: 0ef1f562174f53393bab97a0d0c91c666810aa20
+source-git-commit: 98b1c76104cb131ed6c82e4147758921ef66ab40
 workflow-type: tm+mt
-source-wordcount: '8566'
+source-wordcount: '8673'
 ht-degree: 6%
 ---
 # Fluxos de trabalho de chat do colaborador {#use-cases}
@@ -48,6 +48,8 @@ O Chat do Colaborador permite consultar, analisar e agir nos dados do [!DNL Expe
 | Gerenciar ambientes do Cloud Manager | Criar, configurar e manter ambientes AEM Cloud Manager, inclusive RDEs, variáveis de ambiente, logs e backups | `cloud-manager-environment-management` | Adobe Experience Manager (AEM) | &quot;Listar meus ambientes para o programa 12345&quot;<br><br>&quot;Redefinir meu RDE&quot; |
 | Gerenciar programas do Cloud Manager | Listar, inspecionar e excluir programas do AEM Cloud Manager, incluindo seus pipelines e ambientes | `cloud-manager-program-management` | Adobe Experience Manager (AEM) | &quot;Listar meus programas do Cloud Manager&quot;<br><br>&quot;Obter detalhes do programa 12345&quot; |
 | Gerenciar agendamentos de atualização de versão do AEM | Configure o Quiet Hours diário e os Períodos de ausência de atualização para manutenção automatizada e visualize as janelas globais de Congelamento de código do Adobe | `cloud-manager-release-management` | Adobe Experience Manager (AEM) | &quot;Qual é a minha janela atual de Período de Silêncio?&quot;<br><br>&quot;Agende um período sem atualizações de 20 de dezembro a 2 de janeiro&quot; |
+| Inspecionar fluxos de trabalho do AEM | Verifique na atividade do workflow o que está em execução, suspenso ou com falha. Revise sua caixa de entrada de fluxo de trabalho e procure os modelos de fluxo de trabalho disponíveis. | `cloud-manager-release-management` | Adobe Experience Manager (AEM) | &quot;Quais fluxos de trabalho estão sendo executados agora?&quot;<br><br>&quot;Algum fluxo de trabalho em execução ou suspenso está mostrando erros?&quot;<br><br>&quot;O que há na minha caixa de entrada de fluxo de trabalho?&quot; |
+| Explorar o Dispatcher Insights | Analise o desempenho do cache, investigue problemas de tráfego e entrega e revise a configuração de segurança do Dispatcher sem pesquisar manualmente os arquivos de log. | `aem-edge-dispatcher-operations` | Adobe Experience Manager (AEM) | &quot;Resuma o desempenho do cache do Dispatcher para produção hoje e compare com o que foi ontem&quot;<br><br>&quot;Investigue as respostas intermitentes 502 e 503 na produção entre 10h e 11h (UTC) hoje&quot;<br><br> &quot;Revise a configuração do Dispatcher que eu compartilhei para ver se há falhas de segurança&quot; |
 
 **Informações relacionadas**
 
