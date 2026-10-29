@@ -19,7 +19,7 @@ O colega de trabalho para equipes permite conectar sua conta do Marketo Engage p
 >
 >* Uma conta ativa do Marketo Engage
 >* Sua URL da instância **do Marketo**
->* Um [serviço personalizado](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/custom-services#custom-services-1){target="_blank"} criado para o Colaborador para equipes na Marketo, com sua [ID do cliente e segredo do cliente](https://experienceleague.adobe.com/en/docs/marketo-developer/marketo/rest/authentication#creating-an-access-token){target="_blank"} disponíveis
+>* Um [serviço personalizado](https://experienceleague.adobe.com/pt-br/docs/marketo-developer/marketo/rest/custom-services#custom-services-1){target="_blank"} criado para o Colaborador para equipes na Marketo, com sua [ID do cliente e segredo do cliente](https://experienceleague.adobe.com/pt-br/docs/marketo-developer/marketo/rest/authentication#creating-an-access-token){target="_blank"} disponíveis
 
 ## Como se conectar
 
