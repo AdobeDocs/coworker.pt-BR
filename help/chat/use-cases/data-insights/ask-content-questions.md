@@ -4,7 +4,7 @@ description: Pergunte ao bate-papo com colegas de trabalho sobre seu conteúdo e
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: Coworker
-source-git-commit: 312450e09d9252f17cb2b5d471ee33e1a22b9a05
+source-git-commit: 1ec3a8bf6dff44df068529cf1f7ceb699a027d65
 workflow-type: tm+mt
 source-wordcount: '1076'
 ht-degree: 2%
@@ -34,7 +34,7 @@ Para fazer perguntas sobre o seu conteúdo, é necessário:
 
 * O Chat do Colaborador conectou-se às visualizações de dados do Customer Journey Analytics. Consulte [Introdução à análise de dados com o Chat de Colaborador](/help/chat/use-cases/data-insights/analytics-chat.md).
 * Acesso de visualização às visualizações de dados que você deseja analisar. O Chat do colega herda suas permissões do Customer Journey Analytics.
-* Uma visualização de dados configurada para o Content Analytics. Consulte [Configurar Content Analytics](https://experienceleague.adobe.com/pt-br/docs/analytics-platform/using/content-analytics/configuration/configuration) no guia do Customer Journey Analytics.
+* Uma visualização de dados configurada para o Content Analytics. Consulte [Configurar Content Analytics](https://experienceleague.adobe.com/en/docs/analytics-platform/using/content-analytics/configuration/configuration) no guia do Customer Journey Analytics.
 
 ## Fazer uma pergunta sobre conteúdo
 
@@ -97,11 +97,11 @@ A habilidade entende como os dados do Content Analytics são estruturados. Por e
 * **Experience IDs:** quando você pergunta sobre uma página específica, os filtros de habilidades por ID de experiência de conteúdo que identifica essa página.
 * **Atributos gerados por IA:** cada ativo e experiência é descrito por atributos como estilo de fotografia, cores, tom e estratégia de persuasão. A habilidade usa esses atributos para explicar por que o conteúdo tem bom desempenho, não apenas qual conteúdo tem bom desempenho.
 
-Para obter a lista completa dos componentes, consulte [componentes do Content Analytics](https://experienceleague.adobe.com/pt-br/docs/analytics-platform/using/content-analytics/report/components) no guia do Customer Journey Analytics.
+Para obter a lista completa dos componentes, consulte [componentes do Content Analytics](https://experienceleague.adobe.com/en/docs/analytics-platform/using/content-analytics/report/components) no guia do Customer Journey Analytics.
 
 ### Atribuição
 
-A habilidade escolhe o modelo de atribuição que se adapta à sua pergunta. Por exemplo, uma pergunta sobre cliques em uma imagem é respondida de forma diferente de uma pergunta sobre a receita para a qual essa imagem contribuiu. Para obter mais informações, consulte [Modelos de atribuição](https://experienceleague.adobe.com/pt-br/docs/analytics-platform/using/cja-workspace/attribution/models#attribution-models) no manual do Customer Journey Analytics.
+A habilidade escolhe o modelo de atribuição que se adapta à sua pergunta. Por exemplo, uma pergunta sobre cliques em uma imagem é respondida de forma diferente de uma pergunta sobre a receita para a qual essa imagem contribuiu. Para obter mais informações, consulte [Modelos de atribuição](https://experienceleague.adobe.com/en/docs/analytics-platform/using/cja-workspace/attribution/models#attribution-models) no manual do Customer Journey Analytics.
 
 ### Análises e fluxos de trabalho comuns
 
