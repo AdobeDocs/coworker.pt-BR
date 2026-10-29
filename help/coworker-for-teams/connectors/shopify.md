@@ -1,17 +1,17 @@
 ---
-description: Descrição
+description: Colaborador de equipes permite conectar sua conta do Shopify para obter clientes e segmentos.
 title: Conectar ao Shopify
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
-    internal-label: CX Enterprise Coworker
-source-git-commit: 395e6f64210aedd90fa4f6655860cf4c9bf19f7b
+    internal-label: Coworker
+source-git-commit: 1ec3a8bf6dff44df068529cf1f7ceb699a027d65
 workflow-type: tm+mt
-source-wordcount: '160'
+source-wordcount: '241'
 ht-degree: 0%
 ---
 # Conectar ao Shopify {#shopify}
 
-O Adobe Co-worker para equipes permite conectar sua conta do Shopify para obter clientes e segmentos.
+Colaborador de equipes permite conectar sua conta do Shopify para obter clientes e segmentos.
 
 >[!PREREQUISITES]
 >
@@ -19,17 +19,17 @@ O Adobe Co-worker para equipes permite conectar sua conta do Shopify para obter 
 >
 >* Uma conta ativa do Shopify
 >* A seguinte permissão no Shopify: `read_customers`
->* Sua URL de armazenamento do Shopify e o [Token de acesso da API de administração](https://shopify.dev/docs/apps/build/authentication-authorization) estão disponíveis
+>* Sua URL de armazenamento do Shopify e o [Token de acesso da API de administração](https://shopify.dev/docs/apps/build/authentication-authorization){target="_blank"} estão disponíveis
 
 ## Como se conectar
 
-1. Na [Página inicial de colegas de trabalho das equipes](https://coworker-campaigns.experience.adobe.com/), clique em **Contexto** e selecione **Conectores**.
+1. Na [Página inicial de colegas de trabalho das equipes](https://coworker-campaigns.experience.adobe.com/){target="_blank"}, clique em **Contexto** e selecione **Conectores**.
 
-   CAPTURA DE TELA
+   ![Colaborador para equipes saiu da navegação com Contexto expandido e Conectores destacados](./assets/shopify-1.png)
 
 1. Clique em **Adicionar integração**.
 
-   CAPTURA DE TELA
+   ![Botão Adicionar integração na tela Conectores](./assets/shopify-2.png)
 
    >[!NOTE]
    >
@@ -37,11 +37,19 @@ O Adobe Co-worker para equipes permite conectar sua conta do Shopify para obter 
 
 1. Na linha Shopify, clique em **Conectar**.
 
-   CAPTURA DE TELA
+   ![Shopify bloco do conector com o botão Conectar](./assets/shopify-3.png)
 
-1. Insira seu **host Workspace** do Shopify, **caminho do warehouse SQL**, **token de acesso pessoal** e **catálogos de unidade**. Clique em **Conectar**.
+1. Revise a permissão necessária e clique em **Continuar**.
 
-   CAPTURA DE TELA
+   ![Shopify tela de revisão de permissão necessária com o botão Continuar](./assets/shopify-4.png)
+
+1. Insira sua **URL de Armazenamento** do Shopify e o **Token de Acesso da API de Administração**. Clique em **Conectar**.
+
+>[!NOTE]
+>
+>No Shopify, obtenha seu Token de Acesso da API de Administração via **Configurações** › **Aplicativos** › **Desenvolver aplicativos** › **Criar aplicativo personalizado herdado** › **Configuração da API de Administração** › **Adicionar escopos necessários**.
+
+![Caixa de diálogo Conectar Shopify com campos para URL de Armazenamento e Token de Acesso da API de Administrador](./assets/shopify-5.png)
 
 Após a conexão, Shopify é exibido na lista Connectors.
 
@@ -49,12 +57,6 @@ Após a conexão, Shopify é exibido na lista Connectors.
 
 1. Na tela Conectores, encontre o bloco Shopify e clique em **Gerenciar**.
 
-   CAPTURA DE TELA
-
-1. Clique em **Desconectar** (não é necessário inserir novamente seu token de acesso Pessoal neste momento).
-
-   CAPTURA DE TELA
+1. Clique em **Desconectar** (não é necessário inserir novamente o token de acesso da API de administração neste momento).
 
 1. Clique novamente em **Desconectar** para confirmar.
-
-   CAPTURA DE TELA

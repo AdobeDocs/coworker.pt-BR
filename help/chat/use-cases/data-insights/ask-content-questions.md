@@ -3,8 +3,8 @@ title: Faça perguntas sobre seu conteúdo com o bate-papo com colegas de trabal
 description: Pergunte ao bate-papo com colegas de trabalho sobre seu conteúdo em linguagem simples, de geral a específico, e obtenha respostas precisas do Content Analytics sem conhecimento de analistas.
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
-    internal-label: CX Enterprise Coworker
-source-git-commit: 8e88ec793bd4ae6fe4692c1d5107fe01fe14bf7f
+    internal-label: Coworker
+source-git-commit: 1ec3a8bf6dff44df068529cf1f7ceb699a027d65
 workflow-type: tm+mt
 source-wordcount: '1076'
 ht-degree: 2%

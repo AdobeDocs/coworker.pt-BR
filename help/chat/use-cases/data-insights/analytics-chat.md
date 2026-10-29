@@ -3,8 +3,8 @@ title: Introdução à Análise de Dados com o Chat do parceiro
 description: Configure o Adobe CX Enterprise Coworker Chat para analisar dados do Customer Journey Analytics ou do Adobe Analytics e, em seguida, siga um exemplo que localize a lista suspensa de clientes.
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
-    internal-label: CX Enterprise Coworker
-source-git-commit: d611ce2398cba72cf21c766f3b25225765c1675b
+    internal-label: Coworker
+source-git-commit: 1ec3a8bf6dff44df068529cf1f7ceb699a027d65
 workflow-type: tm+mt
 source-wordcount: '2182'
 ht-degree: 4%
@@ -42,7 +42,7 @@ O Bate-papo com colegas de trabalho se conecta ao Customer Journey Analytics e a
 
 1. Em Colaborador, selecione [!UICONTROL **Personalizações**] no painel esquerdo.
 
-1. Selecione a guia [!UICONTROL **Integrações**] e verifique se o [!UICONTROL **cja-mcp**] e o [!UICONTROL **aa-mcp**] estão disponíveis na sua lista de servidores conectados.
+1. Selecione a guia [!UICONTROL **Integrações**] e verifique se [!UICONTROL **cja-mcp**] e [!UICONTROL **aa-mcp**] estão disponíveis na sua lista de servidores conectados.
 
    Use o campo de pesquisa para filtrar rapidamente a lista de integrações disponíveis.
 

@@ -1,12 +1,12 @@
 ---
 description: Navegue pelos fluxos de trabalho do Chat de colegas de trabalho e por prompts de amostra, organizados por área entre insights de dados, públicos, jornadas e operações da plataforma.
-title: Fluxos de trabalho de chat do colaborador
+title: Fluxos de Trabalho de Chat de Colaborador
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
-    internal-label: CX Enterprise Coworker
-source-git-commit: 8e88ec793bd4ae6fe4692c1d5107fe01fe14bf7f
+    internal-label: Coworker
+source-git-commit: 0ef1f562174f53393bab97a0d0c91c666810aa20
 workflow-type: tm+mt
-source-wordcount: '8510'
+source-wordcount: '8566'
 ht-degree: 6%
 ---
 # Fluxos de trabalho de chat do colaborador {#use-cases}
@@ -119,6 +119,7 @@ O Chat do Colaborador permite consultar, analisar e agir nos dados do [!DNL Expe
 | Resumos executivos e resumos de KPI | Produzir resumos de desempenho prontos para as partes interessadas, recomendações prescritivas e descrições do conjunto de slides | `cja-executive-summary`, `cja-bacom-anomaly-tracker-v2`, `cja-cno-weekly-pulse`, `cja-reporting`, `cja`, `aa`, `dx-api` | Customer Journey Analytics (CJA), Adobe Analytics (AA) | &quot;Dê-me um resumo executivo do mês passado&quot; <br> &quot;Criar uma descrição do conjunto de slides a partir dos dados deste trimestre&quot; |
 | [Análise de conteúdo](data-insights/ask-content-questions.md) (disponibilidade limitada) | Responda a perguntas gerais ou específicas sobre seu conteúdo usando dados do Content Analytics: qual conteúdo priorizar, quais atributos impulsionam a participação e quais ativos e experiências impulsionam a receita | `analyze-content`, `cja` | Customer Journey Analytics (CJA) | &quot;Que tipo de conteúdo devo priorizar?&quot; <br> &quot;O que nossas imagens com melhor desempenho têm em comum?&quot; |
 | [Validação de dados do CJA considerada pelo AA](data-insights/data-validation-aa-cja.md) | Comparar, auditar e reconciliar dados entre o Adobe Analytics e o Customer Journey Analytics, especialmente ao atualizar do Adobe Analytics para o Customer Journey Analytics | `aa-cja-validation`, `cja`, `aa`, `dx-api` | ADOBE ANALYTICS + CJA | &quot;Comparar meu conjunto de relatórios do AA com minha visualização de dados do CJA&quot; <br> &quot;Validar visualizações de página entre o AA e o CJA&quot; |
+| [Migrar projetos do AA para o CJA](data-insights/migrate-projects-aa-cja.md) (Disponibilidade limitada) | Valide, mapeie e migre projetos do Adobe Analytics e seus componentes associados para o Customer Journey Analytics e, em seguida, verifique o status da migração <!-- FLAG: No dedicated skill yet; the tools run through the aa-mcp integration. Update the Skills column when a skill is released. --> | Nenhum <br/> (usa a integração `aa-mcp`) | ADOBE ANALYTICS + CJA | &quot;Quero migrar componentes do AA para o CJA&quot; <br> &quot;Quais dimensões e métricas do meu conjunto de relatórios não são mapeadas para a minha visualização de dados?&quot; |
 | [Validar qualidade de conjunto de dados e campo](data-insights/data-validation-aep.md) | Execute a validação estatística e semântica em conjuntos de dados e campos do Experience Platform para capturar problemas de qualidade de dados após a implementação ou de forma contínua <!--TODO: confirm skill ID(s) with engineering before publishing--> | `data-validation` | Adobe Experience Platform | &quot;Validar a Amostra de Eletrônicos do conjunto de dados 1000&quot; <br> &quot;Validar o campo de email no conjunto de dados Customers_2024&quot; |
 | Séries cronológicas operacionais e análise causal | Consultar e analisar dados históricos de séries temporais para públicos, conjuntos de dados e jornadas com atribuição causal | `operational-stats-causal-analysis` | Todos os aplicativos qualificados | &quot;Mostre-me as tendências de tamanho de público nos últimos 90 dias&quot; <br> &quot;Por que minha contagem de linhas do conjunto de dados aumentou em 3 de março?&quot; |
 | Criar habilidades personalizadas do CJA | Transformar padrões analíticos em habilidades reutilizáveis e repetíveis que persistem entre as sessões | `cja-skill-creator` | Customer Journey Analytics (CJA) | &quot;Transformar esta análise semanal de receita em uma habilidade reutilizável&quot; <br> &quot;Salvar como uma habilidade para relatórios mensais do funnel&quot; |

@@ -3,8 +3,8 @@ description: Saiba mais sobre os aprimoramentos e correções de recursos nas no
 title: Notas de versão do CX Enterprise Coworker para equipes
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
-    internal-label: CX Enterprise Coworker
-source-git-commit: d3cfd773137d0fc985cff508025935727dc4566b
+    internal-label: Coworker
+source-git-commit: 1ec3a8bf6dff44df068529cf1f7ceb699a027d65
 workflow-type: tm+mt
 source-wordcount: '4474'
 ht-degree: 0%

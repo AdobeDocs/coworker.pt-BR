@@ -3,8 +3,8 @@ title: Visão geral do Adobe CX Enterprise Coworker
 description: Saiba mais sobre o Adobe CX Enterprise Coworker, um companheiro de equipe alimentado por IA que automatiza a experiência do cliente e os fluxos de trabalho de marketing em toda a organização.
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
-    internal-label: CX Enterprise Coworker
-source-git-commit: 67936a948c0e985619e3ae72dffa443a016611bb
+    internal-label: Coworker
+source-git-commit: 0ef1f562174f53393bab97a0d0c91c666810aa20
 workflow-type: tm+mt
 source-wordcount: '1231'
 ht-degree: 15%

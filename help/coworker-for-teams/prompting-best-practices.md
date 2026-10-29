@@ -3,8 +3,8 @@ description: 'Aprenda a colaborar com as equipes, solicitando práticas recomend
 title: Práticas recomendadas de criação de prompts
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
-    internal-label: CX Enterprise Coworker
-source-git-commit: 5973a87d21b23d7621366108716cbd476e6f66ae
+    internal-label: Coworker
+source-git-commit: 1ec3a8bf6dff44df068529cf1f7ceb699a027d65
 workflow-type: tm+mt
 source-wordcount: '785'
 ht-degree: 1%

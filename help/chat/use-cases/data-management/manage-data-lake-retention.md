@@ -1,5 +1,5 @@
 ---
-title: Gerenciar retenção de data lake
+title: Gerenciar a retenção do Data Lake
 description: Saiba como usar o CX Coworker para identificar dados do evento de experiência que merecem ser otimizados, analisar o uso do conjunto de dados e o impacto da retenção e gerenciar as políticas de retenção do data lake.
 role: Developer
 level: Beginner, Intermediate
@@ -7,7 +7,7 @@ doc-type: Feature Video
 duration: 160
 last-substantial-update: 2026-10-09
 jira: KT-22762
-source-git-commit: 7ae11e6865d847c6a3c316ffa26b2e4303f7e40d
+source-git-commit: 0ef1f562174f53393bab97a0d0c91c666810aa20
 workflow-type: tm+mt
 source-wordcount: '1316'
 ht-degree: 1%

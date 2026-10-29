@@ -3,8 +3,8 @@ title: Meça o impacto do marketing e a atribuição com o bate-papo do colabora
 description: Use o Bate-papo com colegas de trabalho para medir o impacto incremental de cada canal, descobrir onde os gastos ficam saturados, criar cenários de orçamento hipotéticos e verificar a qualidade do modelo de marketing.
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
-    internal-label: CX Enterprise Coworker
-source-git-commit: 5973a87d21b23d7621366108716cbd476e6f66ae
+    internal-label: Coworker
+source-git-commit: 1ec3a8bf6dff44df068529cf1f7ceb699a027d65
 workflow-type: tm+mt
 source-wordcount: '665'
 ht-degree: 2%

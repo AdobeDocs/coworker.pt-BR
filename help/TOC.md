@@ -6,10 +6,10 @@ description: Saiba mais sobre as ferramentas de IA no CX Enterprise. Melhore o c
 solution: Experience Cloud
 role: Admin,User,Developer,Leader
 nudge: true
-source-git-commit: 67936a948c0e985619e3ae72dffa443a016611bb
+source-git-commit: bd7454ee46cb1ee4ca8b7ae6ab07348a23854979
 workflow-type: tm+mt
-source-wordcount: '319'
-ht-degree: 14%
+source-wordcount: '326'
+ht-degree: 15%
 ---
 
 # CX Enterprise Coworker {#content}
@@ -30,6 +30,7 @@ ht-degree: 14%
         - [Planejar a implementação](./chat/use-cases/data-insights/implementation-guide.md)
         - [Gerar uma lista de verificação de implementação](./chat/use-cases/data-insights/intelligent-checklist.md)
         - [Validar dados do AA para o CJA ao atualizar](./chat/use-cases/data-insights/data-validation-aa-cja.md)
+        - [Migrar projetos do AA para o CJA](./chat/use-cases/data-insights/migrate-projects-aa-cja.md)
         - [Validar a implementação do streaming de mídia](./chat/use-cases/data-insights/streaming-media-validation.md)
         - [Validar a qualidade do conjunto de dados para os relatórios do CJA](./chat/use-cases/data-insights/validate-dataset-quality-for-cja.md)
         - [Validar os dados do Experience Platform](./chat/use-cases/data-insights/data-validation-aep.md)
@@ -98,9 +99,11 @@ ht-degree: 14%
   - [Solicitação de práticas recomendadas](./coworker-for-teams/prompting-best-practices.md)
   - [Metadados do C2PA](./coworker-for-teams/c2pa-metadata.md)
   - Conectores {#connectors}
-    - [Marketo Engage](./coworker-for-teams/connectors/marketo.md)
+    - [Databricks](./coworker-for-teams/connectors/databricks.md)
     - [Hubspot](./coworker-for-teams/connectors/hubspot.md)
+    - [Marketo Engage](./coworker-for-teams/connectors/marketo.md)
     - [Salesforce](./coworker-for-teams/connectors/salesforce.md)
+    - [Shopify](./coworker-for-teams/connectors/shopify.md)
   - [Notas de versão](./coworker-for-teams/release-notes.md)
 - Mais recursos {#more-resources}
   - [Atualizações na documentação](./more-resources/documentation-updates.md)

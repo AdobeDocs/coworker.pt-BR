@@ -3,11 +3,11 @@ title: Comparar públicos-alvo e segmentos de clientes ao bate-papo com colegas 
 description: Use o Bate-papo com colegas de trabalho para comparar grupos de clientes, encontrar oportunidades de crescimento negligenciadas, rastrear tendências de público-alvo e transformar insights em públicos-alvo que você pode criar.
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
-    internal-label: CX Enterprise Coworker
-source-git-commit: 5973a87d21b23d7621366108716cbd476e6f66ae
+    internal-label: Coworker
+source-git-commit: 1ec3a8bf6dff44df068529cf1f7ceb699a027d65
 workflow-type: tm+mt
-source-wordcount: '695'
-ht-degree: 7%
+source-wordcount: '662'
+ht-degree: 2%
 ---
 
 # Visão geral da análise de público-alvo e segmento
