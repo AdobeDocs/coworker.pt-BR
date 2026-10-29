@@ -39,7 +39,7 @@ Usar as habilidades de alerta do cliente no CX Coworker para transformar a ativi
 
 As habilidades de alerta do cliente ajudam você a mudar de sinais de alerta para insights acionáveis sem revisar manualmente visualizações de alertas ou correlacionar informações em várias interfaces. Comece com uma pergunta abrangente sobre a atividade de alerta recente e, em seguida, use perguntas de acompanhamento para identificar padrões de alerta recorrentes, analisar objetos afetados e se concentrar nos alertas que você possui.
 
->[!VIDEO](https://video.tv.adobe.com/v/3504716?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3504720?captions=por_br&learn=on)
 
 Para obter informações sobre Alertas de clientes, consulte a [visão geral sobre Alertas de clientes](https://experienceleague.adobe.com/pt-br/docs/experience-platform/observability/alerts/overview).
 
