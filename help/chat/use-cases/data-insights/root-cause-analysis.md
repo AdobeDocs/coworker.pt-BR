@@ -25,4 +25,4 @@ Usando a linguagem natural, analistas e profissionais de marketing podem fazer p
 
 O vídeo usa dados do Customer Journey Analytics, mas você pode explorar tendências e causas raiz em seus conjuntos de relatórios do Adobe Analytics da mesma maneira. O colaborador usa a habilidade `cja-root-cause-analysis` para visualizações de dados e a habilidade `aa-root-cause-analysis` para conjuntos de relatórios. Para obter mais informações, consulte [Analisar dados com o Chat do Colaborador](/help/chat/use-cases/data-insights/analytics-overview.md).
 
->[!VIDEO](https://video.tv.adobe.com/v/3496847/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3496856/?captions=por_br&learn=on&enablevpops)
