@@ -4,9 +4,9 @@ description: Consulte os artigos e vídeos novos e atualizados na documentação
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: Coworker
-source-git-commit: 81e7de5e1b3b322fc74fa7bab8cb16841d627349
+source-git-commit: df0cae9a0151501dad78527ba15fb06c57a9f9f4
 workflow-type: tm+mt
-source-wordcount: '295'
+source-wordcount: '345'
 ht-degree: 1%
 ---
 # Atualizações na documentação {#documentation-updates}
@@ -15,9 +15,14 @@ Use esta página para encontrar conteúdo novo e substancialmente atualizado na 
 
 ## Novembro de 2026 {#nov-2026}
 
+**3 de novembro de 2026**
+
+* Novo: [Simular uma jornada usando o Colaborador](../chat/use-cases/journeys/simulate-journey-using-coworker.md)
+
 **2 de novembro de 2026**
 
 * Atualizado: [Visão geral do CX Enterprise Coworker](../home.md) e [Introdução ao Chat do Colaborador](../chat/ui-guide.md). O Adobe Analytics agora está listado como um aplicativo em que o Chat de colaborador está disponível.
+* Atualizado: [Fluxos de trabalho de Chat de Colaborador](../chat/use-cases/workflows.md). O artigo agora lista habilidades para inspecionar workflows do AEM e explorar insights do Dispatcher. Ele também adiciona habilidades de público-alvo para distribuição de inventário, integridade do inventário, linhagem e detecção de duplicidades, e observa que a criação de público-alvo suporta públicos-alvo B2C e B2B.
 
 ## Outubro de 2026 {#oct-2026}
 
