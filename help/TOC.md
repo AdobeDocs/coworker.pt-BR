@@ -6,9 +6,9 @@ description: Saiba mais sobre as ferramentas de IA no CX Enterprise. Melhore o c
 solution: Coworker
 role: Admin,User,Developer,Leader
 nudge: true
-source-git-commit: 3d3b2c34f053d4f863b2671b9191a76321f3fc80
+source-git-commit: ab937d4c1139a9f60cae1f8411f1797e04bf36be
 workflow-type: tm+mt
-source-wordcount: '331'
+source-wordcount: '340'
 ht-degree: 14%
 ---
 
@@ -90,6 +90,10 @@ ht-degree: 14%
     - [O que são plug-ins?](./customizations/plugins/what-are-plugins.md)
     - [Gerenciar plug-ins da sua organização](./customizations/plugins/manage-plugins-for-your-org.md)
   - Conectores externos {#external-connectors}
+    - {hide-from-toc}[Gênio do Databricks](./customizations/external-connectors/databricks-genie.md)
+    - {hide-from-toc}[Anúncios do Google](./customizations/external-connectors/google-ads.md)
+    - {hide-from-toc}[Anúncios do Meta](./customizations/external-connectors/meta-ads.md)
+    - {hide-from-toc}[Microsoft Work IQ](./customizations/external-connectors/microsoft-work-iq.md)
     - {hide-from-toc}[IA do Snowflake Cortex](./customizations/external-connectors/snowflake.md)
   - Memória {#memory}
     - [O que é memória?](./customizations/memory/what-is-memory.md)
