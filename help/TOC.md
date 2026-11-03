@@ -6,10 +6,10 @@ description: Saiba mais sobre as ferramentas de IA no CX Enterprise. Melhore o c
 solution: Coworker
 role: Admin,User,Developer,Leader
 nudge: true
-source-git-commit: 34422092afceef569f2797f6f54d7fe133734e97
+source-git-commit: 3d3b2c34f053d4f863b2671b9191a76321f3fc80
 workflow-type: tm+mt
-source-wordcount: '326'
-ht-degree: 15%
+source-wordcount: '331'
+ht-degree: 14%
 ---
 
 # CX Enterprise Coworker {#content}
@@ -89,6 +89,8 @@ ht-degree: 15%
   - Plug-ins {#plugins}
     - [O que são plug-ins?](./customizations/plugins/what-are-plugins.md)
     - [Gerenciar plug-ins da sua organização](./customizations/plugins/manage-plugins-for-your-org.md)
+  - Conectores externos {#external-connectors}
+    - {hide-from-toc}[IA do Snowflake Cortex](./customizations/external-connectors/snowflake.md)
   - Memória {#memory}
     - [O que é memória?](./customizations/memory/what-is-memory.md)
 - Colaborador de equipes {#coworker-for-teams}
