@@ -20,4 +20,4 @@ ht-degree: 0%
 
 Use o CX Enterprise Coworker para criar uma jornada entre canais a partir de um prompt em linguagem simples e gerar conteúdo de email e SMS. Neste vídeo, veja como simular caminhos de ramificação e revise os diagnósticos para identificar problemas de configuração.
 
->[!VIDEO](https://video.tv.adobe.com/v/3504706?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3504710?captions=por_br&learn=on)

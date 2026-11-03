@@ -21,7 +21,7 @@ ht-degree: 1%
 
 Descreva a jornada que você deseja criar e o Colaborador a rascunha no Adobe Journey Optimizer. Neste vídeo, veja como o Colaborador configura acionadores, tempo, canais e lógica de decisão para que você possa se concentrar em revisar e refinar a jornada.
 
->[!VIDEO](https://video.tv.adobe.com/v/3496867/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3496880/?captions=por_br&learn=on&enablevpops)
 
 ## Consulte também
 
