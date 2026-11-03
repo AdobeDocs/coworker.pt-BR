@@ -1,6 +1,6 @@
 ---
 title: Journey Optimizer e Colaboradores - Gerar Jornadas
-description: Saiba como criar jornadas do Adobe Journey Optimizer a partir de prompts de linguagem natural com o Colaborador.
+description: Saiba como usar o Coworker para redigir jornadas do Adobe Journey Optimizer a partir de prompts em linguagem simples.
 feature: AI Tools
 role: User
 level: Beginner
@@ -11,21 +11,19 @@ jira: KT-22081
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: Coworker
-source-git-commit: 1ec3a8bf6dff44df068529cf1f7ceb699a027d65
+source-git-commit: d7f1f470a99880d46f518b42f4e766066c6fa52e
 workflow-type: tm+mt
-source-wordcount: '128'
+source-wordcount: '101'
 ht-degree: 1%
 ---
 
 # Gerar jornadas do Adobe Journey Optimizer a partir de prompts em linguagem natural
 
-Tradicionalmente, a criação de jornadas para clientes requer configuração abrangente em acionadores, regras de tempo, canais, lógica de decisão e etapas de mensagens. Neste vídeo, você verá como o Coworker simplifica o processo, transformando uma descrição em linguagem simples em uma jornada totalmente redigida no Adobe Journey Optimizer.
- 
-Ao automatizar o processo de configuração inicial, as equipes podem gastar menos tempo criando jornadas do zero e mais tempo refinando as experiências dos clientes e os resultados dos negócios.
+Descreva a jornada que você deseja criar e o Colaborador a rascunha no Adobe Journey Optimizer. Neste vídeo, veja como o Colaborador configura acionadores, tempo, canais e lógica de decisão para que você possa se concentrar em revisar e refinar a jornada.
 
->[!VIDEO](https://video.tv.adobe.com/v/3496880/?captions=por_br&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3496867/?learn=on&enablevpops)
 
 ## Consulte também
 
-- [Journey Agent](https://experienceleague.adobe.com/pt-br/docs/cx-enterprise-ai/experience-cloud-ai/agents/ajo-agent#journey-create), o recurso de IA subjacente que habilita a criação de jornadas no Chat de Colaborador.
+- [Journey Agent](https://experienceleague.adobe.com/en/docs/cx-enterprise-ai/experience-cloud-ai/agents/ajo-agent#journey-create), o recurso de IA subjacente que habilita a criação de jornadas no Chat de Colaborador.
 - [Mais fluxos de trabalho de chat do colega de trabalho](../workflows.md#journeys)

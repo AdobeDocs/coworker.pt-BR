@@ -1,6 +1,6 @@
 ---
 title: Simular uma jornada do Adobe Journey Optimizer usando o Colaborador
-description: Saiba como simular jornadas do Adobe Journey Optimizer usando o Colaborador para testar caminhos, receber mensagens de prova e revisar a cobertura do caminho antes da publicação.
+description: Saiba como usar o Colaborador para simular jornadas do Adobe Journey Optimizer e revisar os resultados antes de publicar.
 role: User
 level: Beginner, Intermediate
 doc-type: Feature Video
@@ -20,16 +20,14 @@ level_v2:
     internal-label: Intermediate
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
-source-git-commit: f3401377d82e09d194d5130458c7b86866899c11
+source-git-commit: d7f1f470a99880d46f518b42f4e766066c6fa52e
 workflow-type: tm+mt
-source-wordcount: '78'
+source-wordcount: '70'
 ht-degree: 0%
 ---
 
 # Simular uma jornada do Adobe Journey Optimizer usando o Colaborador
 
-Saiba como usar o Colaborador para simular uma jornada do Adobe Journey Optimizer com perfis de teste e eventos gerados automaticamente.
-
-Neste vídeo, veja como testar caminhos de jornada, receber mensagens de prova e revisar a cobertura do caminho e os resultados da simulação antes de publicar.
+Use o Colaborador para simular uma jornada do Adobe Journey Optimizer com perfis de teste e eventos gerados automaticamente. Neste vídeo, veja como testar caminhos de jornada, receber mensagens de prova e revisar a cobertura do caminho e os resultados da simulação antes de publicar.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3507004?learn=on)
