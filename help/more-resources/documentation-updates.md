@@ -4,7 +4,7 @@ description: Consulte os artigos e vídeos novos e atualizados na documentação
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: Coworker
-source-git-commit: e5fad76b20f2d10d32fc03131b4c18d220ed8e1e
+source-git-commit: bdee1fbac171345d41a0bcdfdaaadb025f860a55
 workflow-type: tm+mt
 source-wordcount: '363'
 ht-degree: 1%
@@ -52,7 +52,7 @@ Use esta página para encontrar conteúdo novo e substancialmente atualizado na 
 
 **16 de outubro de 2026**
 
-* Novo: [Criar, simular e analisar jornadas entre canais](../chat/use-cases/journeys/create-simulate-and-analyze-a-cross-channel-journey-with-cx-enterprise-coworker-feature-video.md)
+* Novo: [Criar, simular e analisar jornadas entre canais](../chat/use-cases/journeys/create-simulate-and-analyze-a-cross-channel-journey-with-cx-enterprise-coworker.md)
 * Novo: [visão geral da análise de Jornada](../chat/use-cases/data-insights/journey-analysis.md)
 * Novo: [Visão geral da análise de público-alvo e segmento](../chat/use-cases/data-insights/audience-and-segment-analysis.md)
 * Novo: [Visão geral do desempenho empresarial](../chat/use-cases/data-insights/business-performance.md)

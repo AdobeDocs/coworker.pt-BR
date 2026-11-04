@@ -6,7 +6,7 @@ description: Saiba mais sobre as ferramentas de IA no CX Enterprise. Melhore o c
 solution: Coworker
 role: Admin,User,Developer,Leader
 nudge: true
-source-git-commit: 93d1e4c5d535f8dcbe512d939b56e3cd93e98bcc
+source-git-commit: bdee1fbac171345d41a0bcdfdaaadb025f860a55
 workflow-type: tm+mt
 source-wordcount: '350'
 ht-degree: 14%
@@ -58,8 +58,8 @@ ht-degree: 14%
       - [Criar uma jornada usando linguagem natural](./chat/use-cases/journeys/create-journey-from-natural-language.md)
       - [Criar uma jornada a partir de uma imagem](./chat/use-cases/journeys/create-journey-from-image.md)
       - [Simular uma jornada usando o Colaborador](./chat/use-cases/journeys/simulate-journey-using-coworker.md)
-      - [Comparar versões do jornada usando o Colaborador](./chat/use-cases/journeys/journey-version-comparison-feature-video.md)
-      - [Criar, simular e analisar jornadas entre canais](./chat/use-cases/journeys/create-simulate-and-analyze-a-cross-channel-journey-with-cx-enterprise-coworker-feature-video.md)
+      - [Comparar versões do jornada usando o Colaborador](./chat/use-cases/journeys/journey-version-comparison.md)
+      - [Criar, simular e analisar jornadas entre canais](./chat/use-cases/journeys/create-simulate-and-analyze-a-cross-channel-journey-with-cx-enterprise-coworker.md)
     - Fidelidade {#loyalty}
       - [Criar um desafio de fidelidade e insights de superfície](./chat/use-cases/journeys/create-loyalty-challenge.md)
     - Otimização {#optimization}
