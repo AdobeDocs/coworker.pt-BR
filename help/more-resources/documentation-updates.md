@@ -4,9 +4,9 @@ description: Consulte os artigos e vídeos novos e atualizados na documentação
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: Coworker
-source-git-commit: df0cae9a0151501dad78527ba15fb06c57a9f9f4
+source-git-commit: e5fad76b20f2d10d32fc03131b4c18d220ed8e1e
 workflow-type: tm+mt
-source-wordcount: '345'
+source-wordcount: '363'
 ht-degree: 1%
 ---
 # Atualizações na documentação {#documentation-updates}
@@ -14,6 +14,10 @@ ht-degree: 1%
 Use esta página para encontrar conteúdo novo e substancialmente atualizado na documentação do CX Enterprise Coworker. As atualizações são listadas por mês, com a mais recente primeiro. Para ver as alterações de produto do Colaborador de equipes, consulte as [Notas de versão do Colaborador de equipes](../coworker-for-teams/release-notes.md).
 
 ## Novembro de 2026 {#nov-2026}
+
+**4 de novembro de 2026**
+
+* Atualizado: [Faça perguntas sobre o seu conteúdo](../chat/use-cases/data-insights/ask-content-questions.md). A análise de conteúdo com a habilidade `analyze-content` agora está disponível.
 
 **3 de novembro de 2026**
 
