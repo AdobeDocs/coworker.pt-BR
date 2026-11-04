@@ -33,4 +33,4 @@ ht-degree: 0%
 
 Faça upload de uma imagem de fluxograma, como um slide do PowerPoint, no CX Enterprise Coworker. Neste vídeo, veja como revisar o prompt extraído da imagem, especificar o evento de acionador e salvar um rascunho de jornada editável no Adobe Journey Optimizer.
 
->[!VIDEO](https://video.tv.adobe.com/v/3504865/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3504869/?captions=por_br&learn=on&enablevpops)
