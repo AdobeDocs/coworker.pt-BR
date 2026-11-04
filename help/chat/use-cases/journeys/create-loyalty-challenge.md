@@ -5,12 +5,14 @@ role: User
 level: Beginner
 doc-type: Feature Video
 duration: 499
-last-substantial-update: 2026-08-12T00:00:00.000Z
+last-substantial-update: '2026-08-12T00:00:00.000Z'
 jira: KT-22312
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: Coworker
-source-git-commit: d7f1f470a99880d46f518b42f4e766066c6fa52e
+  - id: cb954087-f4fc-4456-afb9-e939cabcdc79
+    internal-label: Journey Optimizer
+source-git-commit: b5b8b4188aaa1c81c63a2b089c5dd12b408dbcda
 workflow-type: tm+mt
 source-wordcount: '163'
 ht-degree: 1%
@@ -24,10 +26,10 @@ ht-degree: 1%
 
 Use prompts em linguagem simples para criar, configurar e iniciar desafios de fidelidade com o CX Enterprise Coworker. Neste vídeo, veja como definir públicos, recompensas e agendamentos, automatizar a configuração do jornada e analisar insights de desafio.
 
->[!VIDEO](https://video.tv.adobe.com/v/3496542/?captions=por_br&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3496528/?learn=on&enablevpops)
 
 ## Consulte também
 
-- [Journey Agent](https://experienceleague.adobe.com/pt-br/docs/cx-enterprise-ai/experience-cloud-ai/agents/ajo-agent), para outros recursos de IA do AJO disponíveis por meio do Chat do Colaborador, como criação, análise e simulação de jornadas.
+- [Journey Agent](https://experienceleague.adobe.com/en/docs/cx-enterprise-ai/experience-cloud-ai/agents/ajo-agent), para outros recursos de IA do AJO disponíveis por meio do Chat do Colaborador, como criação, análise e simulação de jornadas.
 - [Gerenciamento de Desafio de Fidelidade](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/get-started/essentials/ajo-coworker-skills#loyalty-challenge-management){target="_blank"} na documentação do Adobe Journey Optimizer.
 - [Mais fluxos de trabalho de chat do colega de trabalho](../workflows.md#journeys)
