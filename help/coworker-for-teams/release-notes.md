@@ -6,16 +6,86 @@ product_v2:
     internal-label: Coworker
   - id: a17f56ef-32e3-5ef7-b044-4479a09ffbc1
     internal-label: Coworker for teams
-source-git-commit: d786b58a4a88126d0875c504e1a8e5d6b39150e6
+source-git-commit: 0246505e521b780295f17b3964ec2f0a57fc41fd
 workflow-type: tm+mt
-source-wordcount: '4474'
+source-wordcount: '4892'
 ht-degree: 0%
 ---
 # Notas de versão do Adobe CX Enterprise Coworker para equipes {#release-notes}
 
 Os lançamentos de colegas de trabalho para equipes operam em um modelo de entrega contínua que permite uma abordagem mais escalável e em fases para a implantação de recursos.
 
+## Novembro de 2026 {#nov-2026}
+
+**Data de lançamento: 3 de novembro de 2026**
+
+* Crie campanhas sem sair da sua conversa para visitar o painel
+* Analise os resultados da campanha juntos à medida que estiverem disponíveis
+* Descubra conteúdo novo e atualizado sem perder o seu lugar
+* Manter mensagens e anexos não enviados ao visitar o quadro de campanha
+* As visualizações anteriores da campanha retêm o conteúdo que você revisou originalmente
+* Pré-visualizar emails em layouts de desktop e dispositivos móveis antes de enviar
+* Alternar variantes de email com guias e visualizações de imagem mais claras
+* As alterações nas variantes de email mantêm seu lugar na página
+* Editar emails amplos sem perder acesso aos controles de formatação
+* Estruturas de tópicos de edição de email e alças de redimensionamento permanecem alinhadas
+* Os campos de email inalterados não acionam mais salvamentos desnecessários
+* Os rascunhos de email mantêm as edições mais recentes quando os salvamentos anteriores terminarem
+* Remover emails não utilizados da campanha sem excluir o conteúdo salvo
+* Ver quais rascunhos de email não estão em seu fluxo de trabalho
+* Os documentos de campanha baixados mantêm visualizações de email e links de campanha de trabalho
+* Escolha as datas diretamente quando sua conversa as solicitar
+* As respostas da conversa permanecem vinculadas à solicitação pendente correta
+* As solicitações de arquivo aceitam apenas os tipos de anexo de que precisam
+* Gerenciar contatos suprimidos individualmente ou importá-los do CSV
+* Baixar a lista de supressão completa independentemente dos filtros ativos
+* Encontrar públicos-alvo de campanha salvos por meio de suas listas de contatos vinculadas
+* Navegue pelas ideias de campanha com mais conforto em telas menores
+* Os resultados de pesquisa vazios permanecem distintos das coleções de campanhas vazias
+* Tentar carregar modelos novamente sem perder os controles de pesquisa
+* Endereços de site de marca inválidos são explicados ao lado do campo
+* As ilustrações de upload de CSV permanecem visíveis junto com as outras
+* As programações de lançamento ampliadas deixam mais espaço para controles próximos
+* Abra os artigos de ajuda no idioma de sua preferência, onde houver suporte
+* O progresso e os resultados da conexão são mais claros ao vincular contas
+* Retorne com segurança à sua campanha após conectar uma conta
+* As contas pessoais não mostram mais controles de gerenciamento de equipe indisponíveis
+* Alternar espaços de trabalho sem erros de acesso incorretos
+* A criação do Workspace explica quando o acesso do administrador da organização é necessário
+* Quando disponível, revise e edite seu perfil comercial salvo
+* Os salvamentos do perfil de negócios detectam alterações conflitantes antes de substituí-las
+* A navegação do perfil empresarial segue a seção escolhida sem oscilação
+* Quando disponível, conecte o LinkedIn e escolha sua identidade de publicação
+* Pré-visualizar rascunhos de publicações sociais em conversas e painéis de campanha
+* Variantes de postagens sociais se encaixam em painéis de conversa mais confortavelmente
+* Ler nomes de contas sociais de forma consistente nas visualizações de campanha
+* Editar imagens sociais com o Adobe Express, onde houver suporte
+* As verificações do Launch correspondem aos canais de email e sociais que você usa
+* Veja quando as contas sociais precisam se reconectar antes do lançamento
+* Exibir resultados sociais separadamente dos relatórios de campanha por email
+
 ## Outubro de 2026 {#oct-2026}
+
+**Data de lançamento: 26 de outubro de 2026**
+
+* Conecte o Facebook e o Instagram por meio dos fluxos de entrada no navegador
+* Adicionar e substituir logotipos de marca ao configurar sua marca
+* As visualizações do logotipo da marca são exibidas de maneira confiável durante a configuração
+* Revisar consultas de público-alvo do depósito diretamente dos cartões de público-alvo
+* Retomar a integração automaticamente depois que sua conta se tornar ativa
+* As conversas renomeadas mantêm seus títulos e links sincronizados
+* Recolher a navegação da conversa sem perder rótulos de ação úteis
+* Rolar por todo o conteúdo do email sem estender o espaço de trabalho ao redor
+* Modelos duplicados recebem nomes claros e numerados em seu idioma
+* Os controles de agendamento e as datas da campanha seguem suas preferências de idioma
+* Os documentos de campanha baixados usam títulos e rótulos localizados
+* As porcentagens de compatibilidade de email seguem o formato de número local
+* As datas de criação das marcas seguem o idioma e a região de sua preferência
+* Os controles do editor de email e os rótulos de modelo usam texto localizado
+* Os campos de conexão obrigatórios explicam os erros de validação no seu idioma
+* Os selos padrão e os controles de edição de logotipo permanecem legíveis
+* Campanhas mais antigas e links essenciais levam a colegas de trabalho para equipes
+* A ação de desconexão fica mais clara durante a configuração de avaliação
 
 **Data de lançamento: 21 de outubro de 2026**
 
@@ -313,8 +383,6 @@ Os lançamentos de colegas de trabalho para equipes operam em um modelo de entre
 * Domínios e remetentes tem um assistente de configuração guiado para verificar domínios e adicionar remetentes
 * As campanhas em rascunho agora solicitam que você conclua a configuração do email e do canal antes de enviar
 * A validação de domínio e remetente detecta mais problemas, incluindo casos de borda de registro DNS
-* O menu de perfil foi movido para a barra lateral para obter acesso mais rápido
-* Os documentos do Source PDF agora são exibidos como um preenchimento dos detalhes do kit da marca
 * Várias melhorias de desempenho e confiabilidade no
 
 **Data de lançamento: 26 de junho de 2026**
@@ -324,7 +392,6 @@ Os lançamentos de colegas de trabalho para equipes operam em um modelo de entre
 * Dicas contextuais são exibidas no quadro de campanha para orientá-lo pelas próximas etapas
 * A integração de novos usuários usa os dados de sua marca real para personalizar a experiência de configuração
 * O seletor de cores da marca lida com códigos hexadecimais curtos e abre em um popover organizado
-* Os parâmetros UTM e o limite de mensagem agora podem ser configurados nas Configurações do aplicativo
 * Os links de ajuda agora abrem o conteúdo mais recente diretamente no Experience League
 * Várias melhorias de desempenho e confiabilidade no
 
@@ -355,8 +422,6 @@ Os lançamentos de colegas de trabalho para equipes operam em um modelo de entre
 * Procurar e restaurar versões anteriores do email com um novo painel de histórico de versões
 * Edite as cores da marca com um seletor hexadecimal e edição em linha na página da marca
 * A biblioteca de marcas carrega mais marcas automaticamente à medida que você rolar a tela
-* O menu de perfil foi movido para a barra lateral para obter acesso mais rápido
-* Os documentos do Source PDF agora são exibidos como um preenchimento dos detalhes do kit da marca
 * Várias melhorias de desempenho e confiabilidade no
 
 **Data de lançamento: 12 de junho de 2026**
@@ -370,9 +435,6 @@ Os lançamentos de colegas de trabalho para equipes operam em um modelo de entre
 * As respostas de bate-papo fora do escopo sugerem o que perguntar a seguir com prompts de um clique
 * Exportações de PDF do Campaign mostram ícones, marcas de produto e uma etiqueta de marca de forma confiável
 * Fale com um especialista e os fluxos de atualização carregam seus detalhes de avaliação de maneira mais confiável
-* As tags de estilo de escrita se expandem para mostrar o texto completo e vincular à página da sua marca
-* Inicie uma marca a partir do estado vazio da biblioteca com categorias úteis
-* Faça logon novamente sem problemas quando a sessão expirar
 * O aplicativo agora está em coworker-campaigns.adobe.com com a mesma experiência
 * A inscrição para avaliação direciona você para a próxima etapa direita após criar sua conta
 * Várias melhorias de desempenho e confiabilidade no
@@ -385,8 +447,6 @@ Os lançamentos de colegas de trabalho para equipes operam em um modelo de entre
 * As importações de público-alvo em CSV não mostram mais uma lista duplicada no cartão de público-alvo
 * O item de Bate- Papos na barra lateral é realçado quando você inicia um novo bate- papo
 * O cabeçalho do aplicativo agora mostra apenas o assunto do email (ou &quot;Rascunho&quot;) ao editar um email, removendo o prefixo de número &quot;Email N:&quot; de um título mais limpo
-* O menu de perfil foi movido para a barra lateral para obter acesso mais rápido
-* Os documentos do Source PDF agora são exibidos como um preenchimento dos detalhes do kit da marca
 * Várias melhorias de desempenho e confiabilidade no
 
 **Data de lançamento: 10 de junho de 2026**
@@ -400,7 +460,6 @@ Os lançamentos de colegas de trabalho para equipes operam em um modelo de entre
 * Tente salvar novamente quando o editor de email encontrar um erro temporário
 * Substituir imagens de email com o dimensionamento correto e as dimensões do Adobe Express
 * Carregue listas de público-alvo do CSV usando uma caixa de diálogo de importação mais clara no chat
-* As tags de estilo de escrita se expandem para mostrar o texto completo e vincular à página da sua marca
 * Inicie uma marca a partir do estado vazio da biblioteca com categorias úteis
 * Faça logon novamente sem problemas quando a sessão expirar
 * Várias melhorias de desempenho e confiabilidade no
@@ -511,7 +570,6 @@ Os lançamentos de colegas de trabalho para equipes operam em um modelo de entre
 * O cabeçalho do aplicativo agora mostra apenas o assunto do email (ou &quot;Rascunho&quot;) ao editar um email, removendo o prefixo de número &quot;Email N:&quot; de um título mais limpo
 * O menu de perfil foi movido para a barra lateral para obter acesso mais rápido
 * Os documentos do Source PDF agora são exibidos como um preenchimento dos detalhes do kit da marca
-* O menu de perfil foi movido para a barra lateral para obter acesso mais rápido
 * Várias melhorias de desempenho e confiabilidade no
 
 **Data de lançamento: 18 de abril de 2026**
