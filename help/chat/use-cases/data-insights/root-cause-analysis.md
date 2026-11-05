@@ -25,7 +25,7 @@ Use o Adobe CX Enterprise Coworker Chat para investigar por que uma métrica mud
 
 O vídeo a seguir demonstra como o Coworker combina IA de conversação com o Customer Journey Analytics. Saiba como fazer perguntas em linguagem natural, visualizar resultados, identificar tendências significativas e descobrir fatores que impulsionam o desempenho sem criar consultas manuais.
 
->[!VIDEO](https://video.tv.adobe.com/v/3496847/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3496856/?captions=por_br&learn=on&enablevpops)
 
 ### Pré-requisitos
 
