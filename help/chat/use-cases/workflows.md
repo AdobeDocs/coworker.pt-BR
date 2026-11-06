@@ -4,9 +4,9 @@ title: Fluxos de Trabalho de Chat de Colaborador
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: Coworker
-source-git-commit: 41216c2254d4c98f05c608f02bc6da31da3dd3c6
+source-git-commit: 0d2b1c7e146114fac57a894ce1b61727456d263f
 workflow-type: tm+mt
-source-wordcount: '8820'
+source-wordcount: '9190'
 ht-degree: 6%
 ---
 # Fluxos de trabalho de chat do colaborador {#use-cases}
@@ -258,6 +258,20 @@ Use o Bate-papo com colegas de trabalho para planejar, gerar, avaliar e refinar 
 **Informações relacionadas**
 
 * [Colaborador para gerenciamento de conteúdo](https://experienceleague.adobe.com/pt-br/docs/journey-optimizer/using/content-management/content-management-coworker-skills){target="_blank"} fornece detalhes sobre as ferramentas de gerenciamento de conteúdo e as habilidades disponíveis no Adobe Journey Optimizer.
+
+## Campanhas orquestradas
+
+Use o Coworker Chat para localizar e inspecionar campanhas orquestradas e para renderizar gráficos de fluxo de trabalho no Adobe Journey Optimizer. Essas habilidades são somente leitura: a criação ou edição de campanhas orquestradas não é compatível com o conjunto de ferramentas atual, e análises de campanha orquestradas e relatórios de desempenho não são compatíveis.
+
+| Fluxo de trabalho | Descrição | Habilidades | Aplicativo | Exemplos de Prompts |
+| --- | --- | --- | --- | --- |
+| [Localizar e procurar campanhas orquestradas](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/orchestrated/orchestrated-campaigns-coworker-skills#orchestrated-campaign-list){target="_blank"} | Liste, navegue, filtre, pesquise, conte ou obtenha uma visão geral de suas campanhas orquestradas, renderizadas como um painel com cartões de métrica, gráficos e uma tabela de campanha | Lista de campanhas orquestradas | Adobe Journey Optimizer (AJO) | &quot;Listar todas as minhas campanhas orquestradas.&quot; <br> &quot;Mostre-me as campanhas orquestradas AO VIVO.&quot; <br> &quot;Quantas campanhas orquestradas usam email?&quot; <br> &quot;Mostrar campanhas orquestradas criadas por xavier.&quot; <br> &quot;Navegue por campanhas orquestradas na sandbox de produção.&quot; <br> &quot;Filtrar campanhas orquestradas por status DRAFT.&quot; |
+| [Inspecionar uma campanha orquestrada](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/orchestrated/orchestrated-campaigns-coworker-skills#orchestrated-campaign-get){target="_blank"} | Obtenha tudo sobre uma única campanha orquestrada nomeada ou identificada: seus detalhes, status, metadados, histórico de ciclo de vida e histórico de execução e visualize seu gráfico de atividades | Campanha Orquestrada Get | Adobe Journey Optimizer (AJO) | &quot;Mostre-me os detalhes da campanha orquestrada de Reengajamento do Verão.&quot; <br> &quot;Quem publicou o OC da Série de Boas-vindas?&quot; <br> &quot;Mostrar o histórico de ciclo de vida da minha campanha do 3º trimestre.&quot; <br> &quot;Quantas vezes a Holiday Promo orquestrou uma campanha?&quot; <br> &quot;Desenhe/visualize o gráfico para o OC de Integração.&quot; <br> &quot;A campanha orquestrada de Abandono do carrinho falhou?&quot; |
+| [Renderizar um gráfico de fluxo de trabalho](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/orchestrated/orchestrated-campaigns-coworker-skills#orchestrated-campaign-workflow-renderer){target="_blank"} | Renderize um fluxo de trabalho ou gráfico de orquestração, fornecido como uma carga JSON com nós e bordas, como um diagrama visual. <br> Use-a somente quando a carga do gráfico já estiver na conversa. <br> Para desenhar o gráfico de uma campanha por nome ou ID, use o Orchestrated Campaign Get. | Renderizador de fluxo de trabalho de campanha orquestrado | Adobe Journey Optimizer (AJO) | &quot;Renderizar este gráfico de fluxo de trabalho como um diagrama.&quot; <br> &quot;Visualizar este gráfico de orquestração.&quot; |
+
+**Informações relacionadas**
+
+* O [Colaborador para campanhas orquestradas](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/orchestrated/orchestrated-campaigns-coworker-skills){target="_blank"} fornece orientação detalhada, casos de uso e exemplos de prompts para as habilidades de Lista de Campanhas orquestradas, Obtenção de Campanhas orquestradas e Renderizador de fluxos de trabalho de Campanhas orquestradas no Adobe Journey Optimizer.
 
 ## Campaign v8
 
