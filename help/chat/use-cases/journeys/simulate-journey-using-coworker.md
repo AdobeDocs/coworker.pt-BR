@@ -30,4 +30,4 @@ ht-degree: 0%
 
 Use o Colaborador para simular uma jornada do Adobe Journey Optimizer com perfis de teste e eventos gerados automaticamente. Neste vídeo, veja como testar caminhos de jornada, receber mensagens de prova e revisar a cobertura do caminho e os resultados da simulação antes de publicar.
 
->[!VIDEO](https://video.tv.adobe.com/v/3507004?learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3507035?captions=por_br&learn=on)
