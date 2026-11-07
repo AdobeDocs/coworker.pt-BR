@@ -30,7 +30,7 @@ Saiba como o [!DNL CX Enterprise Coworker] pode ajudar a investigar alterações
 
 Neste vídeo, você verá como usar prompts em linguagem simples no Coworker para investigar um aumento inesperado em um público-alvo do Adobe Experience Platform antes de um lançamento de campanha. A apresentação mostra como a análise causal pode conectar alterações no tamanho do público-alvo com dados operacionais, descartar alterações de configuração e expor explicações prováveis sem esperar por uma investigação de engenharia.
 
->[!VIDEO](https://video.tv.adobe.com/v/3507342/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3507347/?captions=por_br&learn=on&enablevpops)
 
 Você aprenderá a:
 

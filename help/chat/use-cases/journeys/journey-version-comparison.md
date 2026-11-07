@@ -17,4 +17,4 @@ ht-degree: 0%
 
 Saiba como usar o Colaborador para comparar versões de uma jornada do Adobe Journey Optimizer. Explore comparações visuais e resumos detalhados para identificar alterações em atividades, ramificações e propriedades da jornada e acompanhar quando atualizações específicas foram feitas.
 
->[!VIDEO](https://video.tv.adobe.com/v/3507163/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3507250/?captions=por_br&learn=on&enablevpops)
