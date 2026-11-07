@@ -38,7 +38,7 @@ Um Administrador de parceiro é um usuário com a função de **[!UICONTROL Admi
 
 Use este vídeo para saber como adicionar administradores de colegas.
 
->[!VIDEO](https://video.tv.adobe.com/v/3507041?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3507045?captions=por_br&learn=on){transcript=true}
 
 ## Gerenciar acesso do usuário {#manage-user-access}
 
@@ -55,7 +55,7 @@ Use este vídeo para saber como adicionar administradores de colegas.
 
    Use este vídeo para saber como gerenciar usuários do Colaborador.
 
-   >[!VIDEO](https://video.tv.adobe.com/v/3507151?learn=on){transcript=true}
+   >[!VIDEO](https://video.tv.adobe.com/v/3507155?captions=por_br&learn=on){transcript=true}
 
 4. No Colaborador, use **[!UICONTROL Usuários]** para gerenciar o acesso de indivíduos ou **[!UICONTROL Grupos de usuários]** para gerenciar o acesso do Colaborador para grupos de usuários. Uma configuração de grupo de usuários se aplica a seus membros.
 
