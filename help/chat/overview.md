@@ -4,10 +4,10 @@ title: Visão geral do Adobe CX Enterprise Coworker Chat
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: Coworker
-source-git-commit: 1ec3a8bf6dff44df068529cf1f7ceb699a027d65
+source-git-commit: 4d1a45924304a21da9f23287c307e7616bb86219
 workflow-type: tm+mt
-source-wordcount: '721'
-ht-degree: 6%
+source-wordcount: '546'
+ht-degree: 8%
 ---
 # Sobre o Bate-papo de Colaborador {#overview}
 
@@ -27,7 +27,7 @@ Para começar, consulte [Introdução ao Chat do Colaborador](ui-guide.md).
 
 ## Uma evolução do Assistente de IA
 
-O Bate-papo com colegas de trabalho é a próxima etapa depois do [Assistente de IA](https://experienceleague.adobe.com/pt-br/docs/cx-enterprise-ai/experience-cloud-ai/ai-assistant/ai-assistant-ui) e do Adobe Experience Platform Agent Orchestrator. Tudo o que você pode fazer no AI Assistant hoje, incluindo conhecimento do produto e insights operacionais e de dados, permanece disponível. O Chat do Colaborador adiciona os [blocos de construção](#building-blocks) que permitem que uma conversa conclua o trabalho, não apenas responda a perguntas.
+O Bate-papo com colegas de trabalho é a próxima etapa depois do [Assistente de IA](https://experienceleague.adobe.com/pt-br/docs/cx-enterprise-ai/experience-cloud-ai/ai-assistant/ai-assistant-ui) e do Adobe Experience Platform Agent Orchestrator. Tudo o que você pode fazer no AI Assistant hoje, incluindo conhecimento do produto e insights operacionais e de dados, permanece disponível. O Chat do Colaborador usa os [blocos de construção do Colaborador](/help/home.md#building-blocks) compartilhados para concluir o trabalho por meio da conversa, não apenas para responder às perguntas.
 
 ## A experiência de bate-papo
 
@@ -53,16 +53,6 @@ Os seguintes aplicativos da CX Enterprise são compatíveis com o Chat do colabo
 * _Real-Time CDP B2B edition (em breve)_
 * _Adobe Journey Optimizer B2B Edition (em breve)_
 * _Customer Journey Analytics B2B edition (em breve)_
-
-## Blocos de construção
-
-O Chat do Colaborador é alimentado pelos blocos de construção do Colaborador. Os seguintes blocos de construção estão disponíveis hoje.
-
-* **Recurso empresarial:** o mecanismo que transforma sua meta em trabalho concluído. Ele executa um loop contínuo de autocorreção (motivo, selecionar uma habilidade, executar, validar, repetir), recuperando-se de erros e trabalhando em paralelo até que o trabalho seja concluído, não apenas uma tentativa.
-* **Habilidades:** manuais reutilizáveis, no Markdown simples, para executar bem cada tarefa. O bate-papo com colegas de trabalho é fornecido com habilidades para as tarefas mais comuns de experiência do cliente atualmente, e o objetivo é cobrir o trabalho em todos os aplicativos da Adobe CX Enterprise ao longo do tempo.
-* **Conectores MCP:** controlou o acesso para atuar em sistemas Adobe e de terceiros, com conectores prontos para uso e a opção de trazer os seus próprios.
-* **Governança:** portas de aprovação, permissões herdadas da sua organização da Adobe, verificações executadas antes da execução de uma ação e uma trilha de auditoria completa.
-* **Memória:** O Chat de Colaborador aprende suas preferências, decisões e correções entre sessões, com escopo das regras em toda a organização até suas preferências pessoais, para que fique mais nítido quanto mais você trabalhar com ele.
 
 ## Visão geral do vídeo
 

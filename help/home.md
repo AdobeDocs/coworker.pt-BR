@@ -4,16 +4,27 @@ description: Saiba mais sobre o Adobe CX Enterprise Coworker, um companheiro de 
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: Coworker
-source-git-commit: 81e7de5e1b3b322fc74fa7bab8cb16841d627349
+source-git-commit: 4d1a45924304a21da9f23287c307e7616bb86219
 workflow-type: tm+mt
-source-wordcount: '1233'
-ht-degree: 15%
+source-wordcount: '1367'
+ht-degree: 14%
 ---
 # Visão geral do CX Enterprise Coworker {#overview}
 
 [!DNL Coworker] é um colega de equipe que trabalha com IA e reimagina a natureza do trabalho para organizações, equipes e indivíduos. Ele automatiza a experiência do cliente e os fluxos de trabalho de marketing para que as organizações possam se concentrar em alcançar metas comerciais e melhorar resultados em vez de coordenar tarefas. Como um mecanismo de agente, o Co-worker adota uma abordagem inovadora para a automação de processos de negócios. Ele melhora o desempenho e a precisão do modelo de IA, unindo o contexto corporativo, os dados, a inteligência, a colaboração e a execução de habilidades orgânicas, com governança e supervisão humana integradas.
 
 O colega de trabalho é projetado para organizações que executam fluxos de trabalho complexos e multifuncionais de experiência do cliente. Ele reúne o Bate-papo do colaborador e os Projetos do colaborador, permitindo que os profissionais migrem de uma única tarefa para um fluxo de trabalho completo de várias equipes dentro da experiência do colaborador. A governança, as aprovações e a supervisão humana são integradas desde o início. Saiba mais sobre o [Adobe for Business](https://business.adobe.com/br/products/cx-enterprise-coworker.html).
+
+## Blocos de construção {#building-blocks}
+
+O Bate-papo do colaborador e os Projetos do colaborador compartilham os seguintes blocos fundamentais, exceto quando observado. Projetos de colegas de trabalho serão lançados em breve.
+
+* **Recurso corporativo:** Transforme sua meta em trabalho concluído por meio de um loop contínuo de raciocínio, seleção de habilidades, execução e validação, com recuperação de erros e execução paralela.
+* **Habilidades:** use manuais reutilizáveis no Markdown simples para tarefas comuns de experiência do cliente.
+* **Conectores MCP:** atue em todos os sistemas Adobe e externos por meio de acesso controlado, usando conectores integrados ou os seus próprios.
+* **Governança:** mantenha o controle por meio de portas de aprovação, permissões herdadas da organização da Adobe, verificações antes da execução das ações e uma trilha de auditoria.
+* **Memória:** aplique preferências, decisões e correções entre sessões, desde regras da organização até suas preferências pessoais.
+* **Collaboration (somente Projetos do Colaborador):** Mantenha todas as partes interessadas em um thread de projeto, conectando revisões, aprovações e saídas de agentes ao trabalho, desde o resumo até o lançamento.
 
 ## Escolha uma experiência
 

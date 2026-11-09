@@ -5,8 +5,8 @@ user-guide-description: Saiba mais sobre o Adobe CX Enterprise Coworker, um comp
 description: Saiba mais sobre as ferramentas de IA no CX Enterprise. Melhore o conhecimento do seu produto e obtenha insights operacionais usando IA no CX Enterprise.
 solution: Coworker
 role: Admin,User,Developer,Leader
-nudge: true
-source-git-commit: 8d80e55f4a2bdda11c5e9f3a97b6fe99c03b9b64
+auto-video-transcripts: true
+source-git-commit: 3c5387c838bedf96b9f3a3c826b39b6f3414c229
 workflow-type: tm+mt
 source-wordcount: '364'
 ht-degree: 13%
