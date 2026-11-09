@@ -56,4 +56,4 @@ Os seguintes aplicativos da CX Enterprise são compatíveis com o Chat do colabo
 
 ## Visão geral do vídeo
 
->[!VIDEO](https://video.tv.adobe.com/v/3495967?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3495971?captions=por_br&learn=on){transcript=true}
