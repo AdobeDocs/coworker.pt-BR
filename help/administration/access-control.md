@@ -8,9 +8,9 @@ jira: KT-22980
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: Coworker
-source-git-commit: 96c54754b978ac1be0fc5bb0741e9ed073017953
+source-git-commit: 11db1488d950f39ccb8c8019f644e54e1f3b8fa6
 workflow-type: tm+mt
-source-wordcount: '519'
+source-wordcount: '522'
 ht-degree: 0%
 ---
 # Controle de acesso para colaborador {#access-control}
@@ -19,7 +19,7 @@ Use o controle de acesso do Adobe CX Enterprise Coworker para gerenciar quem pod
 
 >[!NOTE]
 >
->Sua organização deve estar habilitada para que o Colaborador use esse recurso. Para obter mais informações, consulte a [Visão geral do Chat do Colaborador](https://experienceleague.adobe.com/pt-br/docs/coworker/content/chat/overview).
+>Sua organização deve estar habilitada para que o Colaborador use esse recurso. Para obter mais informações, consulte a [Visão geral do Chat do Colaborador](https://experienceleague.adobe.com/en/docs/coworker/content/chat/overview).
 
 ## Como o acesso é determinado {#how-access-is-determined}
 
@@ -34,11 +34,11 @@ O acesso do colaborador é controlado por uma configuração em toda a organiza�
 
 ## Adicionar Administradores de colegas {#add-coworker-admins}
 
-Um Administrador de parceiro é um usuário com a função de **[!UICONTROL Administrador de produto]** atribuída a [!DNL Adobe Experience Platform] em [!DNL Adobe Admin Console].
+Um Administrador de parceiro é um usuário ao qual foi atribuído o **[!UICONTROL Administrador do produto]** ou o **[!UICONTROL Administrador do sistema]** para [!DNL Adobe Experience Platform] em [!DNL Adobe Admin Console].
 
 Use este vídeo para saber como adicionar administradores de colegas.
 
->[!VIDEO](https://video.tv.adobe.com/v/3507045?captions=por_br&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3507041?learn=on){transcript=true}
 
 ## Gerenciar acesso do usuário {#manage-user-access}
 
@@ -55,7 +55,7 @@ Use este vídeo para saber como adicionar administradores de colegas.
 
    Use este vídeo para saber como gerenciar usuários do Colaborador.
 
-   >[!VIDEO](https://video.tv.adobe.com/v/3507155?captions=por_br&learn=on){transcript=true}
+   >[!VIDEO](https://video.tv.adobe.com/v/3507151?learn=on){transcript=true}
 
 4. No Colaborador, use **[!UICONTROL Usuários]** para gerenciar o acesso de indivíduos ou **[!UICONTROL Grupos de usuários]** para gerenciar o acesso do Colaborador para grupos de usuários. Uma configuração de grupo de usuários se aplica a seus membros.
 
