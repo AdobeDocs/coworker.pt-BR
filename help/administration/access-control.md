@@ -8,9 +8,9 @@ jira: KT-22980
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: Coworker
-source-git-commit: 11db1488d950f39ccb8c8019f644e54e1f3b8fa6
+source-git-commit: 61a0368cd6119139cce74c9e374257e99809ea00
 workflow-type: tm+mt
-source-wordcount: '522'
+source-wordcount: '534'
 ht-degree: 0%
 ---
 # Controle de acesso para colaborador {#access-control}
@@ -19,7 +19,7 @@ Use o controle de acesso do Adobe CX Enterprise Coworker para gerenciar quem pod
 
 >[!NOTE]
 >
->Sua organização deve estar habilitada para que o Colaborador use esse recurso. Para obter mais informações, consulte a [Visão geral do Chat do Colaborador](https://experienceleague.adobe.com/pt-br/docs/coworker/content/chat/overview).
+>Sua organização deve estar habilitada para que o Colaborador use esse recurso. O controle de acesso ficará disponível progressivamente e poderá não ser ativado para todas as organizações colaboradoras no lançamento.Para obter mais informações, consulte a [Visão geral do Chat do Colaborador](https://experienceleague.adobe.com/en/docs/coworker/content/chat/overview).
 
 ## Como o acesso é determinado {#how-access-is-determined}
 
@@ -32,13 +32,9 @@ O acesso do colaborador é controlado por uma configuração em toda a organiza�
 | Permissões de aplicativo compatíveis | Os controles de acesso do colaborador determinam se você pode acessar qualquer recurso geralmente disponível do colaborador. O Coworker herda suas permissões de usuário de aplicativos compatíveis com o Coworker e respeita as permissões que cada aplicativo já impõe. |
 
 
-## Adicionar Administradores de colegas {#add-coworker-admins}
+## Administradores de colegas de trabalho {#add-coworker-admins}
 
-Um Administrador de parceiro é um usuário ao qual foi atribuído o **[!UICONTROL Administrador do produto]** ou o **[!UICONTROL Administrador do sistema]** para [!DNL Adobe Experience Platform] em [!DNL Adobe Admin Console].
-
-Use este vídeo para saber como adicionar administradores de colegas.
-
->[!VIDEO](https://video.tv.adobe.com/v/3507045?captions=por_br&learn=on){transcript=true}
+Um Colaborador administrador é um usuário atribuído como **[!UICONTROL Administrador do Sistema]** para a organização ou como **[!UICONTROL Administrador do Produto]** de [!DNL Adobe Experience Platform] em [!DNL Adobe Admin Console].
 
 ## Gerenciar acesso do usuário {#manage-user-access}
 
@@ -55,7 +51,7 @@ Use este vídeo para saber como adicionar administradores de colegas.
 
    Use este vídeo para saber como gerenciar usuários do Colaborador.
 
-   >[!VIDEO](https://video.tv.adobe.com/v/3507155?captions=por_br&learn=on){transcript=true}
+   >[!VIDEO](https://video.tv.adobe.com/v/3507151?learn=on){transcript=true}
 
 4. No Colaborador, use **[!UICONTROL Usuários]** para gerenciar o acesso de indivíduos ou **[!UICONTROL Grupos de usuários]** para gerenciar o acesso do Colaborador para grupos de usuários. Uma configuração de grupo de usuários se aplica a seus membros.
 
