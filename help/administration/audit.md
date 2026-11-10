@@ -8,9 +8,9 @@ jira: KT-23097
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: Coworker
-source-git-commit: 9a02e6d68364af452b69da12bbbe0028eaeeb4cf
+source-git-commit: d9dae093a2a6366154366a9da320f07a891114f2
 workflow-type: tm+mt
-source-wordcount: '97'
+source-wordcount: '89'
 ht-degree: 0%
 ---
 # Auditoria de Eventos de Colaborador {#audit}
@@ -19,7 +19,7 @@ Saiba como auditar eventos no Adobe CX Enterprise Coworker. A auditoria fornece 
 
 >[!NOTE]
 >
->Sua organização deve estar habilitada para que o Colaborador use esse recurso. A auditoria se tornará disponível progressivamente e pode não ser ativada para todas as organizações colaboradoras no lançamento. Para obter mais informações, consulte a [Visão geral do Chat do Colaborador](https://experienceleague.adobe.com/pt-br/docs/coworker/content/chat/overview).
+>Sua organização deve estar habilitada para que o Colaborador use esse recurso. A auditoria se tornará disponível progressivamente e pode não ser ativada para todas as organizações colaboradoras no lançamento. Para obter mais informações, consulte [Obter ajuda com acesso](/help/administration/access-control.md#get-help-with-access).
 
 
->[!VIDEO](https://video.tv.adobe.com/v/3507045?captions=por_br&learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3508096?captions=por_br&learn=on){transcript=true}
