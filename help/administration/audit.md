@@ -22,4 +22,4 @@ Saiba como auditar eventos no Adobe CX Enterprise Coworker. A auditoria fornece 
 >Sua organização deve estar habilitada para que o Colaborador use esse recurso. A auditoria se tornará disponível progressivamente e pode não ser ativada para todas as organizações colaboradoras no lançamento. Para obter mais informações, consulte [Obter ajuda com acesso](/help/administration/access-control.md#get-help-with-access).
 
 
->[!VIDEO](https://video.tv.adobe.com/v/3508073?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3508096?captions=por_br&learn=on){transcript=true}
