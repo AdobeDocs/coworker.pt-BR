@@ -19,7 +19,7 @@ Use o controle de acesso do Adobe CX Enterprise Coworker para gerenciar quem pod
 
 >[!NOTE]
 >
->Sua organização deve estar habilitada para que o Colaborador use esse recurso. O controle de acesso ficará disponível progressivamente e poderá não ser ativado para todas as organizações colaboradoras no lançamento. Para obter mais informações, consulte a [Visão geral do Chat do Colaborador](https://experienceleague.adobe.com/en/docs/coworker/content/chat/overview).
+>Sua organização deve estar habilitada para que o Colaborador use esse recurso. O controle de acesso ficará disponível progressivamente e poderá não ser ativado para todas as organizações colaboradoras no lançamento. Para obter mais informações, consulte a [Visão geral do Chat do Colaborador](https://experienceleague.adobe.com/pt-br/docs/coworker/content/chat/overview).
 
 ## Como o acesso é determinado {#how-access-is-determined}
 
