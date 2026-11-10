@@ -51,7 +51,7 @@ Um Colaborador administrador é um usuário atribuído como **[!UICONTROL Admini
 
    Use este vídeo para saber como gerenciar usuários do Colaborador.
 
-   >[!VIDEO](https://video.tv.adobe.com/v/3507151?learn=on){transcript=true}
+   >[!VIDEO](https://video.tv.adobe.com/v/3507155?captions=por_br&learn=on){transcript=true}
 
 4. No Colaborador, use **[!UICONTROL Usuários]** para gerenciar o acesso de indivíduos ou **[!UICONTROL Grupos de usuários]** para gerenciar o acesso do Colaborador para grupos de usuários. Uma configuração de grupo de usuários se aplica a seus membros.
 
