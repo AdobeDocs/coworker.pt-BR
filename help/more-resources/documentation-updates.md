@@ -4,9 +4,9 @@ description: Consulte os artigos e vídeos novos e atualizados na documentação
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: Coworker
-source-git-commit: 52a5bd4f877300cb0ee6b7acbb7d0d0e4fddd3db
+source-git-commit: b2a8aa48302c80efa48416dede5f5d66005b8e7c
 workflow-type: tm+mt
-source-wordcount: '402'
+source-wordcount: '419'
 ht-degree: 0%
 ---
 # Atualizações na documentação {#documentation-updates}
@@ -17,7 +17,7 @@ Use esta página para encontrar conteúdo novo e substancialmente atualizado na 
 
 **10 de novembro de 2026**
 
-* Atualizado: [Introdução ao Chat do Colaborador](../chat/ui-guide.md). A tabela de disponibilidade agora lista o Customer Journey Analytics B2B edition, o Content Analytics e o Marketing Campaign Analytics. O Bate-papo com colegas de trabalho está disponível nas experiências imersiva e no produto para todos os três.
+* Atualizado: [Introdução ao Chat do Colaborador](../chat/ui-guide.md). A tabela de disponibilidade agora lista o Customer Journey Analytics B2B edition, o Content Analytics e o Marketing Campaign Analytics. A experiência de imersão está disponível para os três. A experiência no produto está disponível no Customer Journey Analytics B2B edition e no Content Analytics e será adicionada em breve ao Marketing Campaign Analytics.
 
 **4 de novembro de 2026**
 
