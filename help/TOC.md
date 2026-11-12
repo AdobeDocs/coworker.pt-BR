@@ -6,9 +6,9 @@ description: Saiba mais sobre as ferramentas de IA no CX Enterprise. Melhore o c
 solution: Coworker
 role: Admin,User,Developer,Leader
 auto-video-transcripts: true
-source-git-commit: 5377963a32db6b195349a198c4158ffb99eaeeec
+source-git-commit: bafd318fee6017f992d4feab453058b5332005ce
 workflow-type: tm+mt
-source-wordcount: '367'
+source-wordcount: '373'
 ht-degree: 13%
 ---
 
@@ -57,6 +57,7 @@ ht-degree: 13%
       - [Gerenciar retenção de data lake](./chat/use-cases/data-management/manage-data-lake-retention.md)
     - Públicos-alvo {#audiences}
       - [Avalie a integridade da plataforma e crie públicos-alvo](./chat/use-cases/audiences/create-audience-from-natural-language.md)
+      - [Da ideia para o público-alvo pronto para ativação](./chat/use-cases/audiences/from-idea-to-activation-ready-audience-with-coworker.md)
       - [Por que meu público-alvo teve um pico/queda?](./chat/use-cases/audiences/why-your-audience-size-changed.md)
     - Jornadas {#journeys}
       - [Criar uma jornada usando linguagem natural](./chat/use-cases/journeys/create-journey-from-natural-language.md)
