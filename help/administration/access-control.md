@@ -59,7 +59,7 @@ Use o [!UICONTROL Controle de acesso] no Colaborador para gerenciar o acesso de 
 
    Use este vídeo para saber como gerenciar usuários do Colaborador.
 
-   >[!VIDEO](https://video.tv.adobe.com/v/3507151?learn=on){transcript=true}
+   >[!VIDEO](https://video.tv.adobe.com/v/3507155?captions=por_br&learn=on){transcript=true}
 
 1. Selecione **[!UICONTROL Usuários]** para gerenciar o acesso individual ou **[!UICONTROL Grupos de usuários]** para gerenciar o acesso do grupo. Uma configuração de grupo de usuários se aplica a seus membros.
 
