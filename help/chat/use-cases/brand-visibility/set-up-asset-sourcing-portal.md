@@ -20,4 +20,4 @@ ht-degree: 0%
 
 Saiba como configurar o Portal de origem de ativos da Adobe para o AEM Assets com o Colaborador e fornecer aos fornecedores acesso ao portal com escopo. Mapeie campos de metadados personalizados no Adobe Experience Manager Assets e sincronize metadados automaticamente ao assimilar ativos.
 
->[!VIDEO](https://video.tv.adobe.com/v/3508276/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3508280/?captions=por_br&learn=on&enablevpops)
