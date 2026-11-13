@@ -4,9 +4,9 @@ title: Fluxos de Trabalho de Chat de Colaborador
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: Coworker
-source-git-commit: 0d2b1c7e146114fac57a894ce1b61727456d263f
+source-git-commit: e8010a31192b717a762510d189f3a8a344b3e2fe
 workflow-type: tm+mt
-source-wordcount: '9190'
+source-wordcount: '9318'
 ht-degree: 6%
 ---
 # Fluxos de trabalho de chat do colaborador {#use-cases}
@@ -212,6 +212,18 @@ O Chat do Colaborador permite consultar, analisar e agir nos dados do [!DNL Expe
 **Informações relacionadas**
 
 * [Colaborador na Decisão](https://experienceleague.adobe.com/pt-br/docs/journey-optimizer/using/decisioning/experience-decisioning/experience-decisioning-coworker-skills){target="_blank"} fornece orientação detalhada, casos de uso e práticas recomendadas de solicitação para as habilidades de Decisão no Adobe Journey Optimizer.
+
+## Gerenciador de processos
+
+>[!AVAILABILITY]
+>
+>O Gerenciador de Processos está em **beta**. Para saber mais sobre o Process Manager, leia a [Visão geral do Process Manager](https://experienceleague.adobe.com/pt-br/docs/experience-platform/process-manager/home).
+
+| Fluxo de trabalho | Descrição | Habilidades | Aplicativo | Exemplos de Prompts |
+| --- | --- | --- | --- | --- |
+| Construtor do Process Manager | Projete, crie, atualize, renomeie e exclua processos no Process Manager. Listar os tipos de tarefa disponíveis para o Gerenciador de Processos. | `process-manager-builder` | Gerenciador de processos | &quot;Lista todos os processos disponíveis para uso no Process Manager.&quot; |
+| Operador de execução do Gerenciador de processos | Inicie uma execução, verifique o status e o histórico das execuções, descubra por que uma execução falhou, execute novamente uma execução existente, cancele uma execução em andamento. | `process-manager-run-operator` | Gerenciador de processos | &quot;Verifique o histórico de execuções no Processo de amostra.&quot; |
+| Programador do Process Manager | Criar, alterar, pausar, retomar, listar e remover programações do Process Manager | `process-manager-scheduler` | Gerenciador de processos | &quot;Listar as programações para o Processo de Amostra.&quot; |
 
 ## Canais
 
