@@ -6,9 +6,9 @@ description: Saiba mais sobre as ferramentas de IA no CX Enterprise. Melhore o c
 solution: Coworker
 role: Admin,User,Developer,Leader
 auto-video-transcripts: true
-source-git-commit: bafd318fee6017f992d4feab453058b5332005ce
+source-git-commit: 3a1fbd2a3ed69c47fd4450c0c1e07bb7398f2dbe
 workflow-type: tm+mt
-source-wordcount: '373'
+source-wordcount: '380'
 ht-degree: 13%
 ---
 
@@ -82,6 +82,7 @@ ht-degree: 13%
       - [Verificação de conformidade da marca](./chat/use-cases/brand-visibility/brand-compliance.md)
       - [Páginas do AEM Sites do autor](./chat/use-cases/brand-visibility/author-web-pages.md)
       - [AEM Assets integrado](./chat/use-cases/brand-visibility/onboard-aem-assets.md)
+      - [Criar um portal de origem de ativos com o colega de trabalho](./chat/use-cases/brand-visibility/set-up-asset-sourcing-portal.md)
       - [Gerar ativos de marketing](./chat/use-cases/brand-visibility/generate-assets.md)
     - Fluxo de trabalho e planejamento {#workflow-and-planning}
       - [Planejar o lançamento de uma campanha digital](./chat/use-cases/workflow-and-planning/plan-digital-campaign-launch.md)
