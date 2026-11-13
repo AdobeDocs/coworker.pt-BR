@@ -8,9 +8,9 @@ jira: KT-22980
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: Coworker
-source-git-commit: ef8141ff251a2900b9f10b77942e1c9097cba59f
+source-git-commit: d3438a28430c6c845cea881e28ab8e22a636edbb
 workflow-type: tm+mt
-source-wordcount: '562'
+source-wordcount: '571'
 ht-degree: 0%
 ---
 # Controle de acesso para colaborador {#access-control}
@@ -25,7 +25,7 @@ O controle de acesso se aplica ao colaborador no painel direito e na experiênci
 
 ## Como o acesso é determinado {#how-access-is-determined}
 
-O acesso do colaborador é controlado por uma configuração em toda a organização e substituições opcionais de usuários ou grupos. A configuração em toda a organização habilita ou desabilita o acesso de colaborador para os usuários em sua organização. O acesso é ativado para todos por padrão.
+O acesso do colaborador é controlado por uma configuração em toda a organização e substituições opcionais de usuários ou grupos. A configuração em toda a organização habilita ou desabilita o acesso de colaborador para os usuários em sua organização. O acesso pode ser ativado ou desativado por padrão para sua organização.
 
 | Configuração | Como isso afeta o acesso |
 | --- | --- |
@@ -59,13 +59,13 @@ Use o [!UICONTROL Controle de acesso] no Colaborador para gerenciar o acesso de 
 
    Use este vídeo para saber como gerenciar usuários do Colaborador.
 
-   >[!VIDEO](https://video.tv.adobe.com/v/3507155?captions=por_br&learn=on){transcript=true}
+   >[!VIDEO](https://video.tv.adobe.com/v/3507151?learn=on){transcript=true}
 
 1. Selecione **[!UICONTROL Usuários]** para gerenciar o acesso individual ou **[!UICONTROL Grupos de usuários]** para gerenciar o acesso do grupo. Uma configuração de grupo de usuários se aplica a seus membros.
 
    Os grupos de usuários de colegas de trabalho são separados de [!DNL Adobe Admin Console] grupos. A sincronização de grupos de usuários de [!DNL Adobe Admin Console] com o Colaborador será adicionada em breve.
 
-   A lista Usuários inclui usuários em sua organização. O acesso de colaborador é ativado para esses usuários por padrão.
+   A lista Usuários inclui usuários em sua organização. O acesso depende da configuração padrão da organização e de qualquer substituição de usuário ou grupo.
 
    * **Habilitado:** O usuário ou grupo de usuários está ativo.
    * **Desabilitado:** O usuário ou grupo de usuários está inativo.
