@@ -25,4 +25,4 @@ ht-degree: 0%
 
 Saiba como usar o Coworker para transformar uma solicitação em linguagem simples em um público-alvo de marketing direcionado. Responda a perguntas esclarecedoras para refinar seu público-alvo e peça ao Colaborador para criá-lo diretamente na plataforma, pronto para ativação entre destinos.
 
->[!VIDEO](https://video.tv.adobe.com/v/3508216/?learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3508220/?captions=por_br&learn=on&enablevpops)
