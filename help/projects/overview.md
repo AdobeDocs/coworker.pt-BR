@@ -82,6 +82,6 @@ Use Projetos de colaborador para coordenar workflows em torno de suas metas come
 
 Saiba mais sobre Projetos de colaborador neste vídeo.
 
->[!VIDEO](https://video.tv.adobe.com/v/3508234?learn=on){transcript=true}
+>[!VIDEO](https://video.tv.adobe.com/v/3508239?captions=por_br&learn=on){transcript=true}
 
 
