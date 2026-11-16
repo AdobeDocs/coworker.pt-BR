@@ -4,10 +4,10 @@ title: Visão geral do Adobe CX Enterprise Coworker Chat
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: Coworker
-source-git-commit: 4d1a45924304a21da9f23287c307e7616bb86219
+source-git-commit: f2c2de80ebe4026b736463626ee8122ac88bd5c5
 workflow-type: tm+mt
-source-wordcount: '546'
-ht-degree: 8%
+source-wordcount: '515'
+ht-degree: 9%
 ---
 # Sobre o Bate-papo de Colaborador {#overview}
 
@@ -23,7 +23,7 @@ Para começar, consulte [Introdução ao Chat do Colaborador](ui-guide.md).
 
 >[!NOTE]
 >
->O Bate-papo com colegas de trabalho é um módulo do Adobe CX Enterprise Coworker. Dois outros módulos estendem a mesma base: o Colaborador para equipes (se posicionar e iniciar uma campanha completa a partir de uma conversa) e os Projetos do Colaborador (um espaço de trabalho sempre ativo para fluxos de trabalho completos de várias equipes). Esta página aborda o Bate-papo do Colaborador.
+>O Chat do Colaborador e os [Projetos do Colaborador](/help/projects/overview.md) são módulos do Adobe CX Enterprise Coworker. Esta página aborda o Bate-papo do Colaborador.
 
 ## Uma evolução do Assistente de IA
 
@@ -44,7 +44,10 @@ Os seguintes aplicativos da CX Enterprise são compatíveis com o Chat do colabo
 
 * Real-Time CDP B2C Edition
 * Adobe Journey Optimizer B2C Edition
-* Customer Journey Analytics B2C Edition
+* Customer Journey Analytics
+* Customer Journey Analytics B2B edition
+* Content Analytics
+* Marketing Campaign Analytics
 * Adobe Analytics
 * Adobe Target
 * AEM
@@ -52,7 +55,6 @@ Os seguintes aplicativos da CX Enterprise são compatíveis com o Chat do colabo
 * Marketo Engage
 * _Real-Time CDP B2B edition (em breve)_
 * _Adobe Journey Optimizer B2B Edition (em breve)_
-* _Customer Journey Analytics B2B edition (em breve)_
 
 ## Visão geral do vídeo
 
