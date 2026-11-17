@@ -4,10 +4,10 @@ description: Consulte os artigos e vídeos novos e atualizados na documentação
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: Coworker
-source-git-commit: b2a8aa48302c80efa48416dede5f5d66005b8e7c
+source-git-commit: c29ae8ac2b69dd3d5e52529875a9224cb697ebee
 workflow-type: tm+mt
-source-wordcount: '419'
-ht-degree: 0%
+source-wordcount: '539'
+ht-degree: 1%
 ---
 # Atualizações na documentação {#documentation-updates}
 
@@ -15,8 +15,27 @@ Use esta página para encontrar conteúdo novo e substancialmente atualizado na 
 
 ## Novembro de 2026 {#nov-2026}
 
+**16 de novembro de 2026**
+
+* Novo: [Sobre Projetos De Colaborador](../projects/overview.md). A disponibilidade dos Projetos de Colaborador é limitada.
+* Atualizado: [Sobre Chat De Colaborador](../chat/overview.md). A lista de aplicativos compatíveis agora inclui Customer Journey Analytics B2B edition, Content Analytics e Marketing Campaign Analytics. O artigo também vincula aos Projetos de Colaboradores.
+
+**13 de novembro de 2026**
+
+* Novo: [Criar um Portal de Origem de Ativos com o Colaborador](../chat/use-cases/brand-visibility/set-up-asset-sourcing-portal.md)
+* Atualizado: [Controle de acesso para Colaborador](../administration/access-control.md). O artigo agora define o limite para ações em massa (até 100 usuários ou grupos de usuários) e esclarece as configurações padrão de acesso do colaborador.
+
+**12 de novembro de 2026**
+
+* Atualizado: [Fluxos de trabalho de Chat de Colaborador](../chat/use-cases/workflows.md). O artigo agora lista as habilidades do Process Manager para criar, executar e programar processos. O Process Manager está na versão beta.
+
+**11 de novembro de 2026**
+
+* Novo: [De ideia para público pronto para ativação](../chat/use-cases/audiences/from-idea-to-activation-ready-audience-with-coworker.md)
+
 **10 de novembro de 2026**
 
+* Novo: [Auditoria de eventos de colegas](../administration/audit.md)
 * Atualizado: [Introdução ao Chat do Colaborador](../chat/ui-guide.md). A tabela de disponibilidade agora lista o Customer Journey Analytics B2B edition, o Content Analytics e o Marketing Campaign Analytics. A experiência de imersão está disponível para os três. A experiência no produto está disponível no Customer Journey Analytics B2B edition e no Content Analytics e será adicionada em breve ao Marketing Campaign Analytics.
 
 **4 de novembro de 2026**
