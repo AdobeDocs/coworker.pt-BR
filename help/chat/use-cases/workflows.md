@@ -4,9 +4,9 @@ title: Fluxos de Trabalho de Chat de Colaborador
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: Coworker
-source-git-commit: 195ec9f05a901294bbd3631ef91435e58f016cd0
+source-git-commit: 0089deb08fffb7ff7318d3b8ad0d89d465999793
 workflow-type: tm+mt
-source-wordcount: '9326'
+source-wordcount: '9483'
 ht-degree: 6%
 ---
 # Fluxos de trabalho de chat do colaborador {#use-cases}
@@ -205,13 +205,16 @@ O Chat do Colaborador permite consultar, analisar e agir nos dados do [!DNL Expe
 
 ## Tomada de decisão
 
+Use o Bate-papo com colegas de trabalho para gerenciar objetos de Decisão no Adobe Journey Optimizer: crie e mantenha regras de elegibilidade, fórmulas de classificação, expressões de limite de frequência e itens de decisão de prompts em linguagem natural.
+
 | Fluxo de trabalho | Descrição | Habilidades | Aplicativo | Exemplos de Prompts |
 | --- | --- | --- | --- | --- |
-| [Gerar, explicar, simular e otimizar regras de decisão](https://experienceleague.adobe.com/pt-br/docs/journey-optimizer/using/decisioning/experience-decisioning/experience-decisioning-coworker-skills#rules-ranking){target="_blank"} | Use a linguagem natural para criar regras de elegibilidade e fórmulas de classificação e obter uma explicação em inglês simples. <br> Teste-os com até três perfis. <br> Reescreva-os para se ajustarem aos limites de tamanho do PQL, sem escrever a sintaxe do PQL manualmente. | Fluxo de trabalho da regra de decisão | Adobe Journey Optimizer (AJO) | &quot;Crie uma regra de elegibilidade direcionada a membros de fidelidade na camada 2 ou superior.&quot;<br><br>&quot;Explique essa regra para mim em linguagem natural.&quot;<br><br>&quot;Simule essa regra com perfis de teste.&quot;<br><br>&quot;Otimize essa regra do PQL para mim.&quot; |
+| [Criar, gerenciar, simular e otimizar regras de decisão](https://experienceleague.adobe.com/pt-br/docs/journey-optimizer/using/decisioning/experience-decisioning/experience-decisioning-coworker-skills#rules-ranking){target="_blank"} | Use a linguagem natural para criar, localizar, corrigir e excluir regras de elegibilidade, fórmulas de classificação e expressões de limite de frequência de item de oferta e obter uma explicação em inglês simples. <br> Valide e teste-os em até três perfis. <br> Reescreva-os para se ajustarem aos limites de tamanho do PQL, sem escrever a sintaxe do PQL manualmente. | Fluxo de trabalho da regra de decisão | Adobe Journey Optimizer (AJO) | &quot;Crie uma regra de elegibilidade direcionada a membros de fidelidade na camada 2 ou superior.&quot;<br><br>&quot;Explique essa regra para mim em linguagem natural.&quot;<br><br>&quot;Simule essa regra com perfis de teste.&quot;<br><br>&quot;Otimize essa regra do PQL para mim.&quot;<br><br>&quot;Liste fórmulas de classificação.&quot;<br><br>&quot;Crie uma regra de limitação que conte eventos de clique.&quot; |
+| [Criar e gerenciar itens de decisão](https://experienceleague.adobe.com/pt-br/docs/journey-optimizer/using/decisioning/experience-decisioning/experience-decisioning-coworker-skills#decisioning-offer-item-workflow){target="_blank"} | Crie itens de decisão (ofertas) descrevendo-os no bate-papo, incluindo rótulos ou tags, qualificação, agendamentos, limite de frequência, fragmentos de conteúdo e atributos personalizados. <br> Atualizar, aprovar, cancelar a aprovação, arquivar ou excluir permanentemente os itens. <br> Criar ou atualizar vários itens de uma só vez a partir de um arquivo CSV ou de uma lista. | Fluxo de trabalho de itens de oferta de decisão | Adobe Journey Optimizer (AJO) | &quot;Crie uma oferta limitada a um posicionamento chamado drc.&quot;<br><br>&quot;Crie itens de decisão a partir deste arquivo CSV.&quot;<br><br>&quot;Aprove o item de Vendas de Verão.&quot;<br><br>&quot;Arquive esta oferta.&quot; |
 
 **Informações relacionadas**
 
-* [Colaborador na Decisão](https://experienceleague.adobe.com/pt-br/docs/journey-optimizer/using/decisioning/experience-decisioning/experience-decisioning-coworker-skills){target="_blank"} fornece orientação detalhada, casos de uso e práticas recomendadas de solicitação para as habilidades de Decisão no Adobe Journey Optimizer.
+* [Colaborador para Decisão](https://experienceleague.adobe.com/pt-br/docs/journey-optimizer/using/decisioning/experience-decisioning/experience-decisioning-coworker-skills){target="_blank"} fornece orientação detalhada, casos de uso e práticas recomendadas de solicitação para as habilidades de Fluxo de Trabalho da Regra de Decisão e Fluxo de Trabalho da Oferta de Decisão no Adobe Journey Optimizer.
 
 ## Gerenciador de processos
 
