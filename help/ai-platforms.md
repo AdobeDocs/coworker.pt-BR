@@ -25,7 +25,7 @@ Não há custo adicional para usar o Colaborador em plataformas de IA. Ele está
 Antes de usar o Coworker em uma plataforma de IA, confirme se você tem o seguinte.
 
 * O Adobe CX Enterprise Coworker foi provisionado para sua organização e seu próprio acesso a ele no Adobe.
-* Um dos aplicativos do [Adobe CX Enterprise](https://business.adobe.com/solutions/customer-experience-orchestration.html).
+* Um dos aplicativos do [Adobe CX Enterprise](https://business.adobe.com/br/solutions/customer-experience-orchestration.html).
 * Acesso a uma plataforma de IA listada em [Configurar Colaborador](#set-up-coworker).
 
 ## Acesso aos dados e permissões {#data-access-and-permissions}
