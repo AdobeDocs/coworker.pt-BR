@@ -8,9 +8,9 @@ jira: KT-22980
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: Coworker
-source-git-commit: d3438a28430c6c845cea881e28ab8e22a636edbb
+source-git-commit: 386a24a7a52efce2e36f8391b55fd044e4f44a71
 workflow-type: tm+mt
-source-wordcount: '571'
+source-wordcount: '622'
 ht-degree: 0%
 ---
 # Controle de acesso para colaborador {#access-control}
@@ -25,7 +25,7 @@ O controle de acesso se aplica ao colaborador no painel direito e na experiênci
 
 ## Como o acesso é determinado {#how-access-is-determined}
 
-O acesso do colaborador é controlado por uma configuração em toda a organização e substituições opcionais de usuários ou grupos. A configuração em toda a organização habilita ou desabilita o acesso de colaborador para os usuários em sua organização. O acesso pode ser ativado ou desativado por padrão para sua organização.
+Como administrador de Colaborador, use o [!UICONTROL Definir acesso padrão] para ativar ou desativar o acesso de Colaborador para toda a organização. Você também pode configurar sobreposições de acesso para usuários ou grupos de usuários específicos. O acesso pode ser ativado ou desativado por padrão para sua organização.
 
 | Configuração | Como isso afeta o acesso |
 | --- | --- |
@@ -59,7 +59,14 @@ Use o [!UICONTROL Controle de acesso] no Colaborador para gerenciar o acesso de 
 
    Use este vídeo para saber como gerenciar usuários do Colaborador.
 
-   >[!VIDEO](https://video.tv.adobe.com/v/3507155?captions=por_br&learn=on){transcript=true}
+   >[!VIDEO](https://video.tv.adobe.com/v/3507151?learn=on){transcript=true}
+
+1. Em **[!UICONTROL Definir acesso padrão]**, ative ou desative o acesso para sua organização:
+
+   * **Ligado:** Habilite o acesso de colaborador para todos na organização, sujeito a substituições de usuário ou grupo.
+   * **Desativado:** desative o acesso de colaborador para todos na organização, a menos que você permita substituições de usuários ou grupos.
+
+   Para conceder acesso a usuários ou grupos específicos enquanto o acesso da organização estiver desativado, ative **[!UICONTROL Permitir substituições]**. Selecione **[!UICONTROL Adicionar substituição]** para adicionar os usuários ou grupos que devem ter acesso.
 
 1. Selecione **[!UICONTROL Usuários]** para gerenciar o acesso individual ou **[!UICONTROL Grupos de usuários]** para gerenciar o acesso do grupo. Uma configuração de grupo de usuários se aplica a seus membros.
 
@@ -69,8 +76,6 @@ Use o [!UICONTROL Controle de acesso] no Colaborador para gerenciar o acesso de 
 
    * **Habilitado:** O usuário ou grupo de usuários está ativo.
    * **Desabilitado:** O usuário ou grupo de usuários está inativo.
-
-   Quando o acesso para todos estiver desabilitado, ative **[!UICONTROL Permitir substituições]** e selecione **[!UICONTROL Adicionar substituição]** para adicionar usuários ou grupos que ainda devem ter acesso.
 
 ## Permissões em aplicativos do CX Enterprise compatíveis com colegas de trabalho {#permissions-in-compatible-applications}
 
