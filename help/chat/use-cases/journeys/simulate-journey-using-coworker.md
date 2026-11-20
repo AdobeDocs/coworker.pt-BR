@@ -34,6 +34,6 @@ Use o Colaborador para simular uma jornada do Adobe Journey Optimizer com perfis
 
 ## Consulte também
 
-- [Colaborador para jornada: simulação de Jornada](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/orchestrate-journeys/journeys-coworker-skills#journey-simulation){target="_blank"}, com casos de uso importantes e limitações de simulação de jornadas com Colaborador.
-- [Habilidades de colega de trabalho para o Journey Optimizer](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/get-started/ai-features#cx-coworker-skills){target="_blank"}, uma visão geral das habilidades de colega de trabalho no Journey Optimizer.
+- [Colaborador para jornada: simulação de Jornada](https://experienceleague.adobe.com/pt-br/docs/journey-optimizer/using/orchestrate-journeys/journeys-coworker-skills#journey-simulation){target="_blank"}, com casos de uso importantes e limitações de simulação de jornadas com Colaborador.
+- [Habilidades de colega de trabalho para o Journey Optimizer](https://experienceleague.adobe.com/pt-br/docs/journey-optimizer/using/get-started/ai-features#cx-coworker-skills){target="_blank"}, uma visão geral das habilidades de colega de trabalho no Journey Optimizer.
 - [Mais fluxos de trabalho de chat do colega de trabalho](../workflows.md#journeys)

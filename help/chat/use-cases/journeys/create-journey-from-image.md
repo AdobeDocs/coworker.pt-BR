@@ -37,6 +37,6 @@ Faça upload de uma imagem de fluxograma, como um slide do PowerPoint, no CX Ent
 
 ## Consulte também
 
-- [Colaborador para jornadas: Criar Jornada](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/orchestrate-journeys/journeys-coworker-skills#journey-create){target="_blank"}, com casos de uso importantes, práticas recomendadas de solicitação e habilidades fora do escopo para criar jornadas no Adobe Journey Optimizer.
-- [Habilidades de colega de trabalho para o Journey Optimizer](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/get-started/ai-features#cx-coworker-skills){target="_blank"}, uma visão geral das habilidades de colega de trabalho no Journey Optimizer.
+- [Colaborador para jornadas: Criar Jornada](https://experienceleague.adobe.com/pt-br/docs/journey-optimizer/using/orchestrate-journeys/journeys-coworker-skills#journey-create){target="_blank"}, com casos de uso importantes, práticas recomendadas de solicitação e habilidades fora do escopo para criar jornadas no Adobe Journey Optimizer.
+- [Habilidades de colega de trabalho para o Journey Optimizer](https://experienceleague.adobe.com/pt-br/docs/journey-optimizer/using/get-started/ai-features#cx-coworker-skills){target="_blank"}, uma visão geral das habilidades de colega de trabalho no Journey Optimizer.
 - [Mais fluxos de trabalho de chat do colega de trabalho](../workflows.md#journeys)

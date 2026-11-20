@@ -27,7 +27,7 @@ Descreva a jornada que você deseja criar e o Colaborador a rascunha no Adobe Jo
 
 ## Consulte também
 
-- [Colaborador para jornadas: Criar Jornada](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/orchestrate-journeys/journeys-coworker-skills#journey-create){target="_blank"}, com casos de uso importantes, práticas recomendadas de solicitação e habilidades fora do escopo para criar jornadas no Adobe Journey Optimizer.
-- [Habilidades de colega de trabalho para o Journey Optimizer](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/get-started/ai-features#cx-coworker-skills){target="_blank"}, uma visão geral das habilidades de colega de trabalho no Journey Optimizer.
-- [Journey Agent](https://experienceleague.adobe.com/en/docs/cx-enterprise-ai/experience-cloud-ai/agents/ajo-agent#journey-create), o recurso de IA subjacente que habilita a criação de jornadas no Chat de Colaborador.
+- [Colaborador para jornadas: Criar Jornada](https://experienceleague.adobe.com/pt-br/docs/journey-optimizer/using/orchestrate-journeys/journeys-coworker-skills#journey-create){target="_blank"}, com casos de uso importantes, práticas recomendadas de solicitação e habilidades fora do escopo para criar jornadas no Adobe Journey Optimizer.
+- [Habilidades de colega de trabalho para o Journey Optimizer](https://experienceleague.adobe.com/pt-br/docs/journey-optimizer/using/get-started/ai-features#cx-coworker-skills){target="_blank"}, uma visão geral das habilidades de colega de trabalho no Journey Optimizer.
+- [Journey Agent](https://experienceleague.adobe.com/pt-br/docs/cx-enterprise-ai/experience-cloud-ai/agents/ajo-agent#journey-create), o recurso de IA subjacente que habilita a criação de jornadas no Chat de Colaborador.
 - [Mais fluxos de trabalho de chat do colega de trabalho](../workflows.md#journeys)
