@@ -23,14 +23,20 @@ topic_v2:
     internal-label: Artificial intelligence
   - id: da31900f-0b2e-4267-a5f8-69290b954752
     internal-label: Customer experience management
-source-git-commit: b5b8b4188aaa1c81c63a2b089c5dd12b408dbcda
+source-git-commit: cf3c531cc5daacec7b917cad472fe95b08f31b9a
 workflow-type: tm+mt
-source-wordcount: '71'
-ht-degree: 0%
+source-wordcount: '142'
+ht-degree: 5%
 ---
 
 # Criar uma jornada a partir de uma imagem
 
 Faça upload de uma imagem de fluxograma, como um slide do PowerPoint, no CX Enterprise Coworker. Neste vídeo, veja como revisar o prompt extraído da imagem, especificar o evento de acionador e salvar um rascunho de jornada editável no Adobe Journey Optimizer.
 
->[!VIDEO](https://video.tv.adobe.com/v/3504869/?captions=por_br&learn=on&enablevpops)
+>[!VIDEO](https://video.tv.adobe.com/v/3504865/?learn=on&enablevpops)
+
+## Consulte também
+
+- [Colaborador para jornadas: Criar Jornada](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/orchestrate-journeys/journeys-coworker-skills#journey-create){target="_blank"}, com casos de uso importantes, práticas recomendadas de solicitação e habilidades fora do escopo para criar jornadas no Adobe Journey Optimizer.
+- [Habilidades de colega de trabalho para o Journey Optimizer](https://experienceleague.adobe.com/en/docs/journey-optimizer/using/get-started/ai-features#cx-coworker-skills){target="_blank"}, uma visão geral das habilidades de colega de trabalho no Journey Optimizer.
+- [Mais fluxos de trabalho de chat do colega de trabalho](../workflows.md#journeys)
