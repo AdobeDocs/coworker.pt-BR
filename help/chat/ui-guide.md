@@ -5,9 +5,9 @@ jira: KT-22106
 product_v2:
   - id: fdae8433-07cd-42e7-acce-738afe63f6bb
     internal-label: Coworker
-source-git-commit: b2a8aa48302c80efa48416dede5f5d66005b8e7c
+source-git-commit: 1fd895142c5f222c3a5f47e30390d2cf9072fad1
 workflow-type: tm+mt
-source-wordcount: '2116'
+source-wordcount: '2131'
 ht-degree: 3%
 ---
 # Introdução ao Chat do Colaborador {#ui-guide}
@@ -24,6 +24,7 @@ A tabela a seguir mostra onde cada experiência está disponível.
 |---|---|---|
 | Real-Time CDP | Disponível agora | Em breve |
 | Adobe Journey Optimizer | Disponível agora | Em breve |
+| Adobe Journey Optimizer B2B Edition | Disponível agora | Em breve |
 | Customer Journey Analytics | Disponível agora | Disponível agora |
 | Customer Journey Analytics B2B edition | Disponível agora | Disponível agora |
 | Content Analytics | Disponível agora | Disponível agora |
@@ -33,12 +34,13 @@ A tabela a seguir mostra onde cada experiência está disponível.
 | Target | Disponível agora | Disponível agora |
 | AEM | Disponível agora | Disponível agora |
 | Marketo Engage | Disponível agora | Em breve |
+| Marketo Optimizer | Disponível agora | Disponível agora |
 
 ## Entrar no [!DNL Coworker] {#sign-in}
 
 Entre no [!DNL Coworker] usando suas credenciais da Adobe.
 
-1. [Entre](https://experienceleague.adobe.com/pt-br/docs/core-services/interface/experience-cloud#sign-in-to-cx-enterprise) no CX Enterprise usando sua Adobe ID.
+1. [Entre](https://experienceleague.adobe.com/en/docs/core-services/interface/experience-cloud#sign-in-to-cx-enterprise) no CX Enterprise usando sua Adobe ID.
 
    Depois de entrar, você pode abrir o [!DNL Coworker] no menu de aplicativos [!DNL CX Enterprise] ou por meio de um link direto:
 
@@ -50,7 +52,7 @@ Entre no [!DNL Coworker] usando suas credenciais da Adobe.
 
 ## Aprenda os conceitos básicos do Bate-papo com colegas de trabalho
 
->[!VIDEO](https://video.tv.adobe.com/v/3498571?captions=por_br&learn=on)
+>[!VIDEO](https://video.tv.adobe.com/v/3498558?learn=on)
 
 ## Especifique suas preferências de colega {#preferences}
 
@@ -61,7 +63,7 @@ Na parte inferior esquerda da interface, você pode especificar opções e prefe
 | Configuração/opção | Use-o para |
 | --- | --- |
 | Nome da conta e email | Confirme a conta da Adobe com a qual você está conectado. |
-| **[!UICONTROL Notificações]** (ícone de sino) | Exibir suas [notificações](https://experienceleague.adobe.com/pt-br/docs/core-services/interface/features/account-preferences#subscribe-to-notifications-in-experience-cloud). |
+| **[!UICONTROL Notificações]** (ícone de sino) | Exibir suas [notificações](https://experienceleague.adobe.com/en/docs/core-services/interface/features/account-preferences#subscribe-to-notifications-in-experience-cloud). |
 | **[!UICONTROL Tema]** | Alternar entre os temas Claro e Escuro. |
 | **[!UICONTROL Configurações do aplicativo]** | Exibir detalhes da conta e configurações do espaço de trabalho. |
 | **[!UICONTROL Preferências]** | Abra as [preferências](https://experienceleague.adobe.com/pt-br/docs/core-services/interface/features/account-preferences) da sua conta. A seta indica que a página abre fora do Co-worker. |
