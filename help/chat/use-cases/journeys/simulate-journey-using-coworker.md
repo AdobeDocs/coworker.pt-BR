@@ -20,10 +20,10 @@ level_v2:
     internal-label: Intermediate
   - id: e8ccd51f-da0d-4e3b-939b-e30d5ebb1ea5
     internal-label: Beginner
-source-git-commit: d7f1f470a99880d46f518b42f4e766066c6fa52e
+source-git-commit: cf3c531cc5daacec7b917cad472fe95b08f31b9a
 workflow-type: tm+mt
-source-wordcount: '70'
-ht-degree: 0%
+source-wordcount: '133'
+ht-degree: 1%
 ---
 
 # Simular uma jornada do Adobe Journey Optimizer usando o Colaborador
@@ -31,3 +31,9 @@ ht-degree: 0%
 Use o Colaborador para simular uma jornada do Adobe Journey Optimizer com perfis de teste e eventos gerados automaticamente. Neste vídeo, veja como testar caminhos de jornada, receber mensagens de prova e revisar a cobertura do caminho e os resultados da simulação antes de publicar.
 
 >[!VIDEO](https://video.tv.adobe.com/v/3507035?captions=por_br&learn=on)
+
+## Consulte também
+
+- [Colaborador para jornada: simulação de Jornada](https://experienceleague.adobe.com/pt-br/docs/journey-optimizer/using/orchestrate-journeys/journeys-coworker-skills#journey-simulation){target="_blank"}, com casos de uso importantes e limitações de simulação de jornadas com Colaborador.
+- [Habilidades de colega de trabalho para o Journey Optimizer](https://experienceleague.adobe.com/pt-br/docs/journey-optimizer/using/get-started/ai-features#cx-coworker-skills){target="_blank"}, uma visão geral das habilidades de colega de trabalho no Journey Optimizer.
+- [Mais fluxos de trabalho de chat do colega de trabalho](../workflows.md#journeys)

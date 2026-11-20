@@ -12,10 +12,10 @@ product_v2:
     internal-label: Coworker
   - id: cb954087-f4fc-4456-afb9-e939cabcdc79
     internal-label: Journey Optimizer
-source-git-commit: 195ec9f05a901294bbd3631ef91435e58f016cd0
+source-git-commit: 44d80cde607adc9f8c688f85489dba2b932f0fbe
 workflow-type: tm+mt
-source-wordcount: '162'
-ht-degree: 1%
+source-wordcount: '220'
+ht-degree: 0%
 ---
 
 # Adobe Journey Optimizer e Colaborador - crie um desafio de fidelidade e insights de superfície
@@ -32,4 +32,6 @@ Use prompts em linguagem simples para criar, configurar e iniciar desafios de fi
 
 - [Journey Agent](https://experienceleague.adobe.com/pt-br/docs/cx-enterprise-ai/experience-cloud-ai/agents/ajo-agent), para outros recursos de IA do AJO disponíveis por meio do Chat do Colaborador, como criação, análise e simulação de jornadas.
 - [Gerenciamento de Desafio de Fidelidade](https://experienceleague.adobe.com/pt-br/docs/journey-optimizer/using/loyalty-challenges/loyalty-coworker-skills#loyalty-challenge-management){target="_blank"} na documentação do Adobe Journey Optimizer.
-- [Mais fluxos de trabalho de chat do colega de trabalho](../workflows.md#journeys)
+- [Insights de fidelidade](https://experienceleague.adobe.com/pt-br/docs/journey-optimizer/using/loyalty-challenges/loyalty-coworker-skills#loyalty-data-insight){target="_blank"} na documentação do Adobe Journey Optimizer, para consultar pontos de fidelidade, camadas e métricas de receita.
+- [Habilidades de colega de trabalho para o Journey Optimizer](https://experienceleague.adobe.com/pt-br/docs/journey-optimizer/using/get-started/ai-features#cx-coworker-skills){target="_blank"}, uma visão geral das habilidades de colega de trabalho no Journey Optimizer.
+- [Mais fluxos de trabalho de chat do colega de trabalho](../workflows.md#loyalty)
