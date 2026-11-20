@@ -6,10 +6,10 @@ description: Saiba mais sobre as ferramentas de IA no CX Enterprise. Melhore o c
 solution: Coworker
 role: Admin,User,Developer,Leader
 auto-video-transcripts: true
-source-git-commit: 69468cabd86925ee6a7f3f86022ffefb26ffa66c
+source-git-commit: e80cad8019c00fdf6bf101f113e9bbef780d5923
 workflow-type: tm+mt
-source-wordcount: '385'
-ht-degree: 12%
+source-wordcount: '389'
+ht-degree: 20%
 ---
 
 # CX Enterprise Coworker {#content}
@@ -62,12 +62,12 @@ ht-degree: 12%
     - Jornadas {#journeys}
       - [Criar uma jornada usando linguagem natural](./chat/use-cases/journeys/create-journey-from-natural-language.md)
       - [Criar uma jornada a partir de uma imagem](./chat/use-cases/journeys/create-journey-from-image.md)
-      - [Simular uma jornada usando o Colaborador](./chat/use-cases/journeys/simulate-journey-using-coworker.md)
+      - [Simular uma jornada usando o Coworker](./chat/use-cases/journeys/simulate-journey-using-coworker.md)
       - [Acelere o engajamento do cliente](./chat/use-cases/journeys/accelerate-personalized-customer-engagement.md)
-      - [Comparar versões do jornada usando o Colaborador](./chat/use-cases/journeys/journey-version-comparison.md)
+      - [Comparar as versões da jornada usando o Coworker](./chat/use-cases/journeys/journey-version-comparison.md)
       - [Criar, simular e analisar jornadas entre canais](./chat/use-cases/journeys/create-simulate-and-analyze-a-cross-channel-journey-with-cx-enterprise-coworker.md)
     - Fidelidade {#loyalty}
-      - [Criar um desafio de fidelidade e insights de superfície](./chat/use-cases/journeys/create-loyalty-challenge.md)
+      - [Crie um desafio de fidelidade e identifique insights](./chat/use-cases/journeys/create-loyalty-challenge.md)
     - Otimização {#optimization}
       - [Iniciar atividades do Target](./chat/use-cases/optimization/target.md)
       - [Acelerar a experimentação](./chat/use-cases/optimization/accelerate-experimentation.md)
@@ -97,6 +97,7 @@ ht-degree: 12%
     - [Gerenciar e iterar em habilidades](./customizations/skills/manage-and-iterate-on-skills.md)
   - Integrações {#integrations}
     - [O que são integrações?](./customizations/integrations/understanding-integrations-in-coworker.md)
+    - [Habilitar a primeira integração](./customizations/integrations/enable-your-first-integration.md)
   - Plug-ins {#plugins}
     - [O que são plug-ins?](./customizations/plugins/what-are-plugins.md)
     - [Gerenciar plug-ins da sua organização](./customizations/plugins/manage-plugins-for-your-org.md)
